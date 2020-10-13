@@ -1,9 +1,11 @@
-# This repository comes from chenyuntc/simple-faster-rcnn-pytorch/ (old version)
 ## 2020.10.13 Update
 Add Pytorch 1.5 support based on old version implementation by chenyuntc.
 
-## Instruction
 
+<br>
+
+
+## Instructions
 
 ## 1. Install dependencies
 
@@ -23,12 +25,12 @@ python -m visdom.server
 ```
 
 
-## 2. Pretrained
+## 2. Pretrained Model
 
-Download torchvision pretrained model from [Baidu Netdisk( passwd: k7eo)](https://pan.baidu.com/s/1UFAT1_I7m1BFfsgUHuo4qw)
+Download torchvision pretrained model from [Baidu Netdisk](https://pan.baidu.com/s/1UFAT1_I7m1BFfsgUHuo4qw)(passwd: k7eo)
 
 
-Move the pretrained model to home/username/.cache/torch/checkpoints/
+Move the pretrained model to `home/username/.cache/torch/checkpoints/` (OS: Ubuntu 20.04)
 
 
 ## 3. Train
