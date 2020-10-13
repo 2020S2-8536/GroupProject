@@ -1,6 +1,4 @@
-# GroupProject - Branch ZichengDuan
-## This Branch belongs to Zicheng Duan  
-<br>
+# GroupProject
 
 #### 13 Oct, 2020
 Upload Faster Rcnn and Pascal VOC Dataset.
