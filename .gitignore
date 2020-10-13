@@ -3,3 +3,7 @@
 
 # ignore the pretrained and saved models
 *.pth
+
+# ignore Pycharm files
+/code/.idea/*
+/code/__pycache__/*
