@@ -1,0 +1,5 @@
+# ignore the datasets
+/code/VOC/*
+
+# ignore the pretrained and saved models
+*.pth
