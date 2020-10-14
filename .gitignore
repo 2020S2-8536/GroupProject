@@ -7,3 +7,6 @@
 # ignore Pycharm files
 /code/.idea/*
 /code/__pycache__/*
+/code/HICO/images/test2015/*
+/code/HICO/images/train2015/*
+/code/HICO/*.mat
