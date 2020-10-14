@@ -7,3 +7,4 @@
 # ignore Pycharm files
 /code/.idea/*
 /code/__pycache__/*
+/code/HICO/*
