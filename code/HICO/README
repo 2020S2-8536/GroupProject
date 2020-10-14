@@ -1,0 +1,30 @@
+Demo
+
+1. cd tools
+
+2. Run demo_visualize.m to see how to visualize bbox annotations.
+
+
+Annotation File
+
+1. anno_bbox.mat contains three variables:
+    a. bbox_train: bounding boxes annotation for the train2015 set
+
+        filename: file names
+        size:     image width, hieght, depth
+        hoi:      HOI annotations
+            id:          action index of list_action
+            bboxhuman:   human bounding boxes
+            bboxobject:  object bounding boxes
+            connection:  instances of HOI (human-object pairs); each row is
+                         one instance, represented by a pair of human bbox
+                         index and object bbox index
+            invis:       1: HOI invisible; bboxhuman/bboxobject/connection
+                            will be empty
+                         0: HOI visible; bboxhuman/bboxobject/connection
+                            will not be empty
+
+    b. bbox_test: bounding boxes annotation for the test2015 set; same 
+                  stucture as bbox_train
+
+    c. list_action: list of HOIs
