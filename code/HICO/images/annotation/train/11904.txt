@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011919.jpg
+640 415 3
+human
+222 489 8 414
+bicycle
+182 634 196 410
+sit_on

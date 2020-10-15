@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006934.jpg
+640 456 3
+human
+133 184 89 138
+dining_table
+162 498 149 374
+sit_at

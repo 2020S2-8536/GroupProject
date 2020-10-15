@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001215.jpg
+640 400 3
+human
+280 346 98 179
+cow
+530 636 156 378
+hold

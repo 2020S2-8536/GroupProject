@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029002.jpg
+640 480 3
+human
+182 246 86 222
+person
+11 546 98 478
+carry

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006873.jpg
+639 479 3
+human
+36 315 1 478
+motorcycle
+5 609 33 397
+sit_on

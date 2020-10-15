@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006538.jpg
+335 500 3
+human
+53 234 8 473
+horse
+19 192 234 496
+feed

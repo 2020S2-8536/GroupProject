@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034960.jpg
+487 500 3
+human
+67 297 132 500
+chair
+7 381 263 495
+stand_on

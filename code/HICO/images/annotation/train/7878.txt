@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007887.jpg
+640 481 3
+human
+374 422 228 305
+train
+26 486 52 425
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034721.jpg
+640 480 3
+human
+46 258 249 450
+bicycle
+1 246 138 350
+ride

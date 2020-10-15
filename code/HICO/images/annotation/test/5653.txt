@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005757.jpg
+640 369 3
+human
+289 391 164 317
+bicycle
+262 462 209 345
+sit_on

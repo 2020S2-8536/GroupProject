@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003813.jpg
+480 640 3
+human
+287 406 203 554
+bus
+236 255 230 299
+board

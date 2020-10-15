@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002940.jpg
+640 366 3
+human
+407 461 146 211
+boat
+118 608 77 247
+sail

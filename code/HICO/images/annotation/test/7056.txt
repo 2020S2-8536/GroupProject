@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007160.jpg
+480 640 3
+human
+102 371 21 555
+chair
+4 407 21 462
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036763.jpg
+640 480 3
+human
+444 562 102 325
+horse
+431 593 140 387
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031934.jpg
+419 640 3
+human
+8 401 198 630
+person
+99 401 242 633
+hug

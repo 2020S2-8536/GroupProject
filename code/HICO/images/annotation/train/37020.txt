@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00037051.jpg
+640 427 3
+human
+257 468 125 365
+train
+5 637 4 426
+sit_on

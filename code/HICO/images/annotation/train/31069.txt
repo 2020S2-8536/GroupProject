@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031098.jpg
+427 640 3
+human
+351 420 309 579
+dog
+74 417 90 592
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036292.jpg
+500 500 3
+human
+48 418 2 496
+bottle
+280 445 119 480
+drink_with

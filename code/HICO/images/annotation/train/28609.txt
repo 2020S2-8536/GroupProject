@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028638.jpg
+640 427 3
+human
+401 444 207 255
+bus
+78 506 142 341
+sit_on

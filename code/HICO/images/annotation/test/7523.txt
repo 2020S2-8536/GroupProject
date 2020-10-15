@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007629.jpg
+640 480 3
+human
+266 627 18 447
+dog
+206 354 286 377
+run

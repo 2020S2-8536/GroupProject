@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000292.jpg
+640 639 3
+human
+3 629 1 211
+sheep
+77 632 178 620
+herd

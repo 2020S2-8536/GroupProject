@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005255.jpg
+519 640 3
+human
+2 512 28 619
+bottle
+339 402 140 259
+open

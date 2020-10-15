@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018667.jpg
+480 640 3
+human
+167 230 316 463
+chair
+148 193 387 442
+hold

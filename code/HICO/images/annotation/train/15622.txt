@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015642.jpg
+333 500 3
+human
+139 215 111 181
+motorcycle
+92 199 107 211
+hop_on

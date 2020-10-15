@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008578.jpg
+640 480 3
+human
+468 600 191 426
+chair
+447 608 222 418
+stand_on

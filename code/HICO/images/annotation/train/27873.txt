@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027902.jpg
+640 557 3
+human
+88 323 65 535
+bicycle
+120 551 243 516
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022375.jpg
+640 478 3
+human
+68 252 80 244
+airplane
+93 637 4 478
+sit_on

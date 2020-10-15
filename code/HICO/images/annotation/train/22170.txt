@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022199.jpg
+640 519 3
+human
+211 506 26 514
+person
+14 277 94 514
+hold

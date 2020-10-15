@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002634.jpg
+500 500 3
+human
+104 209 151 387
+horse
+195 269 277 340
+feed

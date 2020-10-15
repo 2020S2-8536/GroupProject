@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012233.jpg
+640 412 3
+human
+60 93 253 306
+dining_table
+353 393 264 289
+clean

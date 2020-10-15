@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028621.jpg
+640 640 3
+human
+314 384 328 478
+chair
+309 434 344 433
+hold

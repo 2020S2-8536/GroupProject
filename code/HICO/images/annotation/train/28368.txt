@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028397.jpg
+480 640 3
+human
+1 464 306 638
+cat
+111 441 103 638
+hug

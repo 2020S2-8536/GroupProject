@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008357.jpg
+480 640 3
+human
+205 363 234 421
+motorcycle
+39 410 272 483
+sit_on

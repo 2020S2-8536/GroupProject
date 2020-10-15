@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002018.jpg
+640 480 3
+human
+74 420 1 470
+bicycle
+78 421 180 472
+ride

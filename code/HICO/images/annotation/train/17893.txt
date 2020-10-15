@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017915.jpg
+640 425 3
+human
+274 421 253 422
+couch
+62 617 2 331
+lie_on

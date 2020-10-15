@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000111.jpg
+640 427 3
+human
+2 244 2 425
+chair
+311 583 94 227
+carry

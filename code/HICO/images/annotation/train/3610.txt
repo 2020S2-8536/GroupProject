@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003614.jpg
+640 480 3
+human
+522 627 71 362
+couch
+151 618 112 300
+lie_on

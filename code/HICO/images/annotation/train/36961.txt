@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036992.jpg
+640 429 3
+human
+325 342 222 244
+train
+279 366 129 297
+sit_on

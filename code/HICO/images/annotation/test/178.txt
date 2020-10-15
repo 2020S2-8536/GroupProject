@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000179.jpg
+640 499 3
+human
+40 346 158 496
+chair
+27 374 302 495
+stand_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028767.jpg
+640 480 3
+human
+10 274 87 469
+dog
+242 450 177 409
+hug

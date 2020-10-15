@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002684.jpg
+640 360 3
+human
+375 394 252 314
+airplane
+81 610 164 317
+ride

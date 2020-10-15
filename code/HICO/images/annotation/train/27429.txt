@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027458.jpg
+640 512 3
+human
+444 452 244 271
+car
+383 432 444 506
+board

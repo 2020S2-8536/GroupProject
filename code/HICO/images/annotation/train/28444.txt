@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028473.jpg
+427 640 3
+human
+35 423 112 374
+cow
+1 425 1 324
+pet

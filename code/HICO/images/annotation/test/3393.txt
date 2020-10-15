@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003467.jpg
+640 480 3
+human
+1 217 193 474
+chair
+207 575 174 466
+hold

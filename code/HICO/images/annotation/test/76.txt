@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000077.jpg
+427 640 3
+human
+15 416 43 640
+dog
+44 387 189 637
+pet

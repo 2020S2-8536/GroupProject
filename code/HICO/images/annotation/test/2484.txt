@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002540.jpg
+640 425 3
+human
+495 500 173 189
+boat
+1 639 230 422
+stand_on

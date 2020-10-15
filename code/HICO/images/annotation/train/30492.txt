@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030521.jpg
+510 640 3
+human
+65 495 55 628
+cat
+5 250 309 577
+hug

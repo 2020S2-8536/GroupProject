@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002313.jpg
+640 467 3
+human
+527 638 3 467
+boat
+363 414 336 425
+board

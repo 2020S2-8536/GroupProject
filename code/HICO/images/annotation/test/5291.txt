@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005393.jpg
+425 640 3
+human
+127 296 83 404
+horse
+56 336 203 547
+kiss

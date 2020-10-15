@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015344.jpg
+612 612 3
+human
+475 504 246 285
+train
+224 597 163 479
+sit_on

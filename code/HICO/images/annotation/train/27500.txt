@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027529.jpg
+500 465 3
+human
+11 413 4 458
+person
+248 452 177 462
+greet

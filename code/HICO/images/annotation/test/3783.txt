@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003866.jpg
+640 488 3
+human
+494 638 159 423
+chair
+512 635 309 487
+sit_on

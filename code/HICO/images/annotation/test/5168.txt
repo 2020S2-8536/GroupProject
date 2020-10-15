@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005266.jpg
+640 480 3
+human
+346 486 27 406
+chair
+362 530 326 405
+lie_on

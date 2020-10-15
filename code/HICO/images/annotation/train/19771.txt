@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019798.jpg
+426 640 3
+human
+372 423 262 417
+person
+338 396 264 424
+hold

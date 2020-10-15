@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008387.jpg
+640 449 3
+human
+248 483 64 375
+person
+183 408 70 380
+hug

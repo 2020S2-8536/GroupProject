@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036403.jpg
+640 432 3
+human
+188 635 6 425
+cat
+3 524 143 427
+kiss

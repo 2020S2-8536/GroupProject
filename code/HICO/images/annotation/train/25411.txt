@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025440.jpg
+640 480 3
+human
+323 354 265 324
+airplane
+1 638 25 346
+ride

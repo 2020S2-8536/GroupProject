@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035738.jpg
+468 640 3
+human
+282 364 98 327
+train
+72 432 114 464
+sit_on

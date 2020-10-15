@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003486.jpg
+640 427 3
+human
+368 503 32 427
+bicycle
+145 525 227 427
+walk

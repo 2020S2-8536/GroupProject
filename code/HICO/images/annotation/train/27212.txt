@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027241.jpg
+427 640 3
+human
+1 395 15 637
+potted_plant
+239 396 297 472
+hold

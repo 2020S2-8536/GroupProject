@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008003.jpg
+427 640 3
+human
+60 159 163 350
+bicycle
+22 246 230 418
+hop_on

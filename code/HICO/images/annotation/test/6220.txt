@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006324.jpg
+640 480 3
+human
+86 598 6 389
+couch
+34 636 7 432
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007671.jpg
+640 311 3
+human
+562 587 177 217
+boat
+52 112 222 247
+sail

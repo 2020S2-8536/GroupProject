@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003268.jpg
+427 640 3
+human
+6 255 196 595
+dog
+5 95 537 640
+run

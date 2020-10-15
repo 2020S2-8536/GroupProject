@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014047.jpg
+640 440 3
+human
+150 297 169 414
+chair
+129 235 242 408
+stand_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003587.jpg
+640 427 3
+human
+413 448 226 277
+bus
+71 569 67 376
+sit_on

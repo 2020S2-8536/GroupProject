@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028667.jpg
+360 270 3
+human
+3 356 41 268
+cat
+55 343 15 270
+hug

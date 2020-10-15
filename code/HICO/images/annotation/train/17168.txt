@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017190.jpg
+640 400 3
+human
+341 361 193 205
+airplane
+46 495 98 190
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004217.jpg
+640 360 3
+human
+319 354 116 188
+motorcycle
+232 342 162 309
+sit_on

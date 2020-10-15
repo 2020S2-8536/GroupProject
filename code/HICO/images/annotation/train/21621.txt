@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021650.jpg
+640 427 3
+human
+19 597 94 426
+bird
+6 71 64 129
+pet

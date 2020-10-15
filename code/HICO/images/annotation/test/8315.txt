@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008421.jpg
+640 480 3
+human
+146 270 242 410
+bicycle
+202 336 251 386
+ride

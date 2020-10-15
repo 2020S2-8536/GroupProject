@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030527.jpg
+333 500 3
+human
+3 332 34 499
+person
+3 331 113 497
+hug

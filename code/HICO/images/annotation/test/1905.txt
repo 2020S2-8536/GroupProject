@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001950.jpg
+640 473 3
+human
+312 332 182 210
+airplane
+122 592 100 332
+sit_on

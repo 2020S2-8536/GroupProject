@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012818.jpg
+640 533 3
+human
+152 492 22 533
+cow
+384 639 113 532
+ride

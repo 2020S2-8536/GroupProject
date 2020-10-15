@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000207.jpg
+492 640 3
+human
+389 456 349 551
+bus
+45 451 44 540
+sit_on

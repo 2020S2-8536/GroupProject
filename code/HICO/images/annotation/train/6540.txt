@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006549.jpg
+640 480 3
+human
+329 494 223 427
+bicycle
+319 492 338 478
+sit_on

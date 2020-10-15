@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031930.jpg
+640 376 3
+human
+400 638 120 371
+horse
+338 572 34 374
+hug

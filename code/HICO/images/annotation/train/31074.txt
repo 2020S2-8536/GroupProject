@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031103.jpg
+640 427 3
+human
+74 631 21 426
+sheep
+105 460 183 426
+kiss

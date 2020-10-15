@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036171.jpg
+640 466 3
+human
+327 364 165 228
+boat
+245 504 29 319
+drive

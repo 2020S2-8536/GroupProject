@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030595.jpg
+640 360 3
+human
+77 203 63 346
+cow
+213 637 110 353
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009154.jpg
+640 640 3
+human
+150 211 344 560
+bus
+122 497 69 534
+ride

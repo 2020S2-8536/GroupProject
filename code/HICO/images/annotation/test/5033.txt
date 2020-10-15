@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005129.jpg
+640 621 3
+human
+467 585 242 478
+chair
+475 616 225 327
+hold

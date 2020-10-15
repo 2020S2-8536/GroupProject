@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010750.jpg
+281 632 3
+human
+73 252 56 599
+horse
+5 191 178 609
+feed

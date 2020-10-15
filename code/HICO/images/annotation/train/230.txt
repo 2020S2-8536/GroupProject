@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000231.jpg
+640 426 3
+human
+127 317 99 362
+boat
+1 634 260 419
+ride

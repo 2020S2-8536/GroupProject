@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006477.jpg
+640 480 3
+human
+509 595 128 277
+motorcycle
+507 598 178 303
+sit_on

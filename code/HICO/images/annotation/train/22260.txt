@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022289.jpg
+480 640 3
+human
+211 291 1 110
+person
+8 471 89 576
+carry

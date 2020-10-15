@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000957.jpg
+640 555 3
+human
+201 542 286 553
+train
+1 639 3 553
+sit_on

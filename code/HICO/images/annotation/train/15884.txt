@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015904.jpg
+360 480 3
+human
+173 235 96 234
+bus
+275 343 33 316
+board

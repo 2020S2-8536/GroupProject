@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005446.jpg
+547 640 3
+human
+206 329 211 526
+bicycle
+233 364 347 565
+sit_on

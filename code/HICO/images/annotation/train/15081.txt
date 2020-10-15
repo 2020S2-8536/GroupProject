@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015101.jpg
+640 427 3
+human
+207 374 4 198
+bird
+143 226 177 369
+hold

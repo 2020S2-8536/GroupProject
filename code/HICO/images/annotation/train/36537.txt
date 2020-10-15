@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036568.jpg
+480 640 3
+human
+307 477 109 636
+dog
+2 348 160 510
+run

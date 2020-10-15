@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036162.jpg
+624 624 3
+human
+366 390 126 188
+boat
+184 380 78 300
+drive

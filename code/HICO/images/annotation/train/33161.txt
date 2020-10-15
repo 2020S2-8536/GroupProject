@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033190.jpg
+500 500 3
+human
+95 245 213 498
+bicycle
+71 371 329 496
+sit_on

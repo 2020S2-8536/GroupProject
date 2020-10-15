@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001044.jpg
+640 640 3
+human
+235 638 10 633
+couch
+6 636 6 612
+sit_on

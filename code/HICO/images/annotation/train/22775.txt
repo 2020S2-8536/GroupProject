@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022804.jpg
+640 449 3
+human
+414 530 156 357
+horse
+350 604 211 398
+run

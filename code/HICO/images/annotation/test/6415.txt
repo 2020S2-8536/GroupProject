@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006519.jpg
+640 360 3
+human
+372 515 122 286
+motorcycle
+313 574 170 338
+ride

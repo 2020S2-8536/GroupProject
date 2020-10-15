@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036402.jpg
+480 640 3
+human
+102 458 103 602
+cat
+36 218 177 333
+pet

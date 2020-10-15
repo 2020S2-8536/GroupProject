@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003690.jpg
+640 430 3
+human
+278 558 111 421
+person
+125 309 75 416
+greet

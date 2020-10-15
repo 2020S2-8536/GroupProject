@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007891.jpg
+640 480 3
+human
+57 402 4 440
+bicycle
+2 378 52 450
+hold

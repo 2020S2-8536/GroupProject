@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013829.jpg
+640 542 3
+human
+118 493 85 537
+person
+71 486 1 541
+hug

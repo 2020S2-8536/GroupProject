@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002654.jpg
+640 427 3
+human
+159 259 64 148
+bottle
+221 368 123 194
+hold

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021419.jpg
+640 505 3
+human
+222 296 39 193
+person
+22 391 90 363
+carry

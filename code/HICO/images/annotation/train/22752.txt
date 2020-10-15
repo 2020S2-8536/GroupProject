@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022781.jpg
+640 486 3
+human
+461 625 26 309
+bus
+306 402 333 362
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033131.jpg
+640 568 3
+human
+606 636 3 227
+person
+52 613 77 541
+carry

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001287.jpg
+640 425 3
+human
+325 597 48 299
+cow
+196 637 241 421
+hold

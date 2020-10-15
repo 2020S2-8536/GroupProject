@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007868.jpg
+582 640 3
+human
+76 298 39 388
+motorcycle
+12 560 239 599
+sit_on

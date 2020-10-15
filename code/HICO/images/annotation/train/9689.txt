@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009702.jpg
+640 429 3
+human
+495 528 176 216
+train
+2 637 69 402
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008346.jpg
+640 425 3
+human
+193 262 222 368
+bicycle
+48 285 12 180
+hop_on

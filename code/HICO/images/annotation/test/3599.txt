@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003680.jpg
+550 411 3
+human
+33 539 65 409
+person
+327 540 112 406
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000357.jpg
+640 427 3
+human
+138 442 38 307
+chair
+95 400 62 399
+sit_on

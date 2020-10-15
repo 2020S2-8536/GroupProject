@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030803.jpg
+426 640 3
+human
+289 329 197 313
+motorcycle
+221 378 245 353
+hop_on

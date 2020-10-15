@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009258.jpg
+640 427 3
+human
+358 612 98 425
+horse
+247 640 9 424
+hug

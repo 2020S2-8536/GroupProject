@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033646.jpg
+640 497 3
+human
+14 509 50 495
+person
+266 503 94 496
+hug

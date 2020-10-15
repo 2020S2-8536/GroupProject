@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029283.jpg
+527 640 3
+human
+246 459 233 617
+bottle
+254 346 360 515
+open

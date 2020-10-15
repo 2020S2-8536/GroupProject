@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007635.jpg
+640 344 3
+human
+305 409 139 329
+horse
+18 398 62 330
+hug

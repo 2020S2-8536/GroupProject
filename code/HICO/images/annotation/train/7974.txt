@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007983.jpg
+640 476 3
+human
+3 303 4 369
+chair
+250 567 27 379
+carry

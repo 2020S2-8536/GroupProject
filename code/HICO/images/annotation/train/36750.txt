@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036781.jpg
+640 480 3
+human
+174 302 109 326
+horse
+346 609 22 477
+ride

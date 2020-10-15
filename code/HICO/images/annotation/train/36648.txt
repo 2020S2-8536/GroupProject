@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036679.jpg
+480 640 3
+human
+1 151 292 563
+dog
+110 377 4 611
+hold

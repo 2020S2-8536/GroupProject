@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026491.jpg
+640 480 3
+human
+77 94 235 258
+train
+264 289 261 309
+board

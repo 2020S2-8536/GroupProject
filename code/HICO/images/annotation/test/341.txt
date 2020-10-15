@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000342.jpg
+480 640 3
+human
+127 363 136 612
+horse
+86 478 309 638
+run

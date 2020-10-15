@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004087.jpg
+640 480 3
+human
+247 430 102 232
+horse
+26 608 186 443
+ride

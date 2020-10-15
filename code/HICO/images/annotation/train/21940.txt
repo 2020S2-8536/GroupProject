@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021969.jpg
+640 480 3
+human
+202 560 120 478
+chair
+81 245 313 478
+stand_on

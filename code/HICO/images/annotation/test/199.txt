@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000200.jpg
+640 480 3
+human
+352 533 212 446
+sheep
+341 537 310 476
+hug

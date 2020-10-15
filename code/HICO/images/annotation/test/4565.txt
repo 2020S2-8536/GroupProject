@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004653.jpg
+640 480 3
+human
+6 605 5 473
+bottle
+33 190 163 370
+drink_with

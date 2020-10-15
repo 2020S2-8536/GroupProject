@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008550.jpg
+640 427 3
+human
+369 386 209 230
+train
+295 467 158 315
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022710.jpg
+640 527 3
+human
+58 629 54 520
+person
+257 621 21 515
+kiss

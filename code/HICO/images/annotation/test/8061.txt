@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008167.jpg
+600 397 3
+human
+214 360 257 287
+couch
+177 370 281 329
+sit_on

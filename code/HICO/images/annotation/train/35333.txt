@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035364.jpg
+584 640 3
+human
+117 479 63 638
+person
+158 470 208 638
+hug

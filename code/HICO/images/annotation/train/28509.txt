@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028538.jpg
+640 480 3
+human
+150 266 160 364
+cow
+3 434 298 474
+ride

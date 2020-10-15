@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000027.jpg
+640 480 3
+human
+574 635 2 118
+person
+70 559 38 435
+carry

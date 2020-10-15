@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031257.jpg
+640 425 3
+human
+299 467 20 389
+chair
+225 406 72 285
+hold

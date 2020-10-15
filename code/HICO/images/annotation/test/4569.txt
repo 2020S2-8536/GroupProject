@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004657.jpg
+640 464 3
+human
+300 460 163 342
+boat
+3 639 31 460
+ride

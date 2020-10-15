@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035143.jpg
+469 480 3
+human
+148 325 56 268
+horse
+106 409 71 441
+kiss

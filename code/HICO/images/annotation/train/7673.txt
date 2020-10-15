@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007682.jpg
+640 566 3
+human
+52 322 198 500
+person
+50 308 34 563
+hug

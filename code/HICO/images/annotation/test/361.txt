@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000362.jpg
+640 480 3
+human
+21 126 2 196
+dog
+1 637 10 476
+carry

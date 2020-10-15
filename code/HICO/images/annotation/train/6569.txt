@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006578.jpg
+640 604 1
+human
+498 510 276 304
+train
+519 615 268 376
+sit_on

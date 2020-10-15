@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000970.jpg
+640 379 3
+human
+520 545 166 195
+horse
+495 578 182 262
+ride

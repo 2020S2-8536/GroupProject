@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003870.jpg
+640 481 3
+human
+433 544 237 398
+chair
+441 542 281 401
+lie_on

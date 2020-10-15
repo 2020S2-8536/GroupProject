@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025496.jpg
+426 640 3
+human
+110 406 24 612
+chair
+24 263 182 613
+hold

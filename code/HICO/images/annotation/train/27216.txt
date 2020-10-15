@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027245.jpg
+640 480 3
+human
+232 250 196 229
+person
+438 469 222 286
+carry

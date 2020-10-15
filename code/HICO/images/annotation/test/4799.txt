@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004895.jpg
+640 429 3
+human
+209 234 326 359
+boat
+186 311 31 400
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004282.jpg
+640 427 3
+human
+343 437 56 154
+horse
+401 626 119 371
+ride

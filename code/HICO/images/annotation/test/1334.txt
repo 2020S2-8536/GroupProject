@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001364.jpg
+640 638 3
+human
+26 637 142 633
+bottle
+269 518 30 329
+hold

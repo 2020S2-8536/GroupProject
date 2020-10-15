@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006180.jpg
+640 480 3
+human
+204 561 21 444
+bottle
+218 277 185 341
+drink_with

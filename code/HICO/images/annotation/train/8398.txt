@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008407.jpg
+640 433 3
+human
+131 162 266 309
+bus
+90 492 104 405
+sit_on

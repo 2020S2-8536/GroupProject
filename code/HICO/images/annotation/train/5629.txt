@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005638.jpg
+448 299 3
+human
+34 304 25 293
+cow
+151 444 1 297
+pet

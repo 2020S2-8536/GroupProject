@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003410.jpg
+640 425 3
+human
+363 405 217 330
+sheep
+398 429 272 327
+hold

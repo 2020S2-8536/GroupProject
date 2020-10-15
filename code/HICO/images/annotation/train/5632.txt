@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005641.jpg
+624 352 3
+human
+312 405 85 226
+bicycle
+239 421 44 211
+hold

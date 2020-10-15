@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019578.jpg
+640 480 3
+human
+373 430 197 230
+motorcycle
+380 430 216 267
+sit_on

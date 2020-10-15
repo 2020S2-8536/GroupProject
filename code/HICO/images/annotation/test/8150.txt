@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008256.jpg
+612 612 3
+human
+440 553 59 422
+bicycle
+354 486 181 422
+sit_on

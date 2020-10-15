@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006748.jpg
+560 420 3
+human
+134 261 126 285
+dining_table
+122 477 264 412
+sit_at

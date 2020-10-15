@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003968.jpg
+640 609 3
+human
+232 378 65 319
+horse
+1 581 178 588
+hug

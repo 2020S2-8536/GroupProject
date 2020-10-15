@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020634.jpg
+505 640 3
+human
+55 226 130 591
+sheep
+137 336 274 556
+hug

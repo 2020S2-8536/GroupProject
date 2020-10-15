@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008890.jpg
+399 261 3
+human
+220 340 99 244
+horse
+6 321 8 256
+hug

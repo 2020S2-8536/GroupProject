@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033711.jpg
+480 640 3
+human
+2 181 498 637
+chair
+2 449 2 294
+carry

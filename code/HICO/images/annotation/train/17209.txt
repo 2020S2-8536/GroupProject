@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017231.jpg
+555 421 3
+human
+239 400 15 203
+horse
+20 524 59 397
+kiss

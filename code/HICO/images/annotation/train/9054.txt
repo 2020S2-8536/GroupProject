@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009063.jpg
+640 509 1
+human
+118 312 98 449
+chair
+78 230 191 400
+lie_on

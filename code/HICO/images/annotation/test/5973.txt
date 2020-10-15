@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006077.jpg
+640 480 3
+human
+266 366 153 350
+motorcycle
+172 451 252 385
+hop_on

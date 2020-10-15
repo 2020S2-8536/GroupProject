@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003536.jpg
+427 640 3
+human
+327 342 200 255
+dining_table
+181 324 237 296
+sit_at

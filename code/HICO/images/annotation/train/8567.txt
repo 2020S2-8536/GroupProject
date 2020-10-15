@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008576.jpg
+640 480 3
+human
+2 239 2 477
+dog
+62 637 3 477
+pet

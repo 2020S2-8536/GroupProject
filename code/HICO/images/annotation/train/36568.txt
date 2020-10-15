@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036599.jpg
+640 427 3
+human
+2 192 3 301
+dog
+203 511 110 393
+walk

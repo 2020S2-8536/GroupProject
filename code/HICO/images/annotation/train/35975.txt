@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036006.jpg
+640 640 3
+human
+266 278 524 559
+airplane
+52 638 408 598
+ride

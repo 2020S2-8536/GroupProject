@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012017.jpg
+500 552 3
+human
+287 395 199 550
+car
+6 496 15 549
+board

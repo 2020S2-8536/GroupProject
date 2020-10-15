@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036553.jpg
+640 360 3
+human
+291 345 132 204
+dog
+387 494 210 347
+carry

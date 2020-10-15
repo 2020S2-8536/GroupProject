@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003275.jpg
+640 409 3
+human
+382 455 122 313
+couch
+209 432 167 260
+lie_on

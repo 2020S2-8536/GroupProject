@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009003.jpg
+640 394 3
+human
+596 624 63 94
+boat
+564 637 78 102
+stand_on

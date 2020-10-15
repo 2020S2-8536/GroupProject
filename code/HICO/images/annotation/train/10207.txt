@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010220.jpg
+559 640 3
+human
+75 370 34 637
+person
+87 510 45 579
+hug

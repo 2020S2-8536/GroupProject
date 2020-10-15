@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011998.jpg
+383 640 3
+human
+64 229 140 633
+bicycle
+10 132 216 631
+ride

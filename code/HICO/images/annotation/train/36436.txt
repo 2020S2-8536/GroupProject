@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036467.jpg
+480 640 3
+human
+276 419 486 630
+cow
+59 442 285 521
+feed

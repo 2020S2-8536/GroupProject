@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003600.jpg
+640 504 3
+human
+146 212 198 385
+person
+531 594 230 366
+carry

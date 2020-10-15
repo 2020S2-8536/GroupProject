@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006175.jpg
+427 640 3
+human
+7 409 66 638
+chair
+1 420 341 640
+lie_on

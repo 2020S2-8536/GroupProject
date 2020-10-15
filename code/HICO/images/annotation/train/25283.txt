@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025312.jpg
+640 480 3
+human
+91 510 46 479
+person
+2 372 62 479
+hug

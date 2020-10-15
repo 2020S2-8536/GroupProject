@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036410.jpg
+640 335 3
+human
+417 637 45 335
+cat
+146 418 74 292
+hold

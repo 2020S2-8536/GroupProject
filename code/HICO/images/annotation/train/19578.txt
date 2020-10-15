@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019605.jpg
+500 347 3
+human
+368 498 132 341
+dining_table
+11 444 166 342
+sit_at

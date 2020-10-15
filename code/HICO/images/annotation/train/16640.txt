@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016662.jpg
+480 640 3
+human
+280 326 78 212
+bicycle
+277 360 126 216
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015601.jpg
+500 375 3
+human
+276 305 162 201
+airplane
+8 499 68 341
+sit_on

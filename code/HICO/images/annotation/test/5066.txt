@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005162.jpg
+640 480 3
+human
+106 166 58 217
+dining_table
+103 448 241 434
+eat_at

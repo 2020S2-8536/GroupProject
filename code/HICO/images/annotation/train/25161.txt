@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025190.jpg
+640 356 3
+human
+93 102 187 222
+train
+22 626 66 289
+sit_on

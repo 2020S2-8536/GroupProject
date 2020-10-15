@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017099.jpg
+640 612 3
+human
+6 146 345 463
+bus
+133 514 6 537
+drive

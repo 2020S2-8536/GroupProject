@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036739.jpg
+640 427 3
+human
+338 640 2 427
+horse
+58 634 2 423
+race

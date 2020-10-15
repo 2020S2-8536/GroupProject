@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004791.jpg
+640 480 3
+human
+274 378 99 268
+boat
+46 301 222 338
+drive

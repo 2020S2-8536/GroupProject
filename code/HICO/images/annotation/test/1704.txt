@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001742.jpg
+640 480 3
+human
+325 518 179 478
+person
+138 516 118 478
+kiss

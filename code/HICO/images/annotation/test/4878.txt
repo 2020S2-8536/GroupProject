@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004974.jpg
+480 640 3
+human
+48 400 55 637
+bottle
+240 316 163 356
+drink_with

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007370.jpg
+640 480 3
+human
+2 462 1 478
+bird
+178 274 87 190
+hold

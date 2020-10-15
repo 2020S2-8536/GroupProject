@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002155.jpg
+432 640 3
+human
+173 265 211 448
+chair
+178 266 239 382
+hold

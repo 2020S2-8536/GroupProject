@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008815.jpg
+640 480 3
+human
+82 120 126 235
+bicycle
+239 295 164 191
+sit_on

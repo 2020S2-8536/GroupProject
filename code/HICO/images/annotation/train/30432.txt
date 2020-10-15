@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030461.jpg
+640 478 3
+human
+190 433 20 473
+couch
+410 519 46 375
+carry

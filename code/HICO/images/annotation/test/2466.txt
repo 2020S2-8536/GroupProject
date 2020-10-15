@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002522.jpg
+640 480 3
+human
+389 638 162 362
+cat
+217 635 60 475
+hug

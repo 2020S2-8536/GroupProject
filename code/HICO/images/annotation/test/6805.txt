@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006909.jpg
+500 386 3
+human
+349 457 109 303
+horse
+82 358 46 276
+hug

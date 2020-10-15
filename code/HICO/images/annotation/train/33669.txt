@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033698.jpg
+546 640 3
+human
+42 110 318 388
+motorcycle
+23 99 334 461
+hop_on

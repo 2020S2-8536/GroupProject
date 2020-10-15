@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027276.jpg
+320 232 3
+human
+108 175 23 136
+horse
+49 216 40 221
+kiss

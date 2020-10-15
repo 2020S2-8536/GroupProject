@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023888.jpg
+480 640 3
+human
+118 474 30 635
+bird
+4 381 138 444
+hold

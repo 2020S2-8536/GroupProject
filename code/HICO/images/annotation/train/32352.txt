@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032381.jpg
+350 450 3
+human
+47 347 2 447
+person
+3 213 104 411
+hug

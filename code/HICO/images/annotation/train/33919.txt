@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033948.jpg
+640 480 3
+human
+317 417 245 351
+sheep
+383 458 235 329
+hug

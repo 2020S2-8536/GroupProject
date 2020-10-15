@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006061.jpg
+640 480 3
+human
+371 411 101 174
+bus
+30 576 103 419
+sit_on

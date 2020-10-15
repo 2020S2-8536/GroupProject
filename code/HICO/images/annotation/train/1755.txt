@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001756.jpg
+640 427 3
+human
+433 630 58 427
+person
+529 640 68 322
+hug

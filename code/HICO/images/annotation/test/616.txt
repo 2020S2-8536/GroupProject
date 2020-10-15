@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000624.jpg
+427 640 3
+human
+94 390 82 621
+dog
+113 360 288 620
+train

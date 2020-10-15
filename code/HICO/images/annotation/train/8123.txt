@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008132.jpg
+432 288 3
+human
+89 230 72 273
+sheep
+115 268 142 285
+walk

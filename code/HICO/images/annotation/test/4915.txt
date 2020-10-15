@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005011.jpg
+640 480 3
+human
+351 454 90 349
+cow
+3 22 217 298
+hold

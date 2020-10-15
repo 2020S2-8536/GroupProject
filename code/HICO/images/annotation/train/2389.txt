@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002391.jpg
+640 511 3
+human
+331 518 175 364
+boat
+7 639 294 424
+sail

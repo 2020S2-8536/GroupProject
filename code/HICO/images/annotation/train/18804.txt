@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018828.jpg
+640 427 3
+human
+30 171 40 412
+horse
+45 505 19 363
+hold

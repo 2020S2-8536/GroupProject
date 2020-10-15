@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030750.jpg
+473 640 3
+human
+81 337 94 639
+person
+91 381 87 639
+kiss

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011606.jpg
+640 480 3
+human
+242 386 84 470
+person
+348 454 46 478
+hug

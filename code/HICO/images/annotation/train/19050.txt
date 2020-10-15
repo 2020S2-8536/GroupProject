@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019075.jpg
+640 428 3
+human
+261 308 23 112
+car
+2 428 1 130
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029763.jpg
+640 461 3
+human
+42 158 202 460
+motorcycle
+170 216 246 304
+hold

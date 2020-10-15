@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008270.jpg
+640 400 3
+human
+237 335 130 313
+motorcycle
+152 401 177 307
+race

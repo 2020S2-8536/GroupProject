@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000034.jpg
+640 424 3
+human
+335 402 146 195
+car
+26 618 141 323
+ride

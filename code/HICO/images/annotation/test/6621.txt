@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006725.jpg
+640 482 3
+human
+154 163 361 383
+bus
+210 531 19 195
+board

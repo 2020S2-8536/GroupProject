@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008222.jpg
+640 425 3
+human
+8 38 202 256
+dining_table
+265 491 185 424
+clean

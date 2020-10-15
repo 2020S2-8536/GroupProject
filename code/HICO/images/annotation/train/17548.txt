@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017570.jpg
+360 640 3
+human
+78 335 14 588
+bird
+12 122 113 321
+pet

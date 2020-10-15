@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028714.jpg
+640 427 3
+human
+11 572 10 384
+bottle
+25 321 172 309
+hold

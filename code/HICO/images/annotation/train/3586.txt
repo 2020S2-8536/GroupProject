@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003590.jpg
+640 628 3
+human
+9 635 2 623
+cat
+49 564 39 614
+hug

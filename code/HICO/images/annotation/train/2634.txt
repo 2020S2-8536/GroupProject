@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002636.jpg
+305 511 3
+human
+17 138 55 485
+person
+111 300 101 472
+hug

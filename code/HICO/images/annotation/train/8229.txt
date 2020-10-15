@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008238.jpg
+640 426 3
+human
+51 343 20 425
+person
+307 612 26 426
+hold

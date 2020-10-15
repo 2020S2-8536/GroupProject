@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006143.jpg
+622 640 3
+human
+78 433 2 636
+chair
+2 616 20 633
+lie_on

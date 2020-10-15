@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008287.jpg
+640 530 3
+human
+1 14 287 319
+car
+198 555 57 433
+board

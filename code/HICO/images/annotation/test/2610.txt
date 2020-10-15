@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002668.jpg
+640 480 3
+human
+1 239 1 478
+cat
+202 542 2 478
+hold

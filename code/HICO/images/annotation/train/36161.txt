@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036192.jpg
+640 480 3
+human
+93 134 164 282
+boat
+200 639 1 446
+drive

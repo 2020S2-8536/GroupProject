@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001674.jpg
+400 266 3
+human
+60 396 5 259
+cat
+90 332 19 236
+hug

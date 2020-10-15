@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003250.jpg
+382 640 3
+human
+45 183 71 526
+bird
+138 267 271 395
+hold

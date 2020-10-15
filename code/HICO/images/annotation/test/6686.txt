@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006790.jpg
+640 453 3
+human
+110 408 138 398
+chair
+106 252 175 403
+stand_on

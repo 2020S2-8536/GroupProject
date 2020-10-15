@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021585.jpg
+640 480 3
+human
+98 473 7 478
+person
+174 473 75 416
+kiss

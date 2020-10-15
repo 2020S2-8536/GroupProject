@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000254.jpg
+350 233 3
+human
+124 348 24 231
+cat
+47 310 42 194
+feed

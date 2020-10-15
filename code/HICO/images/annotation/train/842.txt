@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000843.jpg
+640 480 3
+human
+1 112 70 360
+person
+273 518 146 295
+carry

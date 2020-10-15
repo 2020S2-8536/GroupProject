@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036722.jpg
+640 480 3
+human
+558 638 1 411
+dog
+345 554 210 304
+hug

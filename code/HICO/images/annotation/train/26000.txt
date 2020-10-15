@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026029.jpg
+400 600 3
+human
+187 243 239 449
+person
+104 334 270 441
+carry

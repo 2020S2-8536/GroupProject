@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000037.jpg
+640 441 3
+human
+244 278 70 89
+bus
+63 443 8 440
+sit_on

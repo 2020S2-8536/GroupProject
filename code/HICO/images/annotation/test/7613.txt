@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007719.jpg
+640 480 3
+human
+250 386 181 270
+couch
+248 583 154 428
+sit_on

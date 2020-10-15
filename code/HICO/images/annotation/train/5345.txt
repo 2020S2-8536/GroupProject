@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005353.jpg
+640 427 3
+human
+352 613 153 396
+tv
+18 358 104 426
+watch

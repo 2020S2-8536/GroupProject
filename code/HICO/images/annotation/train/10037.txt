@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010050.jpg
+640 640 3
+human
+241 327 322 458
+horse
+116 392 341 602
+kiss

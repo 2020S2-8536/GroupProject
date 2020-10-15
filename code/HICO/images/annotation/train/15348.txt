@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015368.jpg
+640 428 3
+human
+238 259 245 271
+airplane
+2 607 82 264
+ride

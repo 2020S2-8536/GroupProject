@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001085.jpg
+443 640 3
+human
+62 266 206 542
+chair
+138 227 463 526
+stand_on

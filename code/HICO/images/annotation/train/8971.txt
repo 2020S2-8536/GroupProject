@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008980.jpg
+500 358 3
+human
+52 377 7 357
+person
+131 491 182 356
+hug

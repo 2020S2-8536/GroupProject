@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031284.jpg
+640 458 3
+human
+101 132 139 274
+boat
+186 635 18 405
+ride

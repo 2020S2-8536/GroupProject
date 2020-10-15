@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013909.jpg
+640 439 3
+human
+536 607 324 439
+airplane
+30 623 85 369
+sit_on

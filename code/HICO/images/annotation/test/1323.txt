@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001351.jpg
+640 480 3
+human
+213 236 242 272
+bus
+29 596 100 413
+sit_on

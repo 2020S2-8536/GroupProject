@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028756.jpg
+640 433 3
+human
+116 442 78 430
+person
+44 201 186 428
+greet

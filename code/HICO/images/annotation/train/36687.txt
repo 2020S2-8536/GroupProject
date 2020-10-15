@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036718.jpg
+544 640 3
+human
+10 178 78 567
+dog
+269 384 438 586
+walk

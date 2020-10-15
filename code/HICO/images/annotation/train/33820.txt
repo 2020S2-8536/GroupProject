@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033849.jpg
+640 433 3
+human
+50 599 42 432
+person
+3 241 134 431
+hug

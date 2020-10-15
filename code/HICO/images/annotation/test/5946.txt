@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006050.jpg
+640 480 3
+human
+327 483 83 226
+dining_table
+1 547 211 478
+sit_at

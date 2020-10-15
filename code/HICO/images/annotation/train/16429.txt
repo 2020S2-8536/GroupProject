@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016450.jpg
+500 333 3
+human
+253 309 93 150
+train
+1 495 4 325
+sit_on

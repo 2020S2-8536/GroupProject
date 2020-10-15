@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006393.jpg
+640 502 3
+human
+71 357 30 499
+bird
+158 386 306 427
+hold

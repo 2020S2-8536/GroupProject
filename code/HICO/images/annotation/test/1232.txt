@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001255.jpg
+640 424 3
+human
+136 484 111 372
+chair
+210 398 119 351
+lie_on

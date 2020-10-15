@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009021.jpg
+640 480 3
+human
+325 370 219 269
+chair
+250 269 318 336
+stand_on

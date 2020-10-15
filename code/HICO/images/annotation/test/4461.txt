@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004547.jpg
+640 480 3
+human
+482 495 234 265
+train
+73 502 173 361
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023550.jpg
+500 375 3
+human
+83 450 13 374
+bottle
+42 326 96 246
+hold

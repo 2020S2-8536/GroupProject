@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009156.jpg
+640 478 3
+human
+170 283 170 445
+horse
+24 552 142 478
+hold

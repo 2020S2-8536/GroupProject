@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031848.jpg
+480 640 3
+human
+150 353 252 458
+tv
+1 172 198 386
+watch

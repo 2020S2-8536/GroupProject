@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007559.jpg
+640 579 3
+human
+1 635 4 370
+dog
+232 554 118 513
+feed

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036645.jpg
+640 443 3
+human
+10 328 124 391
+dog
+108 287 248 356
+train

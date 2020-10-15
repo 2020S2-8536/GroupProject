@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004175.jpg
+640 426 3
+human
+461 597 48 263
+motorcycle
+215 523 86 409
+sit_on

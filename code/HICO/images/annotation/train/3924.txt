@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003928.jpg
+640 428 3
+human
+296 334 88 141
+airplane
+117 584 82 271
+sit_on

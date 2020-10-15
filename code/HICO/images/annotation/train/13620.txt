@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013636.jpg
+640 382 3
+human
+338 399 99 268
+horse
+241 348 133 369
+train

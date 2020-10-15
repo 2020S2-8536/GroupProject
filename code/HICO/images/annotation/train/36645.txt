@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036676.jpg
+640 426 3
+human
+30 467 11 422
+dog
+88 472 290 421
+kiss

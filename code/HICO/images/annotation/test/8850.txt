@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008956.jpg
+621 640 3
+human
+249 412 42 264
+horse
+57 545 218 623
+hug

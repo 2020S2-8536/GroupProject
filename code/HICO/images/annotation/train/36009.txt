@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036040.jpg
+640 480 3
+human
+270 330 184 394
+airplane
+1 637 20 304
+ride

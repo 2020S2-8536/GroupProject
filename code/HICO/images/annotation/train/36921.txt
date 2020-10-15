@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036952.jpg
+640 427 3
+human
+562 592 157 239
+train
+410 472 162 212
+board

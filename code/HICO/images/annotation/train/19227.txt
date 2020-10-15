@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019253.jpg
+460 640 3
+human
+186 365 206 608
+dining_table
+63 166 316 461
+clean

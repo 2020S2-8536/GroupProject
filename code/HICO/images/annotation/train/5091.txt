@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005099.jpg
+640 428 3
+human
+22 41 244 271
+bicycle
+42 627 78 296
+carry

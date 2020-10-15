@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036977.jpg
+640 481 3
+human
+54 571 105 480
+train
+446 469 222 253
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024667.jpg
+427 640 3
+human
+244 415 92 592
+person
+120 300 69 607
+hug

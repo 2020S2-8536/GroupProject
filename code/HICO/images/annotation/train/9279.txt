@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009290.jpg
+640 425 3
+human
+267 436 102 373
+motorcycle
+182 519 180 378
+walk

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000362.jpg
+640 428 3
+human
+238 415 54 406
+horse
+292 504 70 428
+hold

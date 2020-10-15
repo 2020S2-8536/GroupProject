@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003066.jpg
+640 480 3
+human
+63 558 142 478
+person
+253 498 128 476
+hug

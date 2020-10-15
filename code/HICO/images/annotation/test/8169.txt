@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008275.jpg
+560 421 3
+human
+191 233 238 350
+bus
+54 473 101 373
+sit_on

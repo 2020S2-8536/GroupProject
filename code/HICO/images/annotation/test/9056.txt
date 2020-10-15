@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009166.jpg
+540 493 3
+human
+2 537 71 455
+cat
+75 483 72 444
+hug

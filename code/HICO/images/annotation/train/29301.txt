@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029330.jpg
+424 640 3
+human
+158 246 339 444
+boat
+101 280 273 557
+ride

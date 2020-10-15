@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036437.jpg
+640 361 3
+human
+44 82 114 146
+couch
+38 202 157 260
+carry

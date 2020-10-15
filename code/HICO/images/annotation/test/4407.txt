@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004493.jpg
+640 428 3
+human
+335 457 29 254
+motorcycle
+178 534 140 349
+hop_on

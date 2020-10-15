@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003954.jpg
+640 480 3
+human
+198 285 227 306
+boat
+183 297 273 319
+stand_on

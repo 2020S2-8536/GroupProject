@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021902.jpg
+569 640 3
+human
+354 438 232 527
+train
+4 522 24 577
+sit_on

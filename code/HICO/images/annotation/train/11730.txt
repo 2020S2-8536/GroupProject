@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011744.jpg
+612 612 3
+human
+288 522 124 611
+horse
+1 607 298 610
+hug

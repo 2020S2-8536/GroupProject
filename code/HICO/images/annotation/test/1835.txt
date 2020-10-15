@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001877.jpg
+640 427 3
+human
+213 338 147 301
+bottle
+227 304 287 423
+drink_with

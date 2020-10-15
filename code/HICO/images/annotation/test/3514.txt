@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003591.jpg
+640 455 3
+human
+7 142 334 434
+boat
+33 565 62 422
+drive

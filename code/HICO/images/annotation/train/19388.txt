@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019415.jpg
+478 640 3
+human
+329 414 246 505
+boat
+38 350 200 445
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002939.jpg
+640 570 3
+human
+13 175 141 408
+motorcycle
+102 635 177 567
+race

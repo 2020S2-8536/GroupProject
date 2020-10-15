@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000115.jpg
+640 593 3
+human
+182 477 29 573
+motorcycle
+50 581 163 587
+ride

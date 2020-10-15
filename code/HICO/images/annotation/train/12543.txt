@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012559.jpg
+640 480 3
+human
+395 409 324 339
+sheep
+262 298 181 218
+carry

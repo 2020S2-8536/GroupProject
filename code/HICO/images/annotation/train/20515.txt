@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020543.jpg
+512 384 3
+human
+501 509 76 110
+motorcycle
+486 507 96 173
+sit_on

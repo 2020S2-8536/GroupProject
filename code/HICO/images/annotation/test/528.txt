@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000532.jpg
+640 484 3
+human
+612 634 18 250
+person
+5 634 50 477
+carry

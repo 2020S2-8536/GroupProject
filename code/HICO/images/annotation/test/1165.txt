@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001185.jpg
+640 428 3
+human
+149 332 18 317
+sheep
+384 586 197 356
+hug

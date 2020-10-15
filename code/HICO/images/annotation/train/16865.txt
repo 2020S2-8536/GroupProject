@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016887.jpg
+640 427 3
+human
+343 638 63 420
+cow
+4 436 2 415
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003262.jpg
+640 428 3
+human
+306 393 72 295
+horse
+202 508 124 376
+run

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022099.jpg
+640 426 3
+human
+12 36 133 168
+motorcycle
+103 636 15 406
+hold

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035916.jpg
+640 480 3
+human
+1 222 2 270
+bird
+108 262 118 386
+hold

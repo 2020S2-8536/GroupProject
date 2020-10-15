@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013515.jpg
+640 480 3
+human
+542 614 332 471
+train
+8 171 291 361
+board

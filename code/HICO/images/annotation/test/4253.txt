@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004339.jpg
+623 615 3
+human
+310 515 64 557
+bicycle
+236 485 264 569
+walk

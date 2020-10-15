@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035622.jpg
+588 640 3
+human
+121 413 186 617
+horse
+1 462 160 582
+hug

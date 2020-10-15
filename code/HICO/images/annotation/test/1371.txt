@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001403.jpg
+410 328 3
+human
+178 278 23 157
+horse
+56 364 58 310
+hug

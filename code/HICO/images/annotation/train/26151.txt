@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026180.jpg
+559 640 3
+human
+3 555 377 638
+bird
+132 472 81 511
+pet

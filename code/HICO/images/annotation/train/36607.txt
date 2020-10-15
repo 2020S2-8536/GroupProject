@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036638.jpg
+640 478 3
+human
+475 637 3 140
+horse
+97 505 30 465
+feed

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001438.jpg
+424 640 3
+human
+209 322 94 414
+horse
+80 423 178 421
+hug

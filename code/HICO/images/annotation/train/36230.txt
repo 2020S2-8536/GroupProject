@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036261.jpg
+480 640 3
+human
+1 356 290 640
+bottle
+175 343 10 633
+drink_with

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009708.jpg
+600 450 3
+human
+259 358 148 300
+bird
+389 467 118 168
+feed

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013327.jpg
+640 427 3
+human
+209 372 155 377
+car
+76 596 125 373
+ride

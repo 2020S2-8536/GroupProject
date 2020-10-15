@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002536.jpg
+640 480 3
+human
+295 638 13 476
+cow
+1 454 267 476
+ride

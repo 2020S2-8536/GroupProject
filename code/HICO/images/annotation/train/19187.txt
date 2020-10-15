@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019213.jpg
+640 640 3
+human
+74 558 89 634
+person
+104 578 52 633
+hug

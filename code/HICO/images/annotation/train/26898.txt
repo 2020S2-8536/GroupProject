@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026927.jpg
+640 272 3
+human
+471 537 55 200
+cow
+344 384 112 126
+hold

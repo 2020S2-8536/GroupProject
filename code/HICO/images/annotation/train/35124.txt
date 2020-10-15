@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035155.jpg
+640 427 3
+human
+179 259 25 299
+horse
+2 390 62 407
+run

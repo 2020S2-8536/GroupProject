@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036622.jpg
+444 640 3
+human
+302 383 416 634
+horse
+214 286 402 456
+feed

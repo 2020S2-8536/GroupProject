@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033573.jpg
+640 480 3
+human
+314 416 109 477
+person
+92 324 233 478
+carry

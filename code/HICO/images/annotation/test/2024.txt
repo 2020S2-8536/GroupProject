@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002072.jpg
+640 480 3
+human
+102 114 119 134
+person
+1 86 197 286
+carry

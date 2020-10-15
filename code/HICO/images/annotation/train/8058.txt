@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008067.jpg
+640 427 3
+human
+175 574 138 421
+person
+300 544 35 421
+kiss

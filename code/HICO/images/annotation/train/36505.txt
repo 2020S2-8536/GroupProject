@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036536.jpg
+640 435 3
+human
+1 322 1 434
+dining_table
+47 638 251 434
+eat_at

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032627.jpg
+640 427 3
+human
+47 413 42 426
+person
+88 352 113 423
+hold

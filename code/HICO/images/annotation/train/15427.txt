@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015447.jpg
+428 640 3
+human
+15 190 141 540
+cow
+117 369 156 603
+hug

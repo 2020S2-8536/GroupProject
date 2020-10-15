@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006853.jpg
+640 427 3
+human
+232 244 347 360
+boat
+168 411 152 413
+sit_on

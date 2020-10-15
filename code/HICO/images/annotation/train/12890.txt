@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012906.jpg
+640 427 3
+human
+290 415 1 137
+dog
+58 523 94 399
+hug

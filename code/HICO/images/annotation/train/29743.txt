@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029772.jpg
+640 427 3
+human
+178 258 78 170
+motorcycle
+217 344 81 170
+ride

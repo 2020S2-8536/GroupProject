@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002200.jpg
+640 592 3
+human
+34 212 154 587
+dining_table
+51 510 314 578
+sit_at

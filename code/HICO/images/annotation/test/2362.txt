@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002412.jpg
+640 480 3
+human
+23 92 107 203
+boat
+590 622 125 174
+board

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007947.jpg
+612 612 3
+human
+2 604 96 605
+bottle
+204 597 204 465
+hold

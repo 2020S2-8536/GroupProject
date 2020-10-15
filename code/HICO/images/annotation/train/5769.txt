@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005778.jpg
+640 480 3
+human
+1 228 119 476
+person
+91 399 107 475
+hug

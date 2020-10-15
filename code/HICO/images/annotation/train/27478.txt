@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027507.jpg
+490 640 3
+human
+73 487 101 636
+person
+169 488 144 638
+hug

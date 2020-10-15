@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007706.jpg
+427 640 3
+human
+16 375 1 616
+dog
+28 423 27 638
+feed

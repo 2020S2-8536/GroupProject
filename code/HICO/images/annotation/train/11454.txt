@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011468.jpg
+640 427 3
+human
+373 453 124 427
+couch
+9 536 42 335
+lie_on

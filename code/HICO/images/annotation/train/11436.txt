@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011450.jpg
+640 478 3
+human
+5 455 135 472
+cow
+260 637 1 469
+pet

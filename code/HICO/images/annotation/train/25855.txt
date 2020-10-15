@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025884.jpg
+640 480 3
+human
+291 328 231 256
+couch
+315 451 230 414
+lie_on

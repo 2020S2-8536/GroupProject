@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025873.jpg
+640 480 3
+human
+201 636 111 470
+dog
+4 334 179 476
+pet

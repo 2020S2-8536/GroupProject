@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007253.jpg
+640 480 3
+human
+440 513 94 162
+sheep
+316 411 206 286
+hold

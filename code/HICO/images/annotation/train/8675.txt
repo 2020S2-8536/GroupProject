@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008684.jpg
+596 640 3
+human
+3 253 141 637
+person
+172 447 246 639
+hug

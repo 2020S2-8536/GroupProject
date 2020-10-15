@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036312.jpg
+640 428 3
+human
+43 630 2 422
+bottle
+118 434 92 270
+drink_with

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005790.jpg
+467 640 3
+human
+100 167 216 294
+train
+89 438 165 533
+sit_on

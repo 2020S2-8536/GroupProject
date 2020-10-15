@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020795.jpg
+640 435 3
+human
+252 350 233 357
+cow
+210 487 186 368
+pet

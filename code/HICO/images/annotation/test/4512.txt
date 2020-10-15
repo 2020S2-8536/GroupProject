@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004598.jpg
+640 480 3
+human
+370 525 154 372
+cow
+234 411 98 282
+ride

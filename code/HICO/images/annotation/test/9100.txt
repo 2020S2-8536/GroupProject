@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009210.jpg
+640 406 3
+human
+125 442 3 360
+dog
+39 595 12 396
+run

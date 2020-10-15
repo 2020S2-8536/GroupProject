@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023827.jpg
+640 460 3
+human
+31 203 192 456
+cow
+90 622 126 454
+pet

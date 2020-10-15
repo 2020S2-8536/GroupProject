@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001050.jpg
+640 466 3
+human
+252 593 39 465
+bus
+4 338 2 465
+board

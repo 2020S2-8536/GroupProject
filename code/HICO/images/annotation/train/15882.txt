@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015902.jpg
+517 640 3
+human
+160 429 188 639
+person
+199 429 254 639
+hug

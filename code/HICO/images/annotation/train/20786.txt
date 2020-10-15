@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020814.jpg
+640 427 3
+human
+124 328 116 328
+person
+207 327 141 335
+kiss

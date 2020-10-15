@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001961.jpg
+640 481 3
+human
+216 352 118 349
+horse
+418 512 142 214
+feed

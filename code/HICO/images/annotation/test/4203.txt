@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004289.jpg
+426 640 3
+human
+109 281 112 278
+horse
+68 322 164 400
+hug

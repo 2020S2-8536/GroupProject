@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002645.jpg
+606 640 3
+human
+226 321 278 366
+boat
+208 483 256 467
+stand_on

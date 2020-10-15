@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005774.jpg
+640 480 3
+human
+457 516 222 274
+boat
+99 619 186 297
+sail

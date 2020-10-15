@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007484.jpg
+640 479 3
+human
+1 94 33 382
+bicycle
+2 181 196 396
+sit_on

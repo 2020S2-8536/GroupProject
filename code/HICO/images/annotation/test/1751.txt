@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001791.jpg
+640 428 3
+human
+267 631 43 423
+sheep
+159 637 234 424
+hug

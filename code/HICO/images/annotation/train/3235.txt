@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003238.jpg
+640 420 3
+human
+159 635 2 419
+dog
+1 403 3 363
+pet

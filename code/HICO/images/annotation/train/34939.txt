@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034970.jpg
+495 640 3
+human
+12 483 3 637
+person
+230 490 35 630
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005919.jpg
+427 640 3
+human
+6 413 137 637
+person
+57 426 54 632
+greet

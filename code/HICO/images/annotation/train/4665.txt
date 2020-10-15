@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004671.jpg
+640 480 3
+human
+361 392 211 305
+airplane
+84 629 87 370
+ride

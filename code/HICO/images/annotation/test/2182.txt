@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002230.jpg
+640 426 3
+human
+223 374 36 333
+bicycle
+117 426 112 423
+hop_on

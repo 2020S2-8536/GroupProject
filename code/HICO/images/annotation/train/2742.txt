@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002744.jpg
+640 512 3
+human
+321 482 29 345
+horse
+160 529 27 442
+pet

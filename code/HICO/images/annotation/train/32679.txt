@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032708.jpg
+424 640 3
+human
+67 369 92 468
+bicycle
+4 411 196 627
+walk

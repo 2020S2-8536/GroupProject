@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036170.jpg
+640 383 3
+human
+295 376 155 319
+boat
+1 315 147 382
+drive

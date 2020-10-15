@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016868.jpg
+640 480 3
+human
+254 371 68 303
+horse
+138 588 148 438
+kiss

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014350.jpg
+480 640 3
+human
+386 410 444 503
+cow
+372 464 521 615
+feed

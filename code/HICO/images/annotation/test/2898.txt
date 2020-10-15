@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002963.jpg
+640 312 3
+human
+239 304 30 187
+horse
+208 349 74 264
+run

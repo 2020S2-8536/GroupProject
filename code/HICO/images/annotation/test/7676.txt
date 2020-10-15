@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007782.jpg
+640 480 3
+human
+1 172 170 478
+chair
+2 173 210 478
+lie_on

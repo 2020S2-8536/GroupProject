@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009447.jpg
+640 600 3
+human
+10 636 44 598
+person
+21 475 81 598
+hug

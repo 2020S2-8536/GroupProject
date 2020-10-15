@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031117.jpg
+640 359 3
+human
+411 453 4 46
+person
+30 634 33 291
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001165.jpg
+484 640 3
+human
+3 430 282 616
+cat
+220 475 110 609
+hold

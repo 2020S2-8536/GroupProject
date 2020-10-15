@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026568.jpg
+428 640 3
+human
+174 425 311 617
+person
+2 266 321 620
+hug

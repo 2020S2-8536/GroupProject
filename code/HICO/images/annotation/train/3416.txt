@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003419.jpg
+640 427 3
+human
+58 503 2 423
+person
+431 639 183 424
+greet

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017753.jpg
+640 260 3
+human
+250 283 80 110
+airplane
+30 622 56 218
+sit_on

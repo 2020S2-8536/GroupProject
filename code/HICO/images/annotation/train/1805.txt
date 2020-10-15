@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001806.jpg
+239 300 3
+human
+10 180 149 300
+horse
+50 237 18 261
+race

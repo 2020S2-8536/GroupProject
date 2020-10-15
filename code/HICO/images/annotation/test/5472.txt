@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005574.jpg
+640 480 3
+human
+230 520 86 305
+couch
+220 634 113 405
+sit_on

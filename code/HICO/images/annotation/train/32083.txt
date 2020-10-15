@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032112.jpg
+480 640 3
+human
+102 332 247 638
+person
+106 358 277 638
+kiss

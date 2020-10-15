@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019319.jpg
+640 480 3
+human
+117 142 127 178
+motorcycle
+103 305 102 480
+hold

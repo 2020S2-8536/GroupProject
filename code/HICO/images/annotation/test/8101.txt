@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008207.jpg
+427 640 3
+human
+6 387 65 548
+chair
+40 327 211 616
+stand_on

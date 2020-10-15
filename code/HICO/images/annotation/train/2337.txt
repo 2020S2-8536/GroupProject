@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002338.jpg
+640 480 3
+human
+49 134 134 259
+bicycle
+556 627 251 360
+sit_on

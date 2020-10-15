@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025698.jpg
+640 396 3
+human
+82 619 35 356
+couch
+3 638 61 388
+sit_on

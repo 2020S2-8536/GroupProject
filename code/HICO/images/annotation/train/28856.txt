@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028885.jpg
+640 427 3
+human
+256 301 200 244
+dining_table
+220 424 241 296
+sit_at

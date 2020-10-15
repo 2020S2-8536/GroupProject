@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004260.jpg
+640 626 3
+human
+217 347 73 270
+horse
+30 541 104 523
+kiss

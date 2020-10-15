@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004899.jpg
+640 426 3
+human
+276 541 3 168
+bird
+97 412 69 367
+feed

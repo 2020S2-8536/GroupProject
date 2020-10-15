@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024511.jpg
+625 640 3
+human
+451 498 338 440
+train
+6 618 7 635
+sit_on

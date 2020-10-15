@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021283.jpg
+640 480 3
+human
+190 215 203 232
+couch
+94 630 189 325
+carry

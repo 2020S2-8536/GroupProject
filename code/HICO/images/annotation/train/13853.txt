@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013872.jpg
+640 578 3
+human
+138 404 423 576
+chair
+82 409 123 449
+hold

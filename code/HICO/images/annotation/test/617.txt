@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000625.jpg
+458 640 3
+human
+102 325 31 460
+bicycle
+137 359 227 553
+sit_on

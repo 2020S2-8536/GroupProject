@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000697.jpg
+640 428 3
+human
+109 131 50 74
+person
+106 537 7 412
+carry

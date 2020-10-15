@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023044.jpg
+423 283 3
+human
+64 421 40 282
+person
+122 419 2 280
+hug

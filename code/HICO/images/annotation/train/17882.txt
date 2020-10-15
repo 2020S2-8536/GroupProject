@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017904.jpg
+480 640 3
+human
+182 313 221 534
+airplane
+1 430 111 566
+ride

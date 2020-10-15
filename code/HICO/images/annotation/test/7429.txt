@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007535.jpg
+640 479 3
+human
+282 310 164 214
+bus
+169 519 106 334
+sit_on

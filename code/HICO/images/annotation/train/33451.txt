@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033480.jpg
+640 423 3
+human
+10 50 174 303
+person
+344 436 201 346
+carry

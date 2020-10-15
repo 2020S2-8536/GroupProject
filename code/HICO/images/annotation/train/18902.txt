@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018926.jpg
+502 640 1
+human
+132 279 168 591
+bicycle
+34 488 47 509
+carry

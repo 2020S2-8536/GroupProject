@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024974.jpg
+640 485 3
+human
+43 613 53 485
+person
+32 546 36 466
+hug

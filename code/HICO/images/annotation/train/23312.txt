@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023341.jpg
+449 640 3
+human
+166 338 92 599
+person
+258 439 41 625
+hug

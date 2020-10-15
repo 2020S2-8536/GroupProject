@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000364.jpg
+480 640 3
+human
+144 198 343 414
+bus
+55 470 254 591
+sit_on

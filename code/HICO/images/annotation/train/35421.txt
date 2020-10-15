@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035452.jpg
+375 500 3
+human
+77 268 232 347
+couch
+67 372 203 492
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006327.jpg
+375 500 3
+human
+196 222 265 333
+bus
+13 363 3 496
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004602.jpg
+640 428 3
+human
+172 616 83 424
+chair
+374 638 207 428
+stand_on

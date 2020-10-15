@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024563.jpg
+640 480 3
+human
+293 420 83 383
+horse
+2 366 4 478
+hold

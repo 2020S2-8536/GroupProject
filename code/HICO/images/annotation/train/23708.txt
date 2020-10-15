@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023737.jpg
+640 480 3
+human
+218 310 210 462
+chair
+255 394 226 365
+hold

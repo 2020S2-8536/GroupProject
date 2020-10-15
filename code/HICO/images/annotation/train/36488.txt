@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036519.jpg
+640 427 3
+human
+492 506 5 61
+dog
+27 618 151 408
+carry

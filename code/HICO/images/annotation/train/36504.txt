@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036535.jpg
+480 640 3
+human
+427 450 214 251
+dog
+368 450 252 264
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006209.jpg
+640 428 3
+human
+324 393 103 308
+train
+10 579 42 409
+sit_on

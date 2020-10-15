@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005036.jpg
+640 433 3
+human
+332 426 41 261
+horse
+266 538 71 391
+hug

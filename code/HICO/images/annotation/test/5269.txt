@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005371.jpg
+640 370 3
+human
+371 508 50 161
+horse
+272 600 78 339
+hug

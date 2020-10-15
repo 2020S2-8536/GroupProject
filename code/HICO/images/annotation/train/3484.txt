@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003488.jpg
+640 467 3
+human
+186 476 193 466
+person
+303 523 197 466
+kiss

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000648.jpg
+640 426 3
+human
+473 574 132 327
+bicycle
+400 607 202 332
+sit_on

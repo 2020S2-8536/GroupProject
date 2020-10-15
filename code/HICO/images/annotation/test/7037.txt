@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007141.jpg
+640 480 3
+human
+402 506 99 314
+bird
+465 510 300 345
+feed

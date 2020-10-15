@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003749.jpg
+640 497 3
+human
+318 334 215 232
+airplane
+59 603 37 435
+sit_on

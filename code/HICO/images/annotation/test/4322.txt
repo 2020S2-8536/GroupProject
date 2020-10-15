@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004408.jpg
+480 640 3
+human
+144 198 212 298
+bus
+14 469 103 458
+sit_on

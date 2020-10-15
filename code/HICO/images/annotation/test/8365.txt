@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008471.jpg
+525 640 3
+human
+466 497 248 277
+bus
+429 517 143 488
+sit_on

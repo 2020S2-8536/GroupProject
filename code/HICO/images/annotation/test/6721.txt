@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006825.jpg
+465 640 3
+human
+353 368 288 297
+boat
+295 312 288 295
+sail

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005521.jpg
+640 583 3
+human
+205 362 186 508
+horse
+4 514 274 582
+hug

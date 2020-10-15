@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036637.jpg
+640 361 3
+human
+114 354 105 319
+dog
+24 622 133 326
+run

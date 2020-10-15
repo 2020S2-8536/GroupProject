@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008803.jpg
+550 640 3
+human
+189 549 130 377
+cow
+35 546 222 586
+hug

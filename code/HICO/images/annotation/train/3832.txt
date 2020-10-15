@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003836.jpg
+480 640 3
+human
+90 407 34 637
+cat
+94 307 198 434
+hug

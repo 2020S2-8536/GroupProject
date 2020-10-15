@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036963.jpg
+426 640 3
+human
+247 327 308 475
+train
+199 273 458 497
+board

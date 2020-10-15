@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014033.jpg
+296 238 3
+human
+55 238 30 193
+person
+135 252 47 194
+hug

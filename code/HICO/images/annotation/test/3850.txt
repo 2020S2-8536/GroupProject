@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003933.jpg
+640 428 3
+human
+233 638 8 322
+couch
+3 635 2 425
+sit_on

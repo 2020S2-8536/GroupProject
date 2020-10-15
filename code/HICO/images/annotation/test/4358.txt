@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004444.jpg
+640 406 3
+human
+576 608 252 321
+dining_table
+291 333 325 349
+clean

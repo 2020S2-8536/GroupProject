@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036068.jpg
+640 427 3
+human
+279 387 40 240
+bicycle
+216 591 143 392
+ride

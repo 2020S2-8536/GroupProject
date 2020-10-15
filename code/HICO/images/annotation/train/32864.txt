@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032893.jpg
+640 480 3
+human
+60 546 135 362
+couch
+2 588 74 477
+sit_on

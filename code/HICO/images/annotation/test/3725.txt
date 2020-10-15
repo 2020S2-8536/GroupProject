@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003808.jpg
+640 640 3
+human
+55 282 23 474
+bicycle
+68 272 201 570
+sit_on

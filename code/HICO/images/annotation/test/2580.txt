@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002638.jpg
+640 360 3
+human
+152 225 154 314
+couch
+233 277 208 290
+carry

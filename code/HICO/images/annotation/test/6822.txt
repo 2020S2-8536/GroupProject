@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006926.jpg
+640 480 3
+human
+270 390 65 185
+car
+1 639 1 468
+ride

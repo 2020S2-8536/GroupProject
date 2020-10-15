@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002193.jpg
+512 640 1
+human
+35 344 252 630
+person
+6 217 182 638
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004352.jpg
+500 333 3
+human
+44 223 51 331
+horse
+83 496 31 330
+hug

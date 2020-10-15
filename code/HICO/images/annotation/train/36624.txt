@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036655.jpg
+640 640 3
+human
+151 631 6 627
+dog
+2 513 63 633
+pet

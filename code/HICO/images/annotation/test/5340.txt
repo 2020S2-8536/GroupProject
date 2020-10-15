@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005442.jpg
+427 640 3
+human
+54 189 353 497
+boat
+68 323 32 501
+ride

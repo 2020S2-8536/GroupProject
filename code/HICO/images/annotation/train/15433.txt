@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015453.jpg
+640 478 3
+human
+225 628 2 400
+dog
+164 439 2 477
+hug

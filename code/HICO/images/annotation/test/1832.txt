@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001874.jpg
+541 599 3
+human
+90 537 16 590
+bottle
+7 297 82 207
+hold

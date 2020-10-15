@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004244.jpg
+640 435 3
+human
+35 289 105 424
+person
+24 320 144 431
+kiss

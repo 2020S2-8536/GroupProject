@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001572.jpg
+480 343 3
+human
+153 468 6 324
+chair
+96 172 220 320
+stand_on

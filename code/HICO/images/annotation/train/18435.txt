@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018458.jpg
+480 640 3
+human
+3 370 1 637
+person
+226 479 65 614
+hug

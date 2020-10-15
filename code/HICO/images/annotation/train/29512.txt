@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029541.jpg
+640 333 3
+human
+139 193 51 142
+cow
+273 594 186 321
+feed

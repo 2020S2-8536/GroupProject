@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023324.jpg
+640 427 3
+human
+201 338 52 228
+horse
+75 602 81 375
+ride

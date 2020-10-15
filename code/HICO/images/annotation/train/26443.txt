@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026472.jpg
+640 446 3
+human
+233 322 144 287
+bird
+317 351 269 302
+hold

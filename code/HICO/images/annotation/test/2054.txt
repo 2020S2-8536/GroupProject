@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002102.jpg
+640 427 3
+human
+199 275 98 278
+bicycle
+349 450 179 339
+sit_on

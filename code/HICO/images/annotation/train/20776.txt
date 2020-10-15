@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020804.jpg
+387 262 3
+human
+229 281 116 251
+car
+56 361 26 218
+board

@@ -6,7 +6,7 @@ import numpy as np
 from .util import read_image
 
 
-class VOCBboxDataset:
+class HICODataset:
     """Bounding box dataset for PASCAL `VOC`_.
 
     .. _`VOC`: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
@@ -62,7 +62,7 @@ class VOCBboxDataset:
 
     """
 
-    def __init__(self, data_dir, split='trainval',
+    def __init__(self, data_dir, split='filenames_train', # default split name: HICO train
                  use_difficult=False, return_difficult=False,
                  ):
 

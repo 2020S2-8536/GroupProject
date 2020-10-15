@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012383.jpg
+640 480 3
+human
+266 383 136 445
+airplane
+1 638 2 466
+ride

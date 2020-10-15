@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006675.jpg
+480 640 3
+human
+360 479 235 473
+dining_table
+30 342 315 431
+sit_at

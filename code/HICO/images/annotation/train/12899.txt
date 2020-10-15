@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012915.jpg
+500 333 3
+human
+58 488 31 328
+person
+254 484 132 324
+hug

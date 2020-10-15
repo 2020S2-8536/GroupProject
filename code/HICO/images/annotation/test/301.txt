@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000302.jpg
+640 426 3
+human
+216 332 83 246
+motorcycle
+188 428 123 318
+hop_on

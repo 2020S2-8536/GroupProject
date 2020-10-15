@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025225.jpg
+604 453 3
+human
+4 324 113 451
+person
+255 600 49 451
+hug

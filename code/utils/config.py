@@ -7,9 +7,9 @@ from pprint import pprint
 
 class Config:
     # data
-    voc_data_dir = '/home/dzc/Desktop/ANU/8526Project/GroupProject/code/VOC/VOCdevkit/VOC2007'
-    min_size = 600  # image resize
-    max_size = 1000 # image resize
+    hico_data_dir = '/home/dzc/Desktop/ANU/8526Project/GroupProject/code/VOC/VOCdevkit/VOC2007'
+    min_size = 400  # image resize
+    max_size = 640 # image resize
     num_workers = 8
     test_num_workers = 8
 

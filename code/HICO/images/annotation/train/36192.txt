@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036223.jpg
+640 427 3
+human
+239 261 191 221
+boat
+11 525 130 418
+ride

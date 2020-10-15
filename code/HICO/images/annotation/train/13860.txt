@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013879.jpg
+502 640 3
+human
+30 498 33 637
+chair
+84 417 372 637
+lie_on

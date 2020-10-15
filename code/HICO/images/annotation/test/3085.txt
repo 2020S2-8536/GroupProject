@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003158.jpg
+640 463 3
+human
+299 402 41 297
+horse
+194 514 142 418
+run

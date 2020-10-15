@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006252.jpg
+600 439 3
+human
+142 536 78 432
+cow
+1 545 85 438
+hug

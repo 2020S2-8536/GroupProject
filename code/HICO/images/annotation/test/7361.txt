@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007467.jpg
+640 508 3
+human
+32 638 221 446
+bus
+133 212 157 334
+board

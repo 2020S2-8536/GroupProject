@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036211.jpg
+640 480 3
+human
+449 470 126 158
+boat
+466 542 143 168
+drive

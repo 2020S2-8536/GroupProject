@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001873.jpg
+640 424 3
+human
+153 193 241 293
+bus
+135 510 69 380
+sit_on

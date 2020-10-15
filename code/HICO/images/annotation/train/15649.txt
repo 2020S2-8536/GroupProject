@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015669.jpg
+640 415 3
+human
+559 605 206 331
+car
+95 560 86 362
+board

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001912.jpg
+427 640 3
+human
+2 424 1 638
+cat
+2 191 110 277
+feed

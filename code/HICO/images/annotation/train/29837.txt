@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029866.jpg
+480 640 3
+human
+6 478 183 636
+bottle
+236 478 222 375
+hold

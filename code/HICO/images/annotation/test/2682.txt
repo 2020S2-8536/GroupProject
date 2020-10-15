@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002740.jpg
+640 427 3
+human
+228 259 110 202
+person
+179 640 188 427
+carry

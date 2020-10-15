@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019622.jpg
+599 640 3
+human
+251 482 102 521
+motorcycle
+65 543 205 591
+sit_on

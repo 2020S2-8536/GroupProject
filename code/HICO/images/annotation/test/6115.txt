@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006219.jpg
+640 639 1
+human
+184 478 218 536
+person
+225 462 218 535
+greet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002725.jpg
+640 640 3
+human
+310 433 210 478
+dining_table
+73 407 340 422
+eat_at

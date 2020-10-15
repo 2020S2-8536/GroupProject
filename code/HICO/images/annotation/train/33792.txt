@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033821.jpg
+598 640 3
+human
+127 581 27 638
+cat
+2 541 121 633
+hug

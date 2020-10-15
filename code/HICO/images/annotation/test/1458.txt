@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001493.jpg
+640 480 3
+human
+56 90 206 255
+bus
+47 256 88 261
+ride

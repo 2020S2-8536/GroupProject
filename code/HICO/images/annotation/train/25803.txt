@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025832.jpg
+448 299 3
+human
+224 302 74 174
+dining_table
+80 341 158 264
+sit_at

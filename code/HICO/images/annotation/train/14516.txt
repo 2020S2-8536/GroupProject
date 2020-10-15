@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014535.jpg
+640 490 3
+human
+22 198 29 420
+couch
+38 472 79 305
+lie_on

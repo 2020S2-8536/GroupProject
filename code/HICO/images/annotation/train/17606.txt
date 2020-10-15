@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017628.jpg
+380 253 3
+human
+274 317 32 105
+bicycle
+83 339 85 234
+ride

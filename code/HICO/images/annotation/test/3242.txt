@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003316.jpg
+480 640 3
+human
+134 377 214 639
+chair
+126 336 247 558
+sit_on

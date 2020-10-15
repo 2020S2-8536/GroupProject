@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005852.jpg
+640 480 3
+human
+202 350 4 359
+motorcycle
+59 558 62 475
+sit_on

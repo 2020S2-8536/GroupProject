@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006944.jpg
+640 480 3
+human
+357 418 126 183
+bus
+474 636 67 314
+sit_on

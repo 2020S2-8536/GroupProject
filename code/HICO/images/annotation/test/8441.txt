@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008547.jpg
+640 480 3
+human
+234 281 265 314
+train
+2 534 107 474
+sit_on

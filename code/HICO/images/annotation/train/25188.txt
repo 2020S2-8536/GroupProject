@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025217.jpg
+640 360 3
+human
+435 462 110 160
+potted_plant
+195 474 28 358
+carry

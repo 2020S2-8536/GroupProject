@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009242.jpg
+640 396 3
+human
+270 455 147 346
+dog
+411 495 230 320
+run

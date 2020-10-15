@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008253.jpg
+640 427 3
+human
+186 239 151 271
+bird
+467 496 204 235
+feed

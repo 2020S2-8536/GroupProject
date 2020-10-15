@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002255.jpg
+579 477 3
+human
+300 480 152 356
+sheep
+305 547 283 441
+hug

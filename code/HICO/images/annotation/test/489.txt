@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000490.jpg
+640 457 3
+human
+173 442 29 358
+bicycle
+70 523 175 433
+sit_on

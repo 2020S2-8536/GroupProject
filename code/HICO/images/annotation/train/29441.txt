@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029470.jpg
+640 428 3
+human
+144 577 2 428
+potted_plant
+289 639 184 428
+hold

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005922.jpg
+640 480 3
+human
+216 505 358 474
+cat
+98 638 4 403
+hug

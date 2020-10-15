@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019925.jpg
+640 420 3
+human
+324 500 53 418
+potted_plant
+549 638 41 418
+carry

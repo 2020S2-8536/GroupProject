@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012839.jpg
+640 438 3
+human
+543 555 329 342
+airplane
+398 606 303 404
+sit_on

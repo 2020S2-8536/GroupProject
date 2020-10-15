@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000429.jpg
+448 336 3
+human
+124 305 3 292
+motorcycle
+18 444 47 327
+sit_on

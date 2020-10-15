@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006136.jpg
+640 480 3
+human
+216 612 30 454
+dog
+26 294 175 463
+pet

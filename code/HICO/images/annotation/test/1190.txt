@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001211.jpg
+640 549 3
+human
+140 508 18 543
+bus
+13 64 154 318
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026987.jpg
+640 480 3
+human
+328 510 226 474
+dining_table
+116 416 304 410
+sit_at

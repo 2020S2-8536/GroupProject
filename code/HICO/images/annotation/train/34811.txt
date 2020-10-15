@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034842.jpg
+640 480 3
+human
+62 373 31 478
+potted_plant
+241 333 293 425
+hold

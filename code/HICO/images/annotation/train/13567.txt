@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013583.jpg
+512 640 3
+human
+217 414 72 634
+cow
+24 511 211 638
+hug

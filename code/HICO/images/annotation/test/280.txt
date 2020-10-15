@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000281.jpg
+603 615 3
+human
+68 300 163 602
+couch
+184 340 424 610
+carry

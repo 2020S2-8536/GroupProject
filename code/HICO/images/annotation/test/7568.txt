@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007674.jpg
+640 427 3
+human
+567 598 216 255
+bus
+207 628 150 387
+sit_on

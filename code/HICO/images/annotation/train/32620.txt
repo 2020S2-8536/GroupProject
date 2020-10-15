@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032649.jpg
+640 478 1
+human
+409 522 210 420
+bus
+437 444 157 185
+board

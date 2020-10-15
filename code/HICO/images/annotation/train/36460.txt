@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036491.jpg
+640 455 3
+human
+509 553 236 335
+cow
+404 549 249 372
+hold

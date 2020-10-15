@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001359.jpg
+512 384 3
+human
+7 463 26 383
+couch
+3 505 4 381
+sit_on

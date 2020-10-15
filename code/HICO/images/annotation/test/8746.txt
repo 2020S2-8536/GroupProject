@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008852.jpg
+500 375 3
+human
+84 390 106 316
+couch
+2 497 89 370
+sit_on

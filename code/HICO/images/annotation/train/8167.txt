@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008176.jpg
+408 640 3
+human
+16 214 137 510
+person
+133 360 137 527
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024876.jpg
+640 427 3
+human
+415 639 307 424
+bird
+1 347 2 329
+watch

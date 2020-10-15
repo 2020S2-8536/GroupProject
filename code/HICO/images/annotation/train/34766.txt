@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034796.jpg
+612 380 3
+human
+465 606 114 377
+dining_table
+80 548 110 377
+sit_at

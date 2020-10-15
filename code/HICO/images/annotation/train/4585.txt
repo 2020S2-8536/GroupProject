@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004591.jpg
+450 350 3
+human
+1 266 64 343
+person
+35 262 200 294
+hug

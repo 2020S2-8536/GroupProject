@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006518.jpg
+640 471 3
+human
+262 326 265 320
+bus
+230 569 66 434
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004549.jpg
+620 640 3
+human
+120 369 130 635
+person
+315 618 14 640
+hug

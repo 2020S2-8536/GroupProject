@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026095.jpg
+640 425 3
+human
+308 498 6 423
+person
+484 633 10 419
+hold

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000542.jpg
+640 426 3
+human
+390 585 158 395
+motorcycle
+452 525 63 146
+ride

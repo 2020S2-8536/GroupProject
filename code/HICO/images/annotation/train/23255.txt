@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023284.jpg
+426 640 3
+human
+130 325 234 639
+person
+158 325 307 639
+hug

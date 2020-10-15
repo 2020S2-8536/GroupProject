@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025805.jpg
+640 426 3
+human
+526 580 190 321
+bicycle
+51 606 38 357
+carry

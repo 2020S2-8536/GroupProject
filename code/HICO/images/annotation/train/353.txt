@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000354.jpg
+640 425 3
+human
+210 241 227 295
+bicycle
+52 543 82 248
+carry

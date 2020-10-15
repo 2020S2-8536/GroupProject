@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004773.jpg
+640 427 3
+human
+7 633 145 322
+couch
+2 633 98 425
+sit_on

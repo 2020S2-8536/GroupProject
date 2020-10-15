@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018226.jpg
+578 326 3
+human
+120 232 178 240
+airplane
+2 564 101 223
+ride

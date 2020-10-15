@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002280.jpg
+300 150 3
+human
+25 177 13 147
+bottle
+109 286 29 87
+carry

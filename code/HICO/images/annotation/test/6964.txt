@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007068.jpg
+640 480 3
+human
+56 283 166 477
+chair
+69 289 410 478
+stand_on

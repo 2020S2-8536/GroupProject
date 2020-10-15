@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022638.jpg
+640 428 3
+human
+303 434 42 386
+bicycle
+177 554 118 413
+hold

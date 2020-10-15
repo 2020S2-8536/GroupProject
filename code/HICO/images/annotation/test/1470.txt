@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001505.jpg
+457 640 3
+human
+178 414 50 368
+horse
+130 398 146 549
+kiss

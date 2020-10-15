@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008139.jpg
+640 480 3
+human
+343 579 85 474
+chair
+270 450 159 456
+lie_on

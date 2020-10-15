@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004112.jpg
+458 640 3
+human
+48 376 92 614
+chair
+146 348 359 614
+stand_on

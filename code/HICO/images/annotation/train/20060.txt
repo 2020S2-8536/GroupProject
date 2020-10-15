@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020088.jpg
+535 640 3
+human
+211 414 87 573
+bicycle
+38 479 230 624
+walk

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029153.jpg
+472 640 3
+human
+39 185 340 599
+chair
+64 182 372 524
+sit_on

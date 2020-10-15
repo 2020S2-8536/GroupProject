@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023744.jpg
+640 480 3
+human
+518 557 290 332
+bus
+132 328 4 459
+board

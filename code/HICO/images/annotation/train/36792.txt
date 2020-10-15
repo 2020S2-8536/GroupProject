@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036823.jpg
+640 427 3
+human
+561 621 1 123
+horse
+509 615 77 334
+train

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008439.jpg
+640 447 3
+human
+244 382 134 442
+cat
+258 337 152 290
+hug

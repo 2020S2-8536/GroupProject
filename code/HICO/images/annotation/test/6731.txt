@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006835.jpg
+640 427 3
+human
+183 639 90 421
+bird
+218 291 116 192
+pet

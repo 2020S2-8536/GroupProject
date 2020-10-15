@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036537.jpg
+640 427 3
+human
+331 444 90 308
+dining_table
+7 632 256 421
+eat_at

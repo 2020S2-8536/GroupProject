@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004882.jpg
+640 480 3
+human
+390 473 74 329
+bicycle
+513 573 188 426
+walk

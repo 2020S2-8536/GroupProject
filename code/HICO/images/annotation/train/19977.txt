@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020005.jpg
+640 480 3
+human
+87 164 102 239
+train
+1 634 149 479
+board

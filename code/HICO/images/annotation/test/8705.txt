@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008811.jpg
+640 504 3
+human
+43 266 123 463
+horse
+240 513 92 323
+run

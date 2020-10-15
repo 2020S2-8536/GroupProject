@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021491.jpg
+640 306 3
+human
+477 636 14 302
+person
+150 535 49 292
+greet

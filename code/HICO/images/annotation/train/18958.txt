@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018983.jpg
+640 427 3
+human
+266 406 2 191
+dining_table
+9 640 191 424
+sit_at

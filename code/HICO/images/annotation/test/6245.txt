@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006349.jpg
+462 640 3
+human
+142 364 32 360
+sheep
+119 389 150 451
+walk

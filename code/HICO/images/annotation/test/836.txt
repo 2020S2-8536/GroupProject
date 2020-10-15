@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000853.jpg
+640 640 3
+human
+369 541 92 363
+bicycle
+308 563 227 383
+hop_on

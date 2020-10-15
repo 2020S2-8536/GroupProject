@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014215.jpg
+640 480 3
+human
+120 581 3 475
+person
+163 498 274 413
+greet

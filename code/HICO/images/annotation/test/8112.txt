@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008218.jpg
+640 494 3
+human
+200 400 92 489
+sheep
+254 414 331 486
+hug

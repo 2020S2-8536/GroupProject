@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021574.jpg
+640 438 3
+human
+220 349 11 177
+dog
+1 639 293 436
+carry

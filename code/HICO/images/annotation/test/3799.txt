@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003882.jpg
+640 360 3
+human
+124 442 114 338
+couch
+4 638 160 354
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002600.jpg
+640 480 3
+human
+156 246 112 285
+dining_table
+7 633 248 479
+sit_at

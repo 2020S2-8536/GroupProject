@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036567.jpg
+640 426 3
+human
+239 637 1 423
+dog
+49 493 40 421
+run

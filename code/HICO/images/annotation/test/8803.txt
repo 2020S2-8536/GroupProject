@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008909.jpg
+640 480 3
+human
+153 198 255 312
+bus
+106 533 97 396
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004392.jpg
+491 640 3
+human
+26 205 66 378
+person
+49 222 258 429
+greet

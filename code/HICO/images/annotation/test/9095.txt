@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009205.jpg
+640 413 3
+human
+305 351 28 126
+dog
+2 630 162 405
+carry

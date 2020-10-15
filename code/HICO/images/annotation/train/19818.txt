@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019846.jpg
+640 431 3
+human
+444 481 127 231
+person
+42 471 118 394
+carry

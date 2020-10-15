@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031845.jpg
+225 300 3
+human
+74 210 166 294
+horse
+22 156 39 295
+hug

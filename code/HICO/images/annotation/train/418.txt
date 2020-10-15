@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000419.jpg
+640 480 3
+human
+411 553 53 431
+bottle
+328 465 73 203
+hold

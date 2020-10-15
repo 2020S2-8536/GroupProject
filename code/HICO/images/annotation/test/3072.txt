@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003145.jpg
+448 336 3
+human
+145 192 106 261
+horse
+183 445 126 311
+hop_on

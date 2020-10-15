@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036548.jpg
+640 427 3
+human
+94 260 1 101
+dog
+42 631 58 418
+carry

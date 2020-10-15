@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024014.jpg
+640 480 3
+human
+22 290 90 472
+bus
+199 227 104 157
+board

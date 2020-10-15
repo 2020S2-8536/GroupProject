@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004124.jpg
+640 444 3
+human
+408 448 209 301
+train
+40 486 93 412
+drive
