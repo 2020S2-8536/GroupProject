@@ -1,3 +1,7 @@
+##  2020.10.18 Update
+Dataloader is now applicable for HICO dataset
+
+<br>
 ## 2020.10.13 Update
 Add Pytorch 1.5 support based on old version implementation by chenyuntc.
 
