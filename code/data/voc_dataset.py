@@ -1,6 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
-
+import random
 import numpy as np
 
 from .util import read_image
@@ -61,10 +61,7 @@ class HICODataset:
             or not. The default value is :obj:`False`.
 
     """
-
-    def __init__(self, data_dir, split='filenames_train', # default split name: HICO train
-                 use_difficult=False, return_difficult=False,
-                 ):
+    def __init__(self, data_dir, split='train'): # default split name: HICO train
 
         # if split not in ['train', 'trainval', 'val']:
         #     if not (split == 'test' and year == '2007'):
@@ -73,17 +70,21 @@ class HICODataset:
         #             'for 2012 dataset. For 2007 dataset, you can pick \'test\''
         #             ' in addition to the above mentioned splits.'
         #         )
-        id_list_file = os.path.join(
-            data_dir, 'ImageSets/Main/{0}.txt'.format(split))
-
-        self.ids = [id_.strip() for id_ in open(id_list_file)]
+        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')[:10]
         self.data_dir = data_dir
-        self.use_difficult = use_difficult
-        self.return_difficult = return_difficult
+        self.split = split
         self.label_names = VOC_BBOX_LABEL_NAMES
 
     def __len__(self):
         return len(self.ids)
+
+    def get_imgNames(self,path):
+        imgs_list = list()
+        imgs = os.listdir(path)
+        for i in range(len(imgs)):
+            imgs_list.append(int(imgs[i][:-4]))
+            random.shuffle(imgs_list)
+        return imgs_list
 
     def get_example(self, i):
         """Returns the i-th example.
@@ -96,62 +97,85 @@ class HICODataset:
 
         Returns:
             tuple of an image and bounding boxes
-
+            10.18 Update, img(W, H, C) -> (C, H, W), bboxes coordinates (xmin, mmax, ymin, ymax) - > (ymin, xmin, ymax, xmax), labels
+            gt_human_bbox, gt_object bbox, action
         """
         id_ = self.ids[i]
-        anno = ET.parse(
-            os.path.join(self.data_dir, 'Annotations', id_ + '.xml'))
+        # data_dir: /home/dzc/Desktop/ANU/8526Project/GroupProject/code/HICO/images
+        anno = self.data_dir + 'annotation/'+ self.split + '/'+ str(id_) + '.txt'
+        object = list()
         bbox = list()
-        label = list()
-        difficult = list()
-        for obj in anno.findall('object'):
-            # when in not using difficult split, and the object is
-            # difficult, skipt it.
-            if not self.use_difficult and int(obj.find('difficult').text) == 1:
-                continue
+        human_box = list()
+        object_box = list()
+        action = list()
+        # for obj in anno.findall('object'):
+        #     # when in not using difficult split, and the object is
+        #     # difficult, skipt it.
+        #     if not self.use_difficult and int(obj.find('difficult').text) == 1:
+        #         continue
+        #
+        #     bndbox_anno = obj.find('bndbox')
+        #     # subtract 1 to make pixel indexes 0-based
+        #     bbox.append([
+        #         int(bndbox_anno.find(tag).text) - 1
+        #         for tag in ('ymin', 'xmin', 'ymax', 'xmax')])
+        #     name = obj.find('name').text.lower().strip()
+        #     label.append(VOC_BBOX_LABEL_NAMES.index(name))
+        f = open(anno, "r")
+        line = f.readline()
+        img_file = line[:-1]
 
-            difficult.append(int(obj.find('difficult').text))
-            bndbox_anno = obj.find('bndbox')
-            # subtract 1 to make pixel indexes 0-based
-            bbox.append([
-                int(bndbox_anno.find(tag).text) - 1
-                for tag in ('ymin', 'xmin', 'ymax', 'xmax')])
-            name = obj.find('name').text.lower().strip()
-            label.append(VOC_BBOX_LABEL_NAMES.index(name))
+        line = f.readline()
+        # width, height, channel = [i for i in line[:-1].split()]
+
+        # human label
+        line = f.readline()
+
+        try:
+            object.append(VOC_BBOX_LABEL_NAMES.index(line[:-1]))
+        except ValueError:
+            print(line[:-1])
+            print(img_file)
+        # human box
+        line = f.readline()
+        xmin, xmax, ymin, ymax = [i for i in line[:-1].split()]
+        bbox.append([int(ymin), int(xmin), int(ymax), int(xmax)])
+        human_box.append([int(ymin), int(xmin), int(ymax), int(xmax)])
+
+        # object label
+        line = f.readline()
+        if line[:-1] == 'person':
+            object.append(VOC_BBOX_LABEL_NAMES.index('human'))
+        else:
+            object.append(VOC_BBOX_LABEL_NAMES.index(line[:-1]))
+        # object box
+        line = f.readline()
+        xmin, xmax, ymin, ymax = [i for i in line[:-1].split()]
+        bbox.append([int(ymin), int(xmin), int(ymax), int(xmax)])
+        object_box.append([int(ymin), int(xmin), int(ymax), int(xmax)])
+
+        # action
+        line = f.readline()
+        action.append(HICO_ACTIONS.index(line[:-1]))
+        f.close()
+
         bbox = np.stack(bbox).astype(np.float32)
-        label = np.stack(label).astype(np.int32)
-        # When `use_difficult==False`, all elements in `difficult` are False.
-        difficult = np.array(difficult, dtype=np.bool).astype(np.uint8)  # PyTorch don't support np.bool
+        human_box = np.stack(human_box).astype(np.float32)
+        object_box = np.stack(object_box).astype(np.float32)
+        label = np.stack(object).astype(np.int32)
+        action = np.stack(action).astype(np.int32)
 
         # Load a image
-        img_file = os.path.join(self.data_dir, 'JPEGImages', id_ + '.jpg')
         img = read_image(img_file, color=True)
-
-        # if self.return_difficult:
-        #     return img, bbox, label, difficult
-        return img, bbox, label, difficult
+        # print(bbox, label, human_box, object_box, action)
+        return img, bbox, label, human_box, object_box, action
 
     __getitem__ = get_example
 
 
-VOC_BBOX_LABEL_NAMES = (
-    'aeroplane',
-    'bicycle',
-    'bird',
-    'boat',
-    'bottle',
-    'bus',
-    'car',
-    'cat',
-    'chair',
-    'cow',
-    'diningtable',
-    'dog',
-    'horse',
-    'motorbike',
-    'person',
-    'pottedplant',
-    'sheep',
-    'sofa',
-    'train',
-    'tvmonitor')
+VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
+                            'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
+
+HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
+              'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
+              'race')
