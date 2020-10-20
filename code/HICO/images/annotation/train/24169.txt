@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024198.jpg
+640 366 3
+human
+531 568 225 262
+airplane
+77 547 96 231
+sit_on

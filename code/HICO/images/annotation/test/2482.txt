@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002538.jpg
+478 640 3
+human
+14 471 98 629
+cat
+110 337 305 614
+hug

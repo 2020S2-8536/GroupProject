@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035990.jpg
+640 425 3
+human
+150 191 333 422
+bicycle
+179 637 1 424
+carry

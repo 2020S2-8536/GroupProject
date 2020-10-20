@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002871.jpg
+640 480 3
+human
+157 389 43 473
+horse
+21 488 102 478
+walk

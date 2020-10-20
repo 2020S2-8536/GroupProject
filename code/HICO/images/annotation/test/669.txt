@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000680.jpg
+612 612 3
+human
+109 322 122 458
+bicycle
+112 411 72 403
+hold

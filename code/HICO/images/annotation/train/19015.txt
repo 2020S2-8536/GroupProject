@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019040.jpg
+640 512 3
+human
+37 329 108 473
+tv
+278 520 139 323
+watch

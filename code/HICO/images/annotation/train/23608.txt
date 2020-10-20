@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023637.jpg
+500 398 3
+human
+57 367 62 395
+couch
+2 498 27 397
+sit_on

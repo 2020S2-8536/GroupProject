@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006781.jpg
+428 640 3
+human
+244 423 150 455
+dog
+108 424 306 549
+hug

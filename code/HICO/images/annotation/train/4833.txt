@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004841.jpg
+640 427 3
+human
+143 636 2 425
+person
+1 630 29 426
+hug

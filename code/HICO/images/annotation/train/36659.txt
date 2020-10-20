@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036690.jpg
+425 640 3
+human
+11 271 337 638
+dog
+26 165 394 634
+pet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008239.jpg
+640 433 3
+human
+292 608 22 428
+bottle
+315 424 99 181
+drink_with

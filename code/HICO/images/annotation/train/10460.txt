@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010474.jpg
+640 426 3
+human
+448 521 126 365
+car
+2 451 196 354
+drive

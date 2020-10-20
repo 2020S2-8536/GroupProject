@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005920.jpg
+509 640 3
+human
+3 434 278 636
+tv
+84 505 7 318
+watch

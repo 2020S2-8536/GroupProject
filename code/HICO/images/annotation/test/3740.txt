@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003823.jpg
+640 467 3
+human
+94 566 89 466
+bird
+34 230 90 196
+pet

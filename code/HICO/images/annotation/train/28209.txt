@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028238.jpg
+640 512 3
+human
+1 403 23 510
+person
+266 639 75 506
+hug

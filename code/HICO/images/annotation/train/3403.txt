@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003406.jpg
+640 459 3
+human
+49 238 207 450
+dining_table
+154 470 278 457
+sit_at

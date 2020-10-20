@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011474.jpg
+454 446 3
+human
+19 387 341 444
+cat
+38 427 76 441
+hug

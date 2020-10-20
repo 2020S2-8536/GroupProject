@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002745.jpg
+640 346 3
+human
+426 491 112 181
+bus
+366 390 177 260
+board

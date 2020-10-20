@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016094.jpg
+640 480 3
+human
+44 185 1 281
+train
+206 578 213 443
+board

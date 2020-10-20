@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007800.jpg
+640 423 3
+human
+487 595 280 407
+potted_plant
+22 618 49 411
+carry

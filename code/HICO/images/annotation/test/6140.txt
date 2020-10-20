@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006244.jpg
+640 480 3
+human
+82 159 194 341
+car
+298 538 214 313
+drive

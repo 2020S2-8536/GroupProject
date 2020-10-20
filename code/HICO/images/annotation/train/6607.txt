@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006616.jpg
+446 640 3
+human
+145 170 254 319
+car
+218 372 190 335
+board

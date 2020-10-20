@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030256.jpg
+640 505 3
+human
+218 409 24 348
+horse
+44 590 53 496
+run

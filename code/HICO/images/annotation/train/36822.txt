@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036853.jpg
+640 547 3
+human
+497 600 243 544
+horse
+577 639 265 546
+hug

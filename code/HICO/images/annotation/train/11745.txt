@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011759.jpg
+640 408 3
+human
+246 329 111 281
+couch
+320 410 246 362
+carry

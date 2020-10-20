@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006367.jpg
+640 480 3
+human
+371 413 270 360
+train
+1 404 1 479
+sit_on

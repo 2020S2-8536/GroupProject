@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032435.jpg
+640 412 3
+human
+345 382 160 219
+train
+122 478 44 389
+drive

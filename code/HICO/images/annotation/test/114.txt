@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000115.jpg
+613 640 3
+human
+26 354 6 638
+person
+257 605 123 639
+hug

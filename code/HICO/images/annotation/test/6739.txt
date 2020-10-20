@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006843.jpg
+400 600 3
+human
+1 175 1 553
+chair
+2 86 325 444
+stand_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003444.jpg
+640 480 3
+human
+62 434 49 474
+cat
+240 520 137 476
+hug

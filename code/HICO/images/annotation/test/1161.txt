@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001181.jpg
+640 480 3
+human
+482 634 85 375
+dining_table
+2 630 227 470
+sit_at

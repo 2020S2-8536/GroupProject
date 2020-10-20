@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036999.jpg
+640 481 3
+human
+547 583 220 346
+train
+226 539 166 374
+drive

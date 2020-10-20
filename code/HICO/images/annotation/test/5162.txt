@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005260.jpg
+640 480 3
+human
+4 267 3 406
+bus
+326 534 2 443
+board

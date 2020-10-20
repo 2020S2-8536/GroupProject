@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006552.jpg
+640 487 1
+human
+226 442 183 445
+chair
+214 450 170 438
+sit_on

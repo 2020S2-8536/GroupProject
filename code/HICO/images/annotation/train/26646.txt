@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026675.jpg
+640 480 3
+human
+1 624 79 436
+chair
+44 639 76 478
+sit_on

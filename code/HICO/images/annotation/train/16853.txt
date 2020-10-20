@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016875.jpg
+640 567 3
+human
+198 394 34 372
+horse
+44 637 125 554
+hug

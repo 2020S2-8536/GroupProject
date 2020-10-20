@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002840.jpg
+640 427 3
+human
+224 333 132 263
+motorcycle
+194 352 175 310
+sit_on

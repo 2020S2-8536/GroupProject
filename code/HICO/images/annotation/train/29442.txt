@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029471.jpg
+640 480 3
+human
+295 329 158 202
+bus
+40 604 62 389
+sit_on

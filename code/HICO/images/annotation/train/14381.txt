@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014400.jpg
+640 426 3
+human
+494 578 100 384
+horse
+138 244 323 377
+feed

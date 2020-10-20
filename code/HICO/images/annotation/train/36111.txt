@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036142.jpg
+640 425 3
+human
+604 629 190 266
+bottle
+624 639 182 192
+carry

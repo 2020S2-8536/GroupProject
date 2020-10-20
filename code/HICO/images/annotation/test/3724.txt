@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003807.jpg
+480 640 3
+human
+351 478 147 637
+motorcycle
+1 116 182 533
+hold

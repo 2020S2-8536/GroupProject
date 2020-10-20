@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001283.jpg
+640 413 3
+human
+280 298 90 110
+motorcycle
+138 339 130 372
+sit_on

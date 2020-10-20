@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004302.jpg
+640 480 3
+human
+1 637 161 476
+bottle
+1 452 9 351
+hold

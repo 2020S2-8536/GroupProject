@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023283.jpg
+620 640 3
+human
+24 595 37 627
+person
+7 281 85 630
+hug

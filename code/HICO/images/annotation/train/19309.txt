@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019335.jpg
+534 401 3
+human
+42 262 34 291
+bus
+274 307 355 400
+board

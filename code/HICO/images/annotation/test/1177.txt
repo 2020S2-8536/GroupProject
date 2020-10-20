@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001198.jpg
+640 485 3
+human
+73 328 184 481
+bird
+331 532 90 254
+hold

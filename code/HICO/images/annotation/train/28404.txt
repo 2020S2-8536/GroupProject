@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028433.jpg
+480 319 3
+human
+117 331 54 200
+horse
+75 404 64 273
+kiss

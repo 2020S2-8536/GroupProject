@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007752.jpg
+427 640 3
+human
+24 399 34 524
+bus
+161 313 208 576
+board

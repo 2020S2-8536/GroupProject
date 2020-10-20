@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036653.jpg
+640 640 3
+human
+1 635 129 638
+dog
+2 597 151 639
+run

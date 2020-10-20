@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029254.jpg
+640 546 3
+human
+244 348 224 545
+cow
+164 386 246 482
+hug

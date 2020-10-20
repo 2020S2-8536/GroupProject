@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010647.jpg
+430 538 3
+human
+80 321 62 535
+person
+122 310 128 525
+hug

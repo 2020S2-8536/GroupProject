@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017756.jpg
+640 426 3
+human
+142 150 215 222
+bottle
+181 588 180 302
+carry

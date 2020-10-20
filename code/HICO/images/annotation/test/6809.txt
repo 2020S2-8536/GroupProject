@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006913.jpg
+640 480 3
+human
+341 414 158 381
+dining_table
+93 482 245 410
+sit_at

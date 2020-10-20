@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027104.jpg
+640 427 3
+human
+78 94 104 155
+person
+193 345 119 411
+carry

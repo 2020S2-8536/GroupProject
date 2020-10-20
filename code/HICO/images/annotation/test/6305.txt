@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006409.jpg
+640 515 3
+human
+1 410 247 514
+bird
+86 446 31 513
+pet

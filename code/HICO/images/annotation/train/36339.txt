@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036370.jpg
+427 640 3
+human
+9 241 5 619
+cat
+136 418 125 632
+hug

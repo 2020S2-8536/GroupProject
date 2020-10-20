@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005811.jpg
+500 334 3
+human
+10 379 6 332
+person
+4 373 129 334
+hug

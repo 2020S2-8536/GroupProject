@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031996.jpg
+640 426 3
+human
+26 638 39 421
+person
+13 532 32 420
+kiss

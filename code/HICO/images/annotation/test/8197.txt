@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008303.jpg
+640 404 3
+human
+238 338 122 317
+bicycle
+192 372 181 339
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032078.jpg
+639 640 3
+human
+4 634 354 636
+bus
+442 468 30 76
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023562.jpg
+640 480 3
+human
+102 278 100 480
+couch
+496 638 304 478
+carry

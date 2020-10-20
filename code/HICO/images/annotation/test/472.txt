@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000473.jpg
+640 426 3
+human
+311 376 154 222
+motorcycle
+309 377 167 234
+ride

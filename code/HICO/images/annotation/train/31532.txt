@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031561.jpg
+640 427 3
+human
+267 342 159 231
+car
+53 605 95 365
+ride

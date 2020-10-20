@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015270.jpg
+640 427 3
+human
+286 559 127 425
+bottle
+292 413 184 265
+hold

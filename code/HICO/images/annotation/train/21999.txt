@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022028.jpg
+550 343 3
+human
+30 430 1 340
+person
+241 430 7 334
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003061.jpg
+640 586 3
+human
+496 639 34 530
+bottle
+529 600 106 184
+hold

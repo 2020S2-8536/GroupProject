@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021281.jpg
+640 428 3
+human
+167 334 63 371
+motorcycle
+271 456 28 392
+race

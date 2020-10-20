@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011362.jpg
+426 640 3
+human
+39 380 62 635
+person
+42 383 61 481
+greet

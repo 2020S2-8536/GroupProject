@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000144.jpg
+640 480 3
+human
+308 587 82 476
+sheep
+1 236 173 433
+herd

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024954.jpg
+258 333 3
+human
+77 233 13 332
+bus
+239 257 133 179
+board

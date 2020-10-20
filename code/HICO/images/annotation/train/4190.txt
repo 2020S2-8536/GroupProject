@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004194.jpg
+640 480 3
+human
+2 45 176 370
+person
+442 637 184 435
+carry

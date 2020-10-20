@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008075.jpg
+463 640 3
+human
+113 317 103 583
+motorcycle
+271 350 199 294
+hold

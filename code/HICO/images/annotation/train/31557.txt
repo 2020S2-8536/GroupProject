@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031586.jpg
+640 479 3
+human
+80 143 154 280
+sheep
+10 83 219 283
+hold

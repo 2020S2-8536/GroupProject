@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022354.jpg
+600 579 3
+human
+156 524 35 578
+bicycle
+6 595 317 578
+sit_on

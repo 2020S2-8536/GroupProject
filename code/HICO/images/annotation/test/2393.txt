@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002445.jpg
+640 480 3
+human
+63 246 192 391
+bicycle
+34 633 48 308
+carry

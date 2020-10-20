@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014375.jpg
+640 294 3
+human
+300 377 30 248
+couch
+98 171 156 277
+carry

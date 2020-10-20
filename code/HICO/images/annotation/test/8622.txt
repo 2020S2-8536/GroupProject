@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008728.jpg
+640 304 3
+human
+259 415 30 187
+boat
+132 640 62 242
+stand_on

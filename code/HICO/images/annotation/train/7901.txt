@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007910.jpg
+640 425 3
+human
+98 253 146 422
+horse
+227 639 70 423
+race

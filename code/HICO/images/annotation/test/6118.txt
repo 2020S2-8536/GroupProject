@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006222.jpg
+640 480 3
+human
+539 637 118 444
+dining_table
+117 635 275 478
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009682.jpg
+500 404 3
+human
+214 289 42 271
+horse
+77 388 67 385
+hug

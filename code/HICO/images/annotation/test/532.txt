@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000536.jpg
+640 480 3
+human
+18 634 17 467
+couch
+54 552 65 162
+sit_on

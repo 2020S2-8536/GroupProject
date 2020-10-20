@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025948.jpg
+378 278 3
+human
+138 253 7 142
+horse
+19 335 35 275
+hug

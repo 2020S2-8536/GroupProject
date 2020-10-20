@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026671.jpg
+640 323 3
+human
+341 380 187 230
+boat
+336 405 222 258
+sail

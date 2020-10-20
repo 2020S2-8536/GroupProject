@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016119.jpg
+640 512 3
+human
+19 585 26 507
+person
+50 553 76 506
+hug

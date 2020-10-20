@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000609.jpg
+427 640 3
+human
+16 426 1 516
+cat
+69 400 109 472
+hug

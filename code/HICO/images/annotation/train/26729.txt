@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026758.jpg
+333 500 3
+human
+1 328 5 495
+potted_plant
+4 326 56 490
+hold

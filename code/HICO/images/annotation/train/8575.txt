@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008584.jpg
+640 428 3
+human
+54 142 50 370
+train
+435 638 241 388
+board

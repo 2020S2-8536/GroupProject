@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024184.jpg
+521 480 3
+human
+78 320 6 475
+cat
+123 279 141 457
+hug

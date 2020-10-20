@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008661.jpg
+640 485 3
+human
+1 268 278 476
+dog
+24 275 85 192
+kiss

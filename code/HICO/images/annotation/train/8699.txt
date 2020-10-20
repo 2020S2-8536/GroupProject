@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008708.jpg
+500 332 3
+human
+357 411 162 329
+bicycle
+62 442 71 206
+carry

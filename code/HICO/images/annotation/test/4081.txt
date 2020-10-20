@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004165.jpg
+640 512 3
+human
+325 577 71 508
+person
+158 389 82 507
+hug

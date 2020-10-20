@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009208.jpg
+480 640 3
+human
+86 154 31 182
+dog
+80 280 392 521
+kiss

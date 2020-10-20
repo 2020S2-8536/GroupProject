@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008352.jpg
+478 640 3
+human
+346 409 352 430
+bus
+122 277 4 243
+sit_on

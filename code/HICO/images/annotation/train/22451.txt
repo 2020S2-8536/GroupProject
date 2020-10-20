@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022480.jpg
+640 480 3
+human
+497 507 250 270
+motorcycle
+522 530 262 272
+ride

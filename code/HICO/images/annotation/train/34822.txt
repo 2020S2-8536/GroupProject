@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034853.jpg
+640 427 3
+human
+64 622 29 421
+cat
+317 488 193 379
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002268.jpg
+427 640 3
+human
+95 348 34 597
+bicycle
+2 424 233 602
+walk

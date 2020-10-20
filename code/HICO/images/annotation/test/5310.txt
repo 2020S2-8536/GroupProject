@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005412.jpg
+640 480 3
+human
+159 260 130 248
+cow
+255 638 155 478
+ride

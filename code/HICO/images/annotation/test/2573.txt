@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002631.jpg
+640 444 3
+human
+424 462 245 298
+bus
+110 484 74 398
+sit_on

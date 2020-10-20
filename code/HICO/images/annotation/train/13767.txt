@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013786.jpg
+640 444 3
+human
+87 133 166 223
+train
+8 638 7 396
+sit_on

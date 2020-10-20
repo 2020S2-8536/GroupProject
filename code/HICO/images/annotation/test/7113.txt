@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007218.jpg
+640 455 1
+human
+135 370 15 376
+motorcycle
+90 546 158 446
+sit_on

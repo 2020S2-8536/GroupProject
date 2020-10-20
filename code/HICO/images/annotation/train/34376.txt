@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034406.jpg
+427 640 3
+human
+91 229 145 487
+bird
+232 324 238 509
+hold

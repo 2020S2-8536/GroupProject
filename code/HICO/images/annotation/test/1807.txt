@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001849.jpg
+427 640 1
+human
+81 178 405 597
+bird
+304 403 225 286
+hold

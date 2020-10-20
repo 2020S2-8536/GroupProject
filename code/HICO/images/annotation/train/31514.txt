@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031543.jpg
+600 450 3
+human
+62 596 81 448
+bird
+252 586 146 371
+pet

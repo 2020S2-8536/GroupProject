@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029886.jpg
+631 640 3
+human
+210 402 13 640
+bicycle
+59 599 46 589
+hold

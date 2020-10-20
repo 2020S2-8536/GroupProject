@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005606.jpg
+640 467 3
+human
+103 307 61 426
+motorcycle
+126 515 211 436
+sit_on

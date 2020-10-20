@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025149.jpg
+427 640 3
+human
+177 314 339 550
+sheep
+273 400 407 634
+ride

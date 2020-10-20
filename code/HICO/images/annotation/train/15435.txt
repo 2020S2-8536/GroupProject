@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015455.jpg
+640 512 3
+human
+143 266 156 510
+person
+150 380 200 510
+greet

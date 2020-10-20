@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007866.jpg
+640 457 3
+human
+133 162 296 423
+airplane
+63 632 34 388
+ride

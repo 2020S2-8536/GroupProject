@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001468.jpg
+640 360 3
+human
+303 362 102 163
+dining_table
+87 541 130 348
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006661.jpg
+279 360 3
+human
+93 151 7 44
+cat
+220 252 266 319
+hug

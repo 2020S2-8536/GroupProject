@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030815.jpg
+469 640 1
+human
+3 407 99 637
+person
+7 429 114 622
+greet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002640.jpg
+640 480 3
+human
+17 61 257 410
+train
+42 605 12 438
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018023.jpg
+640 426 3
+human
+372 433 52 115
+dining_table
+333 540 98 318
+sit_at

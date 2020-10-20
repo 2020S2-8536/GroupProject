@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006741.jpg
+531 640 3
+human
+5 523 102 640
+train
+2 528 3 637
+sit_on

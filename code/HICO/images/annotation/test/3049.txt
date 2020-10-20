@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003121.jpg
+640 480 3
+human
+61 438 107 479
+person
+259 554 137 479
+hug

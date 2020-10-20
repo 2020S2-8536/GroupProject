@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016667.jpg
+640 427 3
+human
+196 320 119 395
+bird
+334 391 234 251
+feed

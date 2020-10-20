@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018378.jpg
+480 640 3
+human
+33 361 136 639
+person
+186 409 154 638
+hug

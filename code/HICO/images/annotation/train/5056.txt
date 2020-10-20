@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005064.jpg
+640 421 3
+human
+318 572 138 390
+bus
+274 393 202 401
+board

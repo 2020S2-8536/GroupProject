@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008507.jpg
+640 459 3
+human
+589 608 309 354
+airplane
+2 637 68 404
+ride

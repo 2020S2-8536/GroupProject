@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000161.jpg
+500 556 3
+human
+36 377 132 445
+person
+25 378 165 499
+hug

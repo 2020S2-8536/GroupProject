@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036526.jpg
+640 480 3
+human
+546 566 10 40
+dog
+107 536 130 474
+carry

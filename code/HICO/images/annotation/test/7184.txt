@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007289.jpg
+414 640 3
+human
+2 269 245 640
+person
+156 307 282 639
+greet

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025867.jpg
+640 420 3
+human
+54 326 107 415
+person
+291 638 13 419
+hold

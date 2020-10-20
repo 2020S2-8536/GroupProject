@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006597.jpg
+640 480 3
+human
+1 133 237 479
+potted_plant
+2 125 242 476
+carry

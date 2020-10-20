@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000952.jpg
+640 425 3
+human
+119 209 110 221
+motorcycle
+305 535 199 419
+sit_on

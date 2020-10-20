@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031030.jpg
+640 572 3
+human
+6 494 38 570
+person
+275 624 62 570
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016835.jpg
+600 601 3
+human
+322 599 3 569
+cow
+250 492 1 451
+pet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004595.jpg
+640 480 3
+human
+591 608 258 292
+car
+51 606 106 416
+board

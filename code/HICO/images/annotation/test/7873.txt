@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007979.jpg
+480 640 3
+human
+167 383 90 598
+bicycle
+9 338 316 605
+walk

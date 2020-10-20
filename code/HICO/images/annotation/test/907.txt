@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000924.jpg
+640 425 3
+human
+389 522 40 227
+bicycle
+288 505 102 285
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005638.jpg
+640 454 3
+human
+324 405 50 292
+horse
+241 548 82 393
+run

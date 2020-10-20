@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032428.jpg
+500 640 1
+human
+33 218 6 476
+person
+11 229 74 265
+greet

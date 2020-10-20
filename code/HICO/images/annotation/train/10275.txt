@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010288.jpg
+640 480 3
+human
+518 535 254 282
+car
+53 550 22 443
+board

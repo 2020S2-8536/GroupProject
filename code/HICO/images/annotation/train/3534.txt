@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003538.jpg
+464 640 3
+human
+3 459 30 627
+person
+38 461 67 534
+hug

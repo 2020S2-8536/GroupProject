@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009868.jpg
+568 640 3
+human
+354 566 326 637
+cat
+46 562 44 636
+hug

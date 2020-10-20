@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003694.jpg
+640 413 3
+human
+499 540 230 370
+bus
+70 518 36 387
+drive

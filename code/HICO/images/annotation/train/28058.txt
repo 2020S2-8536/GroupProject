@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028087.jpg
+640 426 3
+human
+12 60 163 256
+train
+283 396 187 287
+board

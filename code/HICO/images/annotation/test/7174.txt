@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007279.jpg
+640 426 3
+human
+307 409 114 283
+horse
+272 403 156 371
+hug

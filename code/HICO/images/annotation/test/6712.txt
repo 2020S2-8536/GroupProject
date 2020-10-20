@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006816.jpg
+640 480 3
+human
+426 593 214 444
+motorcycle
+311 636 250 478
+sit_on

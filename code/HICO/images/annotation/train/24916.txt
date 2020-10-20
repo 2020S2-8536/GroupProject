@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024945.jpg
+640 427 3
+human
+166 317 296 425
+person
+122 567 33 387
+greet

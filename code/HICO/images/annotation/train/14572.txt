@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014591.jpg
+480 319 3
+human
+190 300 22 201
+horse
+85 459 42 317
+hug

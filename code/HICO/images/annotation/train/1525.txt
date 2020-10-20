@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001526.jpg
+640 360 3
+human
+412 454 138 211
+couch
+274 314 182 246
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034155.jpg
+480 640 3
+human
+262 302 265 362
+train
+2 324 42 517
+drive

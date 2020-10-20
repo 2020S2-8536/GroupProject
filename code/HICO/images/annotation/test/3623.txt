@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003704.jpg
+640 480 3
+human
+83 209 134 264
+dining_table
+61 523 243 476
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028396.jpg
+640 480 3
+human
+315 431 174 334
+boat
+176 486 276 390
+sail

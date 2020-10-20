@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009992.jpg
+640 480 3
+human
+263 534 3 474
+bicycle
+8 618 51 474
+hold

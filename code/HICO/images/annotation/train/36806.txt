@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036837.jpg
+640 439 3
+human
+334 556 110 353
+horse
+2 635 1 435
+hold

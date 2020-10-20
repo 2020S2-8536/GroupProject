@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036330.jpg
+640 510 3
+human
+358 439 206 429
+bus
+88 363 73 401
+ride

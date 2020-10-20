@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036702.jpg
+640 427 3
+human
+265 587 59 406
+dog
+209 322 207 390
+run

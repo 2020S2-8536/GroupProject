@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005157.jpg
+640 256 3
+human
+90 290 51 230
+bus
+291 358 178 254
+board

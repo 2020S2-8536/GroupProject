@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007336.jpg
+640 489 3
+human
+222 629 6 487
+person
+7 320 34 486
+hug

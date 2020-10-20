@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002805.jpg
+640 430 3
+human
+405 452 65 186
+train
+139 457 39 265
+sit_on

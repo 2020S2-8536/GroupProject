@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007451.jpg
+640 427 3
+human
+575 614 300 418
+car
+27 584 62 394
+board

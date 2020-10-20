@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003437.jpg
+640 481 3
+human
+35 66 206 232
+chair
+38 58 214 232
+stand_on

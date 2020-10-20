@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026117.jpg
+640 480 3
+human
+3 504 4 480
+cat
+44 590 2 474
+hug

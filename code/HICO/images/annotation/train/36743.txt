@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036774.jpg
+640 480 3
+human
+122 260 103 266
+horse
+228 606 22 466
+ride

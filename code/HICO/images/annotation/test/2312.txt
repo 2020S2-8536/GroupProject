@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002361.jpg
+640 587 3
+human
+250 380 26 332
+horse
+52 484 84 486
+run

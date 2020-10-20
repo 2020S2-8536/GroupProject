@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032392.jpg
+426 640 3
+human
+3 425 2 636
+person
+13 414 283 631
+greet

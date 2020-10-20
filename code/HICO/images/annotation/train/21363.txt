@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021392.jpg
+160 120 3
+human
+40 93 64 118
+chair
+48 75 84 114
+stand_on

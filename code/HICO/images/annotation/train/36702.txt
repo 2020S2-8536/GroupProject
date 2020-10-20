@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036733.jpg
+640 480 3
+human
+341 451 118 378
+dog
+301 367 258 388
+walk

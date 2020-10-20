@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002589.jpg
+497 640 3
+human
+3 332 61 638
+person
+159 446 109 636
+hug

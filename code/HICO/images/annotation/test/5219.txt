@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005319.jpg
+640 427 3
+human
+199 293 136 267
+dining_table
+52 475 204 426
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001934.jpg
+640 427 3
+human
+326 477 26 257
+motorcycle
+202 492 112 357
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000766.jpg
+480 640 3
+human
+1 222 310 470
+airplane
+2 472 1 636
+sit_on

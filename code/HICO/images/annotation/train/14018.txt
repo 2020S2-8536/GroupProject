@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014037.jpg
+436 325 3
+human
+1 428 10 324
+bus
+62 86 104 169
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000072.jpg
+428 640 3
+human
+7 426 41 602
+sheep
+18 386 257 638
+hug

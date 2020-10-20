@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000622.jpg
+640 480 3
+human
+365 400 193 285
+cow
+255 278 240 287
+hold

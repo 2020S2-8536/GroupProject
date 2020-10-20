@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003358.jpg
+640 480 3
+human
+506 578 78 148
+sheep
+354 533 2 113
+herd

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034023.jpg
+640 427 3
+human
+528 563 115 207
+person
+42 548 20 426
+carry

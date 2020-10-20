@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011818.jpg
+480 640 3
+human
+56 473 9 635
+bottle
+68 309 54 588
+open

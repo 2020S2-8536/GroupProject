@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000223.jpg
+640 427 1
+human
+523 640 339 424
+dining_table
+460 486 200 213
+clean

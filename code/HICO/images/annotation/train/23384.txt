@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023413.jpg
+550 412 3
+human
+207 265 142 270
+boat
+96 406 233 324
+sail

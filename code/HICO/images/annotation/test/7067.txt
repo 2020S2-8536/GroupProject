@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007171.jpg
+640 428 3
+human
+205 635 2 421
+bird
+165 411 161 314
+pet

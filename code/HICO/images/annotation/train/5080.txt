@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005088.jpg
+640 362 3
+human
+619 638 203 237
+airplane
+51 504 66 247
+ride

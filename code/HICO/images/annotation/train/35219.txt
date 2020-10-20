@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035250.jpg
+333 500 3
+human
+196 323 75 280
+bicycle
+162 323 234 495
+walk

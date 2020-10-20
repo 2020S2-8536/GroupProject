@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001130.jpg
+640 426 3
+human
+270 452 78 299
+chair
+260 443 163 358
+sit_on

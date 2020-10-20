@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035792.jpg
+640 424 3
+human
+601 624 245 278
+boat
+48 638 124 354
+sail

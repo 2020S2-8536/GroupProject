@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003157.jpg
+480 640 3
+human
+141 351 174 582
+person
+79 191 263 548
+greet

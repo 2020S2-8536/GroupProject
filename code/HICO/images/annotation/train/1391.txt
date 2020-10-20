@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001392.jpg
+640 425 3
+human
+205 405 79 317
+motorcycle
+130 507 145 318
+sit_on

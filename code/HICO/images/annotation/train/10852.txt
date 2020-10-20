@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010866.jpg
+640 529 3
+human
+471 612 45 513
+person
+393 505 101 517
+hug

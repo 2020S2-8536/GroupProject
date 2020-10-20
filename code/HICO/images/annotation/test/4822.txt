@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004918.jpg
+640 430 3
+human
+307 432 2 318
+train
+6 89 213 362
+board

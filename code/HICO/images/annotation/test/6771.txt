@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006875.jpg
+640 396 3
+human
+336 438 62 138
+bottle
+402 424 61 84
+hold

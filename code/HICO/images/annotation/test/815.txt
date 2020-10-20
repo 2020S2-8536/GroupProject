@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000832.jpg
+640 426 3
+human
+240 294 8 121
+person
+26 597 5 423
+carry

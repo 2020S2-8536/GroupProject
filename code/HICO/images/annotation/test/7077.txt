@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007181.jpg
+640 476 3
+human
+236 350 13 307
+horse
+116 494 68 386
+run

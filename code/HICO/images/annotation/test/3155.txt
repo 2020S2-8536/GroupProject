@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003229.jpg
+447 504 3
+human
+3 441 6 492
+dog
+34 411 19 415
+feed

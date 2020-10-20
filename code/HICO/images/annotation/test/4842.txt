@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004938.jpg
+640 428 3
+human
+277 369 133 241
+dining_table
+46 520 240 420
+sit_at

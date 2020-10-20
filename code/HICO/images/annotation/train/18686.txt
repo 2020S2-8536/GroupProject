@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018710.jpg
+534 640 3
+human
+52 526 174 635
+bottle
+42 313 3 227
+carry

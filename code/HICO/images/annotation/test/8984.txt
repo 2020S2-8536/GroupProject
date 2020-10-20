@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009094.jpg
+640 439 3
+human
+266 318 74 144
+boat
+133 167 132 154
+board

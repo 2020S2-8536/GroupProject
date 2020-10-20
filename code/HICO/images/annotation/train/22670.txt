@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022699.jpg
+640 427 3
+human
+416 480 117 199
+bus
+514 533 160 196
+board

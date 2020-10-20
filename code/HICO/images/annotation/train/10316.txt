@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010329.jpg
+640 384 3
+human
+102 637 9 383
+person
+117 484 78 379
+hug

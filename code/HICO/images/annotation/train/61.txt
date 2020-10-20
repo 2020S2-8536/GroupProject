@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000062.jpg
+640 288 3
+human
+378 426 61 110
+motorcycle
+388 426 102 140
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008652.jpg
+640 278 3
+human
+267 292 87 139
+boat
+55 581 34 229
+stand_on

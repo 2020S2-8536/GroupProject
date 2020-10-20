@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024613.jpg
+640 640 3
+human
+44 90 240 402
+train
+6 638 6 638
+sit_on

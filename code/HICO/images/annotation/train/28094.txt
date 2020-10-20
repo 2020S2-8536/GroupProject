@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028123.jpg
+640 427 3
+human
+65 147 214 344
+bottle
+247 351 191 230
+carry

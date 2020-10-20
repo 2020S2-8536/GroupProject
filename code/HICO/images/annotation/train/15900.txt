@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015920.jpg
+381 640 3
+human
+132 346 80 617
+person
+43 183 55 635
+hug

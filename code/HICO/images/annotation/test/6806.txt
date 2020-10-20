@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006910.jpg
+640 480 3
+human
+274 306 157 200
+bus
+174 420 115 274
+sit_on

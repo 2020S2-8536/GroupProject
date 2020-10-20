@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017643.jpg
+640 480 3
+human
+58 623 60 478
+person
+190 638 99 478
+hug

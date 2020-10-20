@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008096.jpg
+640 427 3
+human
+318 364 115 339
+sheep
+159 296 136 226
+feed

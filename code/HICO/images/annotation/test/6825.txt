@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006929.jpg
+640 480 3
+human
+370 530 118 412
+horse
+89 451 40 426
+hug

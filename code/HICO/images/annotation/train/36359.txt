@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036390.jpg
+640 427 3
+human
+94 399 147 426
+cat
+91 460 14 423
+hug

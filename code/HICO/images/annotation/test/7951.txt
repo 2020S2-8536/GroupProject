@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008057.jpg
+640 462 3
+human
+389 479 60 190
+horse
+400 515 99 265
+hug

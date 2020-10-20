@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006146.jpg
+500 332 3
+human
+440 496 1 242
+person
+15 278 9 214
+carry

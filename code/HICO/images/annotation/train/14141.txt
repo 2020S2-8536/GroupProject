@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014160.jpg
+333 500 3
+human
+4 331 14 495
+chair
+3 328 25 498
+lie_on

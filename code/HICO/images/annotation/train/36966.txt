@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036997.jpg
+640 414 3
+human
+267 292 194 249
+train
+231 529 119 359
+drive

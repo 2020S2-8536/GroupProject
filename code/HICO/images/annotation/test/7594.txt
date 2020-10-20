@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007700.jpg
+640 477 3
+human
+314 406 280 325
+boat
+227 398 7 338
+sit_on

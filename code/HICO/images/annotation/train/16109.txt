@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016129.jpg
+640 480 3
+human
+69 625 53 468
+person
+36 348 86 471
+kiss

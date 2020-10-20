@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004351.jpg
+640 481 3
+human
+1 429 22 278
+cow
+1 317 163 480
+kiss

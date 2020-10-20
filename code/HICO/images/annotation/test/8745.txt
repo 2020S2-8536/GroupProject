@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008851.jpg
+511 640 3
+human
+7 332 232 634
+chair
+9 317 310 621
+stand_on

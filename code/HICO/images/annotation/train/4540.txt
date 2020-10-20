@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004544.jpg
+640 431 3
+human
+319 508 115 301
+bicycle
+10 196 88 202
+carry

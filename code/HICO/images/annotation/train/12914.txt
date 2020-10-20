@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012930.jpg
+402 600 3
+human
+1 263 27 599
+person
+232 400 81 599
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000037.jpg
+640 631 3
+human
+237 620 5 631
+bicycle
+3 633 117 589
+hold

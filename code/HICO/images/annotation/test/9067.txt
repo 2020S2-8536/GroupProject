@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009177.jpg
+640 480 3
+human
+245 305 21 88
+couch
+490 554 52 139
+carry

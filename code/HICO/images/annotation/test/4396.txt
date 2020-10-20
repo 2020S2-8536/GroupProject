@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004482.jpg
+640 437 3
+human
+226 554 130 238
+chair
+50 635 3 434
+sit_on

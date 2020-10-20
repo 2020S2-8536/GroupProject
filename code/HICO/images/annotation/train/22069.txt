@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022098.jpg
+640 480 3
+human
+282 331 58 141
+person
+73 598 44 445
+carry

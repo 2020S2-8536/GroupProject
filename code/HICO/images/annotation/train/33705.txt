@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033734.jpg
+420 640 1
+human
+190 355 101 478
+person
+38 302 98 510
+hug

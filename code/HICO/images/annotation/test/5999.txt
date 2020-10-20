@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006103.jpg
+640 480 3
+human
+178 627 12 472
+cat
+195 533 130 478
+kiss

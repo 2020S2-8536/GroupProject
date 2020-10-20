@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007397.jpg
+640 427 3
+human
+610 640 305 426
+dining_table
+83 638 208 424
+sit_at

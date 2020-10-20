@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000605.jpg
+640 424 3
+human
+343 386 154 306
+train
+4 481 1 421
+sit_on

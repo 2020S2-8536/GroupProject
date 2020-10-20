@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033961.jpg
+640 519 3
+human
+264 403 1 270
+horse
+97 610 50 519
+run

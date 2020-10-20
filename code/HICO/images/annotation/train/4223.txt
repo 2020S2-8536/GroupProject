@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004227.jpg
+640 426 3
+human
+229 457 10 415
+bicycle
+180 563 170 419
+walk

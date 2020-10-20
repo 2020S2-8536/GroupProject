@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007659.jpg
+640 480 3
+human
+15 639 1 480
+cat
+10 639 1 390
+hug

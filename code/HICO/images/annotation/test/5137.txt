@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005233.jpg
+640 640 3
+human
+276 469 148 361
+train
+485 627 146 446
+drive

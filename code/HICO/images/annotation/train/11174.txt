@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011188.jpg
+640 480 3
+human
+77 349 9 478
+sheep
+258 438 231 478
+feed

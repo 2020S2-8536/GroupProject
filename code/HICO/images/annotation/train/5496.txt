@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005505.jpg
+640 427 3
+human
+289 327 259 319
+airplane
+64 608 61 284
+ride

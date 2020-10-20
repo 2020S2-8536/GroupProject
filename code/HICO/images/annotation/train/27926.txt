@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027955.jpg
+637 640 3
+human
+264 348 282 383
+bus
+43 570 6 605
+sit_on

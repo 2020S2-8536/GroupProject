@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003341.jpg
+640 320 3
+human
+210 235 120 143
+airplane
+14 622 17 308
+sit_on

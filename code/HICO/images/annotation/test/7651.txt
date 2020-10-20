@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007757.jpg
+500 333 3
+human
+329 353 151 181
+dining_table
+111 397 179 301
+sit_at

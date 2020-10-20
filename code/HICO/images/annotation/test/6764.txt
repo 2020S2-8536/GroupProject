@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006868.jpg
+640 433 3
+human
+346 366 309 342
+boat
+323 463 4 376
+sit_on

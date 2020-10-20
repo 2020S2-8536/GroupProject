@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002018.jpg
+433 640 1
+human
+64 320 32 511
+boat
+362 411 210 259
+board

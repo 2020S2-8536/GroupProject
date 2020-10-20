@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018768.jpg
+640 480 3
+human
+310 360 258 302
+bus
+292 542 102 386
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018295.jpg
+640 216 3
+human
+286 299 116 138
+airplane
+102 357 61 151
+ride

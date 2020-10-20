@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007004.jpg
+640 425 3
+human
+27 159 70 422
+horse
+83 635 63 422
+hug

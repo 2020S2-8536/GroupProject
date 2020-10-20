@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007212.jpg
+640 432 3
+human
+22 240 106 394
+horse
+82 598 36 386
+hug

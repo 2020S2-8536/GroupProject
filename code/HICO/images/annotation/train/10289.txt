@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010302.jpg
+512 384 3
+human
+23 238 67 383
+horse
+170 511 44 320
+race

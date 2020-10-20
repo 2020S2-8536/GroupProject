@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014756.jpg
+640 480 3
+human
+10 365 384 477
+cat
+215 454 175 435
+pet

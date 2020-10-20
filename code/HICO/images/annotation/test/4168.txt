@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004254.jpg
+480 640 3
+human
+11 462 20 590
+person
+60 426 97 630
+hug

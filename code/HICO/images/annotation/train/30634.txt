@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030663.jpg
+640 425 3
+human
+358 378 187 219
+train
+90 569 118 341
+sit_on

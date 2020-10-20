@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020256.jpg
+562 640 3
+human
+131 531 76 542
+person
+27 471 47 540
+kiss

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002919.jpg
+640 480 3
+human
+414 469 120 234
+sheep
+97 240 240 458
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027544.jpg
+640 426 3
+human
+113 440 2 422
+bus
+398 511 325 375
+board

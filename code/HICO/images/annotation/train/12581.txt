@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012597.jpg
+405 640 3
+human
+25 372 41 597
+sheep
+2 390 274 625
+walk

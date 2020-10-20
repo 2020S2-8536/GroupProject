@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002006.jpg
+640 480 3
+human
+413 503 149 267
+dining_table
+95 586 258 478
+sit_at

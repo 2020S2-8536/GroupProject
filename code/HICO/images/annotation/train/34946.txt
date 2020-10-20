@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034977.jpg
+340 640 3
+human
+244 337 130 338
+horse
+246 334 214 470
+hug

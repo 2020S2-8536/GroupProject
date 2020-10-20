@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022948.jpg
+640 427 3
+human
+24 72 244 389
+bus
+232 589 110 322
+ride

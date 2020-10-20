@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035737.jpg
+640 480 3
+human
+214 459 145 367
+chair
+213 455 195 437
+lie_on

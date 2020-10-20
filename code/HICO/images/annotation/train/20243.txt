@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020271.jpg
+640 427 3
+human
+384 405 150 181
+bus
+27 597 82 366
+sit_on

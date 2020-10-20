@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006177.jpg
+640 426 3
+human
+270 315 336 410
+airplane
+2 500 10 407
+ride

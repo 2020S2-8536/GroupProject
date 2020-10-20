@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021001.jpg
+640 474 3
+human
+402 415 406 424
+boat
+99 529 3 466
+sit_on

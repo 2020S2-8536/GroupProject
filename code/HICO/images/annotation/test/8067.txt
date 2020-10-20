@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008173.jpg
+465 640 3
+human
+140 302 105 476
+sheep
+66 371 251 511
+carry

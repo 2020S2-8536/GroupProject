@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001434.jpg
+640 411 3
+human
+317 402 114 260
+horse
+247 454 143 335
+kiss

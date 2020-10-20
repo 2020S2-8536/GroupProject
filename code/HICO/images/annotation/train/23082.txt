@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023111.jpg
+640 426 3
+human
+240 409 133 424
+bus
+297 631 30 348
+drive

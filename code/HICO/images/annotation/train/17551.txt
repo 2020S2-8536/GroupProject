@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017573.jpg
+536 551 3
+human
+19 506 158 364
+couch
+1 533 169 551
+sit_on

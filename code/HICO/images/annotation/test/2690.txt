@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002748.jpg
+640 539 3
+human
+191 371 2 324
+horse
+66 612 56 507
+kiss

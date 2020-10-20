@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017408.jpg
+427 640 3
+human
+83 401 20 448
+bus
+49 282 363 637
+board

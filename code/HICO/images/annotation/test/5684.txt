@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005788.jpg
+640 480 3
+human
+208 338 90 211
+dining_table
+28 582 126 477
+sit_at

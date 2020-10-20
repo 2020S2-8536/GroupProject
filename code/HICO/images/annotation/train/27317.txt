@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027346.jpg
+591 555 3
+human
+365 496 220 552
+horse
+9 458 220 552
+hug

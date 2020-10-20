@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022413.jpg
+640 480 3
+human
+103 133 250 358
+bus
+41 623 17 444
+ride

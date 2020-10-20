@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001570.jpg
+640 427 3
+human
+532 552 332 350
+boat
+355 552 1 397
+sit_on

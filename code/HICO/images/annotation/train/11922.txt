@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011937.jpg
+640 427 3
+human
+102 632 4 421
+horse
+5 474 14 426
+hold

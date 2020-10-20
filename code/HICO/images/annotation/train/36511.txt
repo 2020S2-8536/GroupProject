@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036542.jpg
+640 640 3
+human
+1 22 135 212
+dog
+90 157 232 310
+carry

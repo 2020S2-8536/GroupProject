@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027381.jpg
+640 360 3
+human
+525 622 5 226
+couch
+134 262 99 286
+carry

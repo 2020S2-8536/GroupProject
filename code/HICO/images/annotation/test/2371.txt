@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002422.jpg
+427 640 3
+human
+118 372 98 554
+dog
+80 259 330 573
+run

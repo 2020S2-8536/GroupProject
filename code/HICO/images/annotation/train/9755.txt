@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009768.jpg
+480 640 3
+human
+113 410 28 406
+horse
+114 366 164 602
+hug

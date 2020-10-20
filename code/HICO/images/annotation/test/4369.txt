@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004455.jpg
+640 426 3
+human
+218 333 54 361
+person
+311 435 52 361
+hug

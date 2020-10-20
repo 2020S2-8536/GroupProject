@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012869.jpg
+600 446 1
+human
+216 561 28 441
+person
+221 555 34 445
+hug

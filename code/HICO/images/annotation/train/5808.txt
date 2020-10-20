@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005817.jpg
+478 640 3
+human
+87 395 75 605
+train
+32 442 28 575
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006688.jpg
+640 426 3
+human
+439 636 186 422
+person
+453 539 243 399
+greet

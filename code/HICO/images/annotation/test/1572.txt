@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001607.jpg
+640 457 3
+human
+213 401 38 305
+bus
+30 94 367 457
+board

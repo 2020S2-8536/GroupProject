@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016982.jpg
+388 581 3
+human
+56 315 333 572
+person
+14 382 14 573
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007029.jpg
+640 480 3
+human
+200 606 157 474
+person
+111 400 163 479
+kiss

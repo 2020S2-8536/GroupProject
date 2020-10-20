@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008628.jpg
+640 432 3
+human
+355 538 86 410
+chair
+400 618 146 421
+stand_on

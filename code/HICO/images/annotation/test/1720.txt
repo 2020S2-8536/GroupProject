@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001758.jpg
+640 480 3
+human
+314 335 366 387
+boat
+79 598 17 422
+sit_on

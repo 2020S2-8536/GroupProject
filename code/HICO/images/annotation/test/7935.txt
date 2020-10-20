@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008041.jpg
+640 412 3
+human
+410 436 206 262
+airplane
+17 639 25 285
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029358.jpg
+640 489 1
+human
+559 639 210 479
+horse
+95 555 58 479
+hug

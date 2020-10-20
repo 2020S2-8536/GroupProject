@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003685.jpg
+640 360 3
+human
+338 448 20 221
+bicycle
+80 492 56 347
+sit_on

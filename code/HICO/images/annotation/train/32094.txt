@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032123.jpg
+426 640 3
+human
+278 308 141 231
+boat
+7 409 281 502
+board

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006351.jpg
+623 640 1
+human
+267 606 32 629
+person
+169 389 78 625
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020165.jpg
+640 448 3
+human
+2 553 2 442
+bottle
+309 633 18 440
+open

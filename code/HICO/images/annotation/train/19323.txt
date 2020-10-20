@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019349.jpg
+640 334 3
+human
+143 150 230 255
+bicycle
+105 532 63 210
+carry

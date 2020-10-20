@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005280.jpg
+640 480 3
+human
+129 327 69 473
+dog
+1 631 68 468
+run

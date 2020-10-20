@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004571.jpg
+522 640 3
+human
+127 191 146 241
+train
+2 499 52 537
+sit_on

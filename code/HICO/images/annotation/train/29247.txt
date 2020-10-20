@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029276.jpg
+640 416 3
+human
+2 195 7 408
+bus
+288 348 132 366
+board

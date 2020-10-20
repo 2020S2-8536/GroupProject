@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026697.jpg
+640 480 3
+human
+82 630 9 471
+bird
+202 466 74 338
+pet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008923.jpg
+432 640 3
+human
+34 351 23 612
+bird
+106 422 278 546
+pet

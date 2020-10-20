@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000660.jpg
+640 454 3
+human
+31 449 11 449
+person
+70 400 147 441
+kiss

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021769.jpg
+640 480 3
+human
+154 162 324 339
+boat
+130 484 32 378
+sit_on

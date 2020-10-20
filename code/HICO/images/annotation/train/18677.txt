@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018701.jpg
+401 640 3
+human
+10 323 82 508
+sheep
+92 254 222 535
+hug

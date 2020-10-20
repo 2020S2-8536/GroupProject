@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008461.jpg
+640 414 3
+human
+303 471 52 278
+cow
+434 587 107 166
+feed

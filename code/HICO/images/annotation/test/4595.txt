@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004684.jpg
+640 351 3
+human
+102 384 70 258
+chair
+78 303 98 270
+sit_on

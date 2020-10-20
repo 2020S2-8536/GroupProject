@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000185.jpg
+640 360 3
+human
+517 639 51 274
+bicycle
+471 635 165 332
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006568.jpg
+625 640 1
+human
+151 246 298 552
+chair
+51 268 308 510
+stand_on

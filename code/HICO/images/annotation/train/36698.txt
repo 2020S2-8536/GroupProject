@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036729.jpg
+418 640 3
+human
+192 415 55 545
+dog
+2 293 287 597
+kiss

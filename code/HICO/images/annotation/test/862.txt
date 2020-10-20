@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000879.jpg
+640 480 3
+human
+447 638 97 468
+horse
+17 530 44 438
+hold

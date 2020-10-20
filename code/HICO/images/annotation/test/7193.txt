@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007298.jpg
+600 450 3
+human
+91 269 156 375
+dining_table
+119 456 165 449
+sit_at

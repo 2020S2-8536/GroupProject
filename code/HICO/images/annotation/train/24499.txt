@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024528.jpg
+640 480 3
+human
+73 638 2 478
+person
+95 462 3 477
+hug

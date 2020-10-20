@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009308.jpg
+427 640 3
+human
+43 343 137 600
+chair
+67 323 299 560
+lie_on

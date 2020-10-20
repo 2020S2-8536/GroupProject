@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025991.jpg
+500 338 3
+human
+32 227 46 271
+dining_table
+2 498 263 336
+sit_at

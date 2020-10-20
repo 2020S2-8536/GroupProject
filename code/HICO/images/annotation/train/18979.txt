@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019004.jpg
+640 480 3
+human
+130 630 78 478
+person
+47 357 110 479
+hug

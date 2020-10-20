@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002525.jpg
+640 360 3
+human
+242 282 162 198
+bus
+67 577 54 314
+sit_on

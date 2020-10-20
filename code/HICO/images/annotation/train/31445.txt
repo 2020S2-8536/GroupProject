@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031474.jpg
+612 612 3
+human
+10 608 5 607
+cat
+16 608 32 501
+hug

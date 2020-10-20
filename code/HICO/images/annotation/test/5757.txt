@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005861.jpg
+319 480 3
+human
+100 206 28 266
+horse
+51 247 134 408
+run

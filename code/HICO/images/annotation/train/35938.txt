@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035969.jpg
+500 333 3
+human
+131 423 6 328
+bottle
+282 413 130 231
+hold

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008557.jpg
+640 635 3
+human
+323 538 142 431
+motorcycle
+146 544 176 562
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000738.jpg
+640 428 3
+human
+229 303 203 386
+bus
+96 471 106 302
+sit_on

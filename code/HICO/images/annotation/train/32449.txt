@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032478.jpg
+640 513 3
+human
+529 583 215 329
+train
+51 555 5 502
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033660.jpg
+426 640 3
+human
+50 302 68 569
+train
+303 425 454 594
+board

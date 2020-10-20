@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004126.jpg
+640 480 3
+human
+306 602 70 475
+tv
+94 399 36 378
+watch

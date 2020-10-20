@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003732.jpg
+640 609 3
+human
+211 419 26 609
+person
+47 250 101 607
+hug

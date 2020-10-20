@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034668.jpg
+612 612 3
+human
+2 216 126 450
+dining_table
+1 611 349 610
+sit_at

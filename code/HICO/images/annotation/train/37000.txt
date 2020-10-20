@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00037031.jpg
+640 480 3
+human
+187 202 191 210
+train
+189 330 146 310
+drive

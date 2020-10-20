@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008765.jpg
+640 480 3
+human
+59 491 8 474
+cat
+123 409 226 478
+hug

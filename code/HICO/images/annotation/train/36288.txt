@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036319.jpg
+640 464 3
+human
+209 236 229 377
+bus
+278 590 156 390
+ride

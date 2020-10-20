@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005234.jpg
+640 393 3
+human
+464 573 50 194
+sheep
+548 636 119 163
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027647.jpg
+128 96 3
+human
+48 120 24 96
+cow
+2 102 2 95
+pet

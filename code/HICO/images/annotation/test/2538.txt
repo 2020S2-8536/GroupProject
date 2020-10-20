@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002596.jpg
+640 489 3
+human
+22 281 21 281
+chair
+29 205 129 395
+sit_on

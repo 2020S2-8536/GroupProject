@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027377.jpg
+500 375 3
+human
+36 488 7 364
+bird
+42 404 104 279
+pet

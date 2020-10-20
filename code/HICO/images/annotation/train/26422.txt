@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026451.jpg
+640 426 3
+human
+209 422 97 418
+sheep
+379 582 289 425
+walk

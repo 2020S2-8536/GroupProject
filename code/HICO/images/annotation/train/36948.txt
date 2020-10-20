@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036979.jpg
+640 427 3
+human
+2 422 2 424
+sheep
+261 639 2 424
+pet

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007495.jpg
+640 360 3
+human
+574 617 212 298
+bus
+171 474 85 312
+drive

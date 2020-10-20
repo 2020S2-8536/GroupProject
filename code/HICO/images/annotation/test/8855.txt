@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008961.jpg
+640 426 3
+human
+150 198 128 278
+horse
+52 253 154 356
+hug

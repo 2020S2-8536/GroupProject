@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003554.jpg
+427 640 3
+human
+96 378 17 639
+bus
+114 169 278 344
+board

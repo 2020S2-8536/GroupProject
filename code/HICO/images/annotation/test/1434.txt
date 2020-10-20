@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001469.jpg
+426 640 3
+human
+126 311 210 539
+dining_table
+3 235 343 495
+sit_at

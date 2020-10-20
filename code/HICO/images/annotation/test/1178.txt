@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001199.jpg
+640 483 3
+human
+135 638 34 479
+person
+2 355 50 482
+hug

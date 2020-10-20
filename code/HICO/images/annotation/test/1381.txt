@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001413.jpg
+604 453 3
+human
+119 359 81 452
+sheep
+244 433 55 347
+feed

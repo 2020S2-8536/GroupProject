@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034338.jpg
+640 417 3
+human
+386 450 131 202
+bicycle
+372 456 150 226
+hop_on

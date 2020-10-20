@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014599.jpg
+480 640 3
+human
+1 477 2 639
+person
+1 246 211 566
+kiss

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036970.jpg
+640 640 3
+human
+67 116 8 56
+train
+46 349 275 606
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036948.jpg
+480 640 3
+human
+35 116 137 316
+train
+158 471 158 636
+board

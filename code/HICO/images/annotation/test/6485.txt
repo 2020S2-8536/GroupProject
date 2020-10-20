@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006589.jpg
+640 462 3
+human
+230 261 245 320
+boat
+1 613 118 350
+drive

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004020.jpg
+640 594 3
+human
+69 339 20 541
+bicycle
+58 512 259 534
+walk

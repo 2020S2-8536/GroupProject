@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027231.jpg
+640 480 3
+human
+335 401 114 270
+cow
+253 505 177 357
+walk

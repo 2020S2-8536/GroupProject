@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008456.jpg
+640 467 3
+human
+346 630 70 398
+bus
+310 358 153 329
+board

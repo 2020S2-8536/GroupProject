@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001865.jpg
+640 480 3
+human
+144 484 1 408
+cat
+282 451 275 480
+feed

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005605.jpg
+640 426 3
+human
+172 639 129 352
+sheep
+2 394 2 295
+herd

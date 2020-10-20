@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009183.jpg
+640 640 3
+human
+582 631 367 521
+car
+91 583 174 530
+board

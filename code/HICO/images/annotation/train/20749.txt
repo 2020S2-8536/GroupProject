@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020777.jpg
+640 559 3
+human
+180 358 102 323
+horse
+118 460 149 494
+hug

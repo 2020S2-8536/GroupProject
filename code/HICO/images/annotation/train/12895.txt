@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012911.jpg
+612 612 3
+human
+2 593 32 609
+person
+154 524 78 503
+hug

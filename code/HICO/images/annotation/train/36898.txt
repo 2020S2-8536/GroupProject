@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036929.jpg
+640 480 3
+human
+496 597 66 243
+motorcycle
+218 400 158 441
+race

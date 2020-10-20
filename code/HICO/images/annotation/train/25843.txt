@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025872.jpg
+612 612 3
+human
+1 199 137 557
+dining_table
+37 611 281 571
+sit_at

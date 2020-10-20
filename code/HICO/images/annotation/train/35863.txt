@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035894.jpg
+640 539 3
+human
+135 558 65 392
+person
+88 382 107 505
+kiss

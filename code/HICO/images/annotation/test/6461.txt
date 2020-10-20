@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006565.jpg
+640 481 3
+human
+231 440 37 398
+motorcycle
+90 610 81 450
+sit_on

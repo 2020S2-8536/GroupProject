@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008896.jpg
+640 484 1
+human
+286 342 266 405
+horse
+242 314 267 388
+train

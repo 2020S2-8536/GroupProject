@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001475.jpg
+640 480 3
+human
+70 193 94 408
+chair
+61 209 181 395
+stand_on

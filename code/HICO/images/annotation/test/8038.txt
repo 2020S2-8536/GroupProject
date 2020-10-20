@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008144.jpg
+640 555 3
+human
+350 504 2 402
+horse
+300 633 62 544
+ride

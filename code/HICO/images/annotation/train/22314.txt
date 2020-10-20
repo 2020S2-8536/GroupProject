@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022343.jpg
+532 640 3
+human
+6 260 27 633
+person
+208 502 77 604
+kiss

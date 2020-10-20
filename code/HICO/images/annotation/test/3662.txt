@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003745.jpg
+640 480 3
+human
+535 562 80 142
+dog
+1 556 86 478
+carry

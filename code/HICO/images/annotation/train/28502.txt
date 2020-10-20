@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028531.jpg
+640 605 3
+human
+255 608 95 589
+dog
+84 258 343 595
+run

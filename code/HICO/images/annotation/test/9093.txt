@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009203.jpg
+640 424 3
+human
+370 561 2 120
+dog
+4 634 78 416
+carry

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005278.jpg
+600 400 3
+human
+254 366 30 243
+horse
+188 495 78 334
+kiss

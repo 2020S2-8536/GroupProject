@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023353.jpg
+640 439 3
+human
+58 267 106 348
+cow
+207 601 30 284
+pet

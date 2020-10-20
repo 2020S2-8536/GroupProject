@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036646.jpg
+640 427 3
+human
+379 638 2 368
+dog
+1 365 43 426
+walk

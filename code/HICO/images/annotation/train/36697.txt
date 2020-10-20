@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036728.jpg
+640 426 3
+human
+42 265 32 321
+dog
+90 339 198 381
+kiss

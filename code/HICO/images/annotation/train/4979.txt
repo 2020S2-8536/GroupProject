@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004987.jpg
+512 640 3
+human
+224 476 19 554
+person
+12 450 164 583
+kiss

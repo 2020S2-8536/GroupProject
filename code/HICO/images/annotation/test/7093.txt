@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007197.jpg
+640 480 3
+human
+95 166 102 250
+bus
+18 150 227 354
+board

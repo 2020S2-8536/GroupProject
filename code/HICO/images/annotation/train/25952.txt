@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025981.jpg
+360 480 3
+human
+94 210 45 341
+bicycle
+260 358 175 475
+walk

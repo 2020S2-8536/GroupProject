@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009000.jpg
+429 640 3
+human
+36 381 102 467
+chair
+86 415 175 575
+hold

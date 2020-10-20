@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029558.jpg
+640 427 3
+human
+356 426 178 291
+dog
+398 529 291 423
+carry

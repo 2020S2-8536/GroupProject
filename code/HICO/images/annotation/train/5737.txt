@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005746.jpg
+640 606 3
+human
+578 594 298 361
+train
+241 636 121 515
+sit_on

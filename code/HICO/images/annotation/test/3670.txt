@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003753.jpg
+640 427 3
+human
+508 534 163 226
+horse
+513 532 197 222
+run

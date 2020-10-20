@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004854.jpg
+640 426 3
+human
+285 527 29 424
+train
+267 282 218 235
+board

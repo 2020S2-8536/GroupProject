@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030592.jpg
+640 426 3
+human
+264 468 118 398
+bird
+213 303 132 243
+hold

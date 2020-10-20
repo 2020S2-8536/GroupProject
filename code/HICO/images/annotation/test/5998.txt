@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006102.jpg
+500 500 3
+human
+298 376 349 422
+boat
+259 420 218 433
+sit_on

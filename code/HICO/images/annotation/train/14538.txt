@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014557.jpg
+640 428 3
+human
+128 162 3 87
+person
+26 519 96 405
+carry

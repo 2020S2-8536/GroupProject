@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006267.jpg
+425 640 3
+human
+50 191 154 490
+bird
+257 300 338 391
+hold

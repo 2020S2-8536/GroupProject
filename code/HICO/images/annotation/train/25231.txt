@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025260.jpg
+484 324 3
+human
+357 482 45 319
+cow
+272 331 64 106
+hold

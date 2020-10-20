@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002707.jpg
+640 480 3
+human
+333 400 242 337
+chair
+214 301 257 339
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002620.jpg
+640 511 3
+human
+345 372 129 215
+dining_table
+87 446 214 509
+sit_at

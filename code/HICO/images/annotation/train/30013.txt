@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030042.jpg
+640 480 3
+human
+271 336 263 306
+car
+15 625 258 409
+ride

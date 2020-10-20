@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015693.jpg
+640 392 3
+human
+578 603 43 96
+person
+16 632 42 368
+carry

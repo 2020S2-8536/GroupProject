@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036696.jpg
+640 424 3
+human
+44 155 165 384
+dog
+115 180 276 387
+run

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031444.jpg
+640 473 3
+human
+95 350 18 450
+cat
+286 486 88 328
+hug

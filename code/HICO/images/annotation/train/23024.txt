@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023053.jpg
+640 426 3
+human
+486 556 1 149
+person
+106 260 24 101
+carry

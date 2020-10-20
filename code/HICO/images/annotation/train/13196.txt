@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013212.jpg
+609 640 3
+human
+6 393 36 637
+person
+19 265 94 606
+hug

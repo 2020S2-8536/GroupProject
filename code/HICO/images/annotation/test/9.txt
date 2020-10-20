@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000010.jpg
+480 640 3
+human
+99 162 71 204
+couch
+378 398 114 131
+carry

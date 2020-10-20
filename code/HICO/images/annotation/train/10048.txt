@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010061.jpg
+640 640 3
+human
+490 510 547 598
+boat
+139 214 469 538
+board

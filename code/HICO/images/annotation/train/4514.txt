@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004518.jpg
+640 638 3
+human
+24 527 30 635
+person
+52 556 172 635
+hug

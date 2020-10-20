@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014214.jpg
+640 426 3
+human
+319 484 160 424
+person
+366 532 142 424
+greet

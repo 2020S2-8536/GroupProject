@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021755.jpg
+640 457 3
+human
+226 479 4 444
+bicycle
+195 574 4 450
+ride

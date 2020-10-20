@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004151.jpg
+640 357 3
+human
+286 638 62 353
+chair
+238 560 143 354
+stand_on

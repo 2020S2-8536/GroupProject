@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036374.jpg
+640 640 3
+human
+7 394 3 637
+cat
+162 634 182 603
+hug

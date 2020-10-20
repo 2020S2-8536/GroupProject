@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003932.jpg
+399 600 3
+human
+1 327 26 597
+sheep
+148 331 350 597
+hug

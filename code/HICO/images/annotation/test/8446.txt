@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008552.jpg
+640 507 3
+human
+364 505 112 420
+horse
+152 397 65 423
+hug

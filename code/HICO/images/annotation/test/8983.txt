@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009093.jpg
+640 640 3
+human
+516 638 2 638
+boat
+76 572 88 638
+board

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001108.jpg
+640 640 3
+human
+331 408 302 438
+chair
+54 150 346 499
+stand_on

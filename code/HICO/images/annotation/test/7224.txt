@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007329.jpg
+640 480 3
+human
+166 313 193 354
+car
+1 581 151 470
+ride

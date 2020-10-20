@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022271.jpg
+640 448 3
+human
+362 613 53 446
+person
+21 414 118 446
+hug

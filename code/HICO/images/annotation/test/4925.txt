@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005021.jpg
+612 612 3
+human
+181 254 180 370
+boat
+240 261 315 339
+board

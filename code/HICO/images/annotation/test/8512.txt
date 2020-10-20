@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008618.jpg
+240 320 3
+human
+98 160 143 279
+bicycle
+48 221 206 309
+sit_on

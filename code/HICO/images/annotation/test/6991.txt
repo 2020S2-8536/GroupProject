@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007095.jpg
+640 480 3
+human
+302 371 157 219
+horse
+212 414 195 478
+pet

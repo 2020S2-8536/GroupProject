@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036335.jpg
+640 480 3
+human
+283 321 147 192
+bus
+3 420 111 316
+ride

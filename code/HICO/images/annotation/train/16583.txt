@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016605.jpg
+640 482 3
+human
+92 634 13 475
+person
+13 367 88 471
+hug

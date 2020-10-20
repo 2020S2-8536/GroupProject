@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003526.jpg
+480 640 3
+human
+71 414 11 528
+sheep
+70 466 118 616
+hug

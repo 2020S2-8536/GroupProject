@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007645.jpg
+640 360 3
+human
+302 396 24 219
+horse
+99 486 57 290
+train

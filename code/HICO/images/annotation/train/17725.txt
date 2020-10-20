@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017747.jpg
+640 414 3
+human
+186 598 102 403
+person
+220 638 38 412
+hug

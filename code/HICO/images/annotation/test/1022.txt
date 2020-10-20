@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001039.jpg
+640 480 3
+human
+170 320 83 433
+bicycle
+7 184 230 366
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005829.jpg
+640 425 3
+human
+494 580 91 376
+motorcycle
+46 422 138 371
+hold

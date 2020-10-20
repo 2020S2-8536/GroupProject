@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023805.jpg
+640 591 3
+human
+67 501 36 590
+person
+240 616 36 582
+hug

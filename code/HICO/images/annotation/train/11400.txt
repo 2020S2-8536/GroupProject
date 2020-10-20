@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011414.jpg
+427 640 3
+human
+136 362 150 636
+potted_plant
+141 330 60 621
+hold

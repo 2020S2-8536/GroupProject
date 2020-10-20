@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004777.jpg
+640 480 3
+human
+233 252 213 259
+bottle
+62 332 158 253
+carry

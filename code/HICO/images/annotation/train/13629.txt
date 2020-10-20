@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013645.jpg
+640 431 3
+human
+349 414 130 262
+airplane
+3 629 75 306
+ride

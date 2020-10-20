@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023436.jpg
+640 428 3
+human
+559 587 207 271
+horse
+541 607 227 278
+run

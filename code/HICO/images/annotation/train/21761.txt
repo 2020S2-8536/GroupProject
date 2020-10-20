@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021790.jpg
+640 640 3
+human
+59 420 20 480
+dog
+38 619 290 597
+run

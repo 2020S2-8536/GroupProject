@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021665.jpg
+640 474 3
+human
+302 639 50 271
+motorcycle
+213 633 137 443
+hop_on

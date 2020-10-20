@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004609.jpg
+640 480 3
+human
+50 82 274 312
+bus
+10 157 186 362
+sit_on

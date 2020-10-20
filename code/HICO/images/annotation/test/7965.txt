@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008071.jpg
+640 424 3
+human
+378 429 256 338
+chair
+385 433 292 338
+stand_on

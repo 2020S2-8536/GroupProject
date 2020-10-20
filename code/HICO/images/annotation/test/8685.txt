@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008791.jpg
+640 427 3
+human
+541 577 155 201
+motorcycle
+528 567 191 258
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032887.jpg
+640 425 3
+human
+167 339 144 327
+motorcycle
+120 428 198 402
+race

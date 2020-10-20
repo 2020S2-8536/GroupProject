@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013590.jpg
+640 427 3
+human
+72 488 93 426
+cow
+1 640 225 411
+feed

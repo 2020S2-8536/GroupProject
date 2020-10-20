@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000759.jpg
+640 425 3
+human
+213 321 79 280
+motorcycle
+197 430 186 382
+hop_on

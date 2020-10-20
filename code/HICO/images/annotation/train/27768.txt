@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027797.jpg
+480 319 3
+human
+180 274 57 171
+horse
+49 336 70 299
+hug

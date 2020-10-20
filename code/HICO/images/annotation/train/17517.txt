@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017539.jpg
+393 640 3
+human
+33 381 18 590
+dog
+56 233 472 637
+train

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005707.jpg
+640 366 3
+human
+2 54 277 363
+dining_table
+62 635 225 364
+sit_at

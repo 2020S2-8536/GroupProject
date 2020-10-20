@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00037003.jpg
+640 397 3
+human
+334 370 134 182
+train
+183 499 71 340
+sit_on

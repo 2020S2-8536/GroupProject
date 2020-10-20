@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016118.jpg
+640 424 3
+human
+14 445 57 417
+person
+43 347 53 325
+hug

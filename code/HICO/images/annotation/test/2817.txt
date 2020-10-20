@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002877.jpg
+640 429 3
+human
+213 272 5 82
+person
+70 564 63 405
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025623.jpg
+640 406 3
+human
+433 469 178 286
+motorcycle
+292 391 189 297
+hold

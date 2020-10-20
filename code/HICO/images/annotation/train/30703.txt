@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030732.jpg
+640 427 3
+human
+456 507 306 411
+train
+1 499 2 421
+drive

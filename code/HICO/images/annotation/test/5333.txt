@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005435.jpg
+640 480 3
+human
+118 289 27 240
+bicycle
+7 518 74 470
+walk

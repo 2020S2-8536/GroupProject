@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036447.jpg
+479 640 3
+human
+5 469 6 635
+chair
+50 463 11 633
+sit_on

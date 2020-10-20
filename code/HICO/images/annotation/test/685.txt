@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000698.jpg
+640 387 3
+human
+456 502 195 316
+dog
+2 54 253 288
+walk

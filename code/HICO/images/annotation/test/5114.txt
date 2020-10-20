@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005210.jpg
+640 427 3
+human
+39 76 318 352
+bicycle
+489 539 123 153
+hop_on

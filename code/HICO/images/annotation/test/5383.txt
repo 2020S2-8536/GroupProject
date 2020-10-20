@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005485.jpg
+640 480 3
+human
+279 368 162 334
+motorcycle
+252 405 218 394
+ride

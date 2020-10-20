@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000783.jpg
+640 427 3
+human
+264 625 35 245
+dog
+1 352 111 263
+run

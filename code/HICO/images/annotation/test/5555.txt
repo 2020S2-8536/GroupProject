@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005657.jpg
+640 424 3
+human
+339 456 111 255
+motorcycle
+328 417 133 256
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007162.jpg
+440 640 3
+human
+37 404 28 540
+cat
+144 342 437 538
+hug

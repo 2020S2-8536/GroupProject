@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020156.jpg
+640 599 3
+human
+272 323 60 131
+person
+13 620 20 553
+carry

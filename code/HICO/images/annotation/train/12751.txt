@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012767.jpg
+640 417 3
+human
+375 571 70 412
+bicycle
+260 638 52 370
+hold

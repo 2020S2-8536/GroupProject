@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002074.jpg
+640 487 3
+human
+257 287 149 262
+chair
+367 393 197 248
+stand_on

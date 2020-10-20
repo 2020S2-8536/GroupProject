@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025129.jpg
+640 427 3
+human
+375 637 39 423
+cow
+118 563 49 426
+hug

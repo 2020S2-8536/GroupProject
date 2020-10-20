@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000551.jpg
+375 500 3
+human
+51 255 4 107
+cat
+9 345 85 312
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032536.jpg
+640 482 3
+human
+195 259 311 457
+airplane
+1 593 19 434
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017640.jpg
+640 427 3
+human
+312 546 11 347
+dog
+210 568 258 424
+run

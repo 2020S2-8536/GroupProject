@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021459.jpg
+640 561 3
+human
+70 607 102 559
+person
+315 618 194 560
+hug

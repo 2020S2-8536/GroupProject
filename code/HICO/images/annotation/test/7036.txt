@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007140.jpg
+500 375 3
+human
+3 30 85 141
+bicycle
+3 287 269 372
+walk

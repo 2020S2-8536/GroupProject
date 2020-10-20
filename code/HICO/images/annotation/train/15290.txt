@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015310.jpg
+640 426 3
+human
+80 266 88 322
+motorcycle
+18 382 165 381
+ride

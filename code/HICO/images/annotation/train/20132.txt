@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020160.jpg
+639 640 3
+human
+4 233 114 598
+train
+33 633 7 574
+sit_on

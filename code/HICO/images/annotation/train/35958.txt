@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035989.jpg
+640 346 3
+human
+311 342 110 155
+car
+18 630 26 331
+ride

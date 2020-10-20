@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018982.jpg
+400 600 3
+human
+135 345 55 415
+horse
+113 323 71 536
+hug

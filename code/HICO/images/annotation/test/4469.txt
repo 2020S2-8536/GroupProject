@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004555.jpg
+432 640 3
+human
+167 315 237 546
+couch
+34 151 395 542
+carry

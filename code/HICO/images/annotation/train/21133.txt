@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021162.jpg
+400 600 3
+human
+136 284 174 486
+chair
+262 301 356 422
+hold

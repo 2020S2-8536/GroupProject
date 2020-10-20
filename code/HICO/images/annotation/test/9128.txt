@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009238.jpg
+640 427 3
+human
+138 368 50 285
+dog
+247 433 157 328
+run

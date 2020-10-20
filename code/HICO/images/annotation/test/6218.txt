@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006322.jpg
+640 335 3
+human
+258 274 138 158
+bus
+27 613 69 277
+sit_on

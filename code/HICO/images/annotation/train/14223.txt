@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014242.jpg
+622 467 3
+human
+81 101 167 183
+couch
+553 580 160 209
+carry

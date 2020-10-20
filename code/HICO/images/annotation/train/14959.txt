@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014979.jpg
+640 360 3
+human
+278 394 140 356
+bird
+290 332 214 287
+pet

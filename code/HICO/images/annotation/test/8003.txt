@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008109.jpg
+426 640 3
+human
+131 233 223 329
+dining_table
+1 423 323 637
+sit_at

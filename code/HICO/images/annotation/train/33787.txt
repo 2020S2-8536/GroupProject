@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033816.jpg
+640 480 3
+human
+210 372 26 336
+bicycle
+166 451 160 370
+ride

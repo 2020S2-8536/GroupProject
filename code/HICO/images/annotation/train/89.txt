@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000090.jpg
+640 428 3
+human
+309 607 332 426
+bird
+228 532 103 325
+pet

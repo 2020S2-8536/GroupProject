@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012987.jpg
+640 458 3
+human
+240 363 14 233
+horse
+73 487 58 454
+train

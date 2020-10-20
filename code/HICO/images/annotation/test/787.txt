@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000804.jpg
+426 640 3
+human
+204 303 96 353
+sheep
+1 293 238 547
+walk

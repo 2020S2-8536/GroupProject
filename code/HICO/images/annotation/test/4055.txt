@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004139.jpg
+640 450 3
+human
+293 310 291 340
+bus
+7 597 209 449
+sit_on

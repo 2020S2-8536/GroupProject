@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002446.jpg
+480 640 3
+human
+396 479 56 324
+bus
+73 259 99 552
+board

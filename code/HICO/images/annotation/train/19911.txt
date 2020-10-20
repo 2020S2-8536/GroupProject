@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019939.jpg
+640 425 3
+human
+215 274 83 206
+motorcycle
+253 402 85 406
+hold

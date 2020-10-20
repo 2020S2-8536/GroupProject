@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002720.jpg
+640 480 3
+human
+21 30 184 205
+bus
+2 615 75 476
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016471.jpg
+640 427 3
+human
+407 444 258 282
+boat
+22 408 1 418
+drive

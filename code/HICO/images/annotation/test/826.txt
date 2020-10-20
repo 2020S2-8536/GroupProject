@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000843.jpg
+508 640 3
+human
+2 506 19 215
+couch
+2 505 537 577
+sit_on

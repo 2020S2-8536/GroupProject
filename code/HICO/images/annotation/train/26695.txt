@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026724.jpg
+640 521 3
+human
+50 328 36 518
+chair
+148 322 58 339
+hold

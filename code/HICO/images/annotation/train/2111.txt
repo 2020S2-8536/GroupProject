@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002112.jpg
+640 425 3
+human
+159 294 130 338
+bicycle
+213 520 102 346
+ride

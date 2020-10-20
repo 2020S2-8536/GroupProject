@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007551.jpg
+594 640 1
+human
+95 590 178 635
+chair
+50 263 372 635
+stand_on

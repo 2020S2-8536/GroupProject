@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011952.jpg
+640 444 3
+human
+318 634 49 434
+train
+8 630 10 434
+sit_on

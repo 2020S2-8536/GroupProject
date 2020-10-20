@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036505.jpg
+640 336 3
+human
+48 255 64 334
+cow
+401 622 216 335
+hold

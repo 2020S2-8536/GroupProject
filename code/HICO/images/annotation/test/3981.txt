@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004065.jpg
+640 458 3
+human
+596 631 136 211
+bicycle
+79 176 211 388
+sit_on

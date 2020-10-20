@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028129.jpg
+640 420 3
+human
+243 330 76 330
+train
+2 638 2 392
+drive

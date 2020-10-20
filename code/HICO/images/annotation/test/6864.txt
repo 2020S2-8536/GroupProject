@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006968.jpg
+604 453 3
+human
+183 261 146 312
+dining_table
+139 459 242 444
+sit_at

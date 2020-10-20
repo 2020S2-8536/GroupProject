@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006068.jpg
+480 640 3
+human
+151 478 84 538
+cow
+2 464 1 505
+pet

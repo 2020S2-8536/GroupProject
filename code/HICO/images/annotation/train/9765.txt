@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009778.jpg
+480 640 3
+human
+260 470 127 528
+cow
+52 230 337 499
+ride

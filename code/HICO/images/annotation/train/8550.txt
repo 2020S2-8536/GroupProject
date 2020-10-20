@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008559.jpg
+640 480 3
+human
+482 585 358 478
+sheep
+245 322 354 446
+carry

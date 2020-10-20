@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009352.jpg
+453 640 1
+human
+317 416 81 614
+person
+286 389 118 609
+kiss

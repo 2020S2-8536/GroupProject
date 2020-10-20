@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012440.jpg
+640 480 3
+human
+394 540 6 363
+dog
+159 403 246 478
+walk

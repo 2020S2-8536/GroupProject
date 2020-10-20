@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007287.jpg
+640 480 3
+human
+562 638 230 468
+bus
+189 228 314 438
+board

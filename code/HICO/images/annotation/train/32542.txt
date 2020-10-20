@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032571.jpg
+640 427 3
+human
+301 307 315 323
+boat
+349 596 41 363
+sit_on

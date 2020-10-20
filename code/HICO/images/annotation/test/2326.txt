@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002376.jpg
+427 640 3
+human
+145 292 163 529
+bicycle
+69 423 318 521
+walk

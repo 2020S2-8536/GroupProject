@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018880.jpg
+480 640 3
+human
+102 332 32 475
+bicycle
+139 387 180 533
+hop_on

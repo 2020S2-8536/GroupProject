@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008845.jpg
+512 640 3
+human
+153 361 90 356
+horse
+39 450 83 538
+hug

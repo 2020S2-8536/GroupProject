@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024070.jpg
+640 640 3
+human
+373 638 202 638
+bicycle
+1 638 2 538
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014481.jpg
+480 640 3
+human
+16 350 118 606
+chair
+91 359 274 597
+lie_on

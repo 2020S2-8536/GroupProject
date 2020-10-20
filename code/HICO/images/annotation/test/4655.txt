@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004746.jpg
+640 480 3
+human
+60 139 162 238
+boat
+17 241 203 303
+sail

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003507.jpg
+640 480 3
+human
+237 336 160 360
+bicycle
+201 347 250 385
+walk

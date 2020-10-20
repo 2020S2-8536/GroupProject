@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013738.jpg
+640 521 3
+human
+89 300 237 517
+train
+3 635 6 515
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006993.jpg
+640 427 3
+human
+294 529 182 421
+person
+289 635 5 424
+hug

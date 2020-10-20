@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005705.jpg
+640 640 3
+human
+132 350 124 486
+chair
+76 338 178 521
+lie_on

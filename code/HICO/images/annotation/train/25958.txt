@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025987.jpg
+640 425 3
+human
+83 145 122 316
+person
+17 638 2 412
+carry

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008626.jpg
+640 488 1
+human
+250 488 119 475
+cow
+3 243 247 472
+hug

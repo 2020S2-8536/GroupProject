@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006670.jpg
+640 480 3
+human
+268 498 38 478
+bicycle
+134 558 157 478
+hold

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009110.jpg
+640 452 3
+human
+262 327 162 203
+boat
+77 382 169 332
+stand_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004975.jpg
+640 480 3
+human
+99 119 218 274
+dining_table
+336 443 203 281
+clean

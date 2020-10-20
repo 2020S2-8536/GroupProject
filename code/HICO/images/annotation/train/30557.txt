@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030586.jpg
+300 200 3
+human
+125 201 8 83
+person
+85 275 51 191
+hug

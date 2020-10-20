@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017241.jpg
+640 427 3
+human
+445 475 158 189
+airplane
+26 592 122 312
+sit_on

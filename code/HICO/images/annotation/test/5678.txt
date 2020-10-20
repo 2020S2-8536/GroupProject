@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005782.jpg
+480 640 3
+human
+79 428 234 635
+person
+12 312 193 634
+hug

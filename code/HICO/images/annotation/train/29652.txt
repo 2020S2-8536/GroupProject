@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029681.jpg
+640 427 3
+human
+256 312 171 262
+dining_table
+207 470 250 360
+sit_at

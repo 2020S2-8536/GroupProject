@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021085.jpg
+484 640 3
+human
+244 272 242 277
+train
+79 382 166 433
+sit_on

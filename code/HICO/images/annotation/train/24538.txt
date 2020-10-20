@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024567.jpg
+640 469 3
+human
+182 294 25 192
+person
+80 578 83 452
+carry

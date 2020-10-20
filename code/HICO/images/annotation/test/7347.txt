@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007453.jpg
+640 480 3
+human
+1 638 2 478
+cat
+6 452 108 350
+hug

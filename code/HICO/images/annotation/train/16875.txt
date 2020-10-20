@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016897.jpg
+640 427 3
+human
+91 508 44 421
+person
+115 484 29 421
+hug

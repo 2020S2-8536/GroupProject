@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004229.jpg
+640 426 3
+human
+141 463 98 347
+chair
+358 571 194 351
+sit_on

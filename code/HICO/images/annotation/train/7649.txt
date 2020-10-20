@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007658.jpg
+427 640 3
+human
+1 212 153 575
+potted_plant
+248 423 135 544
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013637.jpg
+640 426 3
+human
+111 501 14 424
+cat
+50 495 128 353
+hug

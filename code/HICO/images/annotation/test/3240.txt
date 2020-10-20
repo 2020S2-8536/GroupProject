@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003314.jpg
+640 480 3
+human
+1 610 118 478
+bottle
+203 446 204 311
+hold

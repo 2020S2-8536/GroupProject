@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000443.jpg
+640 480 3
+human
+125 577 82 479
+person
+142 354 178 479
+kiss

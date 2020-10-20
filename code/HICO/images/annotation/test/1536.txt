@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001571.jpg
+640 480 3
+human
+275 334 197 263
+bus
+426 614 134 355
+sit_on

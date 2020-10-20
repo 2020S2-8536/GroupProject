@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024727.jpg
+640 424 3
+human
+213 342 14 242
+motorcycle
+209 374 114 348
+hop_on

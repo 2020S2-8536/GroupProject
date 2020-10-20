@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005469.jpg
+300 400 3
+human
+12 297 24 395
+cat
+5 236 187 369
+hug

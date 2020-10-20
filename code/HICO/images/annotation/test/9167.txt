@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009277.jpg
+640 510 1
+human
+232 296 174 344
+motorcycle
+102 178 149 249
+hold

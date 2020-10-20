@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006865.jpg
+480 640 3
+human
+166 478 10 636
+chair
+49 426 202 628
+lie_on

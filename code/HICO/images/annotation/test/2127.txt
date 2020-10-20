@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002175.jpg
+640 480 3
+human
+235 282 190 233
+bus
+49 577 91 414
+sit_on

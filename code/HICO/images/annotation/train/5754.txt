@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005763.jpg
+625 640 3
+human
+502 622 410 533
+horse
+24 600 18 639
+hug

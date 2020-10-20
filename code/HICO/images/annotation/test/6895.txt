@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006999.jpg
+640 384 3
+human
+222 252 210 240
+bus
+206 328 178 290
+sit_on

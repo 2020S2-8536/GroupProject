@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018057.jpg
+640 480 3
+human
+232 600 105 475
+person
+120 525 41 459
+hug

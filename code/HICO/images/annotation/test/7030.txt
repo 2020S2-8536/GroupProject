@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007134.jpg
+640 404 3
+human
+274 383 88 368
+bicycle
+221 423 219 402
+walk

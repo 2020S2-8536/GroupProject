@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023921.jpg
+640 481 3
+human
+159 214 112 168
+car
+3 638 68 365
+ride

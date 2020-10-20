@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003632.jpg
+640 480 3
+human
+30 64 238 266
+bicycle
+199 210 257 292
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001275.jpg
+640 480 3
+human
+31 639 47 475
+person
+66 406 74 478
+kiss

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007750.jpg
+640 425 3
+human
+226 451 9 194
+motorcycle
+60 540 54 358
+ride

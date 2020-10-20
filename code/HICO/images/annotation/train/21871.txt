@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021900.jpg
+480 640 3
+human
+245 306 209 441
+bus
+109 250 55 526
+board

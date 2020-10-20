@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003787.jpg
+640 447 3
+human
+242 334 35 288
+horse
+35 470 147 402
+train

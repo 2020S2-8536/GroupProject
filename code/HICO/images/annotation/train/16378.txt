@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016399.jpg
+640 443 3
+human
+330 464 157 438
+chair
+460 562 263 345
+carry

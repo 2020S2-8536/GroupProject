@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026141.jpg
+426 640 3
+human
+3 417 88 637
+dog
+74 278 234 633
+run

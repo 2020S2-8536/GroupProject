@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004176.jpg
+480 640 3
+human
+46 118 186 323
+dining_table
+82 472 45 518
+clean

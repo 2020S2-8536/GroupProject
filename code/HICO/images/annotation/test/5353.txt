@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005455.jpg
+640 424 3
+human
+484 525 52 122
+dog
+140 484 150 302
+carry

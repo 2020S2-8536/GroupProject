@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007963.jpg
+500 369 3
+human
+195 291 7 226
+horse
+96 400 21 352
+hug

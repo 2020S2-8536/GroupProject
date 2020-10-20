@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015907.jpg
+375 500 3
+human
+172 293 207 479
+sheep
+179 285 339 479
+hug

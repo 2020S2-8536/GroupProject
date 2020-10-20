@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034201.jpg
+640 364 3
+human
+211 498 70 310
+motorcycle
+47 610 73 311
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007931.jpg
+428 640 3
+human
+82 114 298 361
+bicycle
+95 118 327 366
+hop_on

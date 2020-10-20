@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001074.jpg
+640 376 3
+human
+250 294 246 354
+car
+49 498 218 358
+ride

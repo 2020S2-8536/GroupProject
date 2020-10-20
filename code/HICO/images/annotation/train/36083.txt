@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036114.jpg
+637 569 3
+human
+277 635 44 564
+boat
+79 227 201 345
+board

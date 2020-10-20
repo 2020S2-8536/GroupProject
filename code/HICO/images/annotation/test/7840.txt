@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007946.jpg
+640 424 3
+human
+182 238 286 369
+person
+17 172 265 377
+carry

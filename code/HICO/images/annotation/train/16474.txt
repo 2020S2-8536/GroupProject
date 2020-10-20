@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016496.jpg
+640 477 3
+human
+1 50 6 147
+person
+37 634 17 454
+carry

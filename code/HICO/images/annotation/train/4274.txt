@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004278.jpg
+640 480 3
+human
+108 280 272 446
+chair
+87 281 282 434
+sit_on

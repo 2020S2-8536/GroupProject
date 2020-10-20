@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030104.jpg
+640 457 3
+human
+192 224 323 389
+airplane
+2 639 2 365
+ride

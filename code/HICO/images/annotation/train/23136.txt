@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023165.jpg
+640 426 3
+human
+6 317 97 420
+cow
+244 636 6 426
+ride
