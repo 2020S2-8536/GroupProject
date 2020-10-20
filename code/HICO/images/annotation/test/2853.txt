@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002916.jpg
+640 480 3
+human
+3 434 11 477
+dining_table
+122 597 276 477
+eat_at

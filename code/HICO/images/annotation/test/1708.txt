@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001746.jpg
+480 640 3
+human
+82 386 18 611
+chair
+84 346 263 638
+stand_on

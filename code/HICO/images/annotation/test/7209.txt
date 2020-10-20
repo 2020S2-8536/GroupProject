@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007314.jpg
+640 632 3
+human
+201 309 157 536
+person
+282 449 152 470
+hold

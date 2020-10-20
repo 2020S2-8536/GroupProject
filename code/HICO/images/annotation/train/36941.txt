@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036972.jpg
+640 427 3
+human
+14 40 50 89
+train
+508 640 154 422
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016402.jpg
+640 360 3
+human
+1 59 159 201
+person
+264 461 60 304
+carry

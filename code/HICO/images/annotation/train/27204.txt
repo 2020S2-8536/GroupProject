@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027233.jpg
+640 360 3
+human
+171 269 59 357
+dining_table
+594 638 119 173
+clean

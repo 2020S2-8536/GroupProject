@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024781.jpg
+640 480 3
+human
+13 53 280 422
+train
+99 118 386 400
+board

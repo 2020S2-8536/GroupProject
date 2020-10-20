@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002029.jpg
+480 640 3
+human
+115 312 106 523
+bicycle
+86 388 273 528
+walk

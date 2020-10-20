@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006715.jpg
+640 480 3
+human
+150 638 42 475
+couch
+1 636 61 477
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023979.jpg
+640 491 3
+human
+280 531 66 448
+person
+98 410 34 490
+hug

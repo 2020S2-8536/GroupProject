@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002906.jpg
+576 640 3
+human
+150 409 70 447
+horse
+180 362 198 637
+run

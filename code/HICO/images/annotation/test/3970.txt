@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004054.jpg
+640 426 3
+human
+208 442 189 359
+airplane
+85 546 125 279
+sit_on

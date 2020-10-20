@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015658.jpg
+640 413 3
+human
+376 399 31 94
+bicycle
+49 535 38 378
+carry

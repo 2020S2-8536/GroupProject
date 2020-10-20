@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028242.jpg
+640 455 3
+human
+218 451 38 450
+person
+90 422 69 442
+hug

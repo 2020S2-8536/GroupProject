@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025096.jpg
+375 500 3
+human
+13 200 22 497
+person
+159 362 45 488
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014661.jpg
+428 640 3
+human
+119 365 71 594
+chair
+102 308 270 635
+lie_on

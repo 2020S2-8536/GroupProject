@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002943.jpg
+640 399 3
+human
+279 377 34 235
+horse
+167 480 98 309
+kiss

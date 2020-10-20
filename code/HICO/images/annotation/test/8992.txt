@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009102.jpg
+640 360 3
+human
+330 509 213 346
+boat
+108 638 66 357
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036406.jpg
+617 640 3
+human
+56 616 1 640
+cat
+174 526 326 635
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011495.jpg
+375 336 3
+human
+4 358 5 325
+cat
+59 348 8 292
+hug

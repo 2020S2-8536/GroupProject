@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006627.jpg
+640 480 3
+human
+322 457 1 135
+chair
+254 421 1 380
+carry

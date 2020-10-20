@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001496.jpg
+640 426 3
+human
+319 343 188 212
+airplane
+27 535 64 287
+sit_on

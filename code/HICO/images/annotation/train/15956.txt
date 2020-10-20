@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015976.jpg
+640 480 3
+human
+241 266 66 101
+person
+211 248 76 114
+carry

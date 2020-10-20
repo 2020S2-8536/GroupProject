@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022649.jpg
+640 572 3
+human
+402 486 243 400
+sheep
+356 456 294 449
+feed

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025453.jpg
+523 461 3
+human
+324 435 95 285
+bicycle
+289 490 197 337
+walk

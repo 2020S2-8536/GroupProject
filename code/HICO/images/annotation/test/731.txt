@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000747.jpg
+480 640 3
+human
+153 323 152 535
+bicycle
+151 285 342 634
+walk

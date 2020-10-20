@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001808.jpg
+640 633 3
+human
+1 194 390 632
+horse
+20 634 36 632
+feed

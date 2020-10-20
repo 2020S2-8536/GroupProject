@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018954.jpg
+640 360 3
+human
+1 267 1 358
+person
+84 491 1 358
+hug

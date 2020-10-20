@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001882.jpg
+640 480 3
+human
+11 54 247 338
+car
+80 577 106 402
+board

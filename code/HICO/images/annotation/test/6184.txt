@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006288.jpg
+443 640 3
+human
+65 305 54 456
+chair
+246 297 351 515
+stand_on

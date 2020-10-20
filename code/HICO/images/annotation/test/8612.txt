@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008718.jpg
+421 640 3
+human
+43 385 37 596
+dog
+74 273 311 560
+train

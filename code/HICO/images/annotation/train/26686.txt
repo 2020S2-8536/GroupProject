@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026715.jpg
+640 401 3
+human
+43 115 50 191
+horse
+31 101 86 330
+kiss

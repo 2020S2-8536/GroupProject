@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008597.jpg
+640 634 3
+human
+20 553 15 632
+cat
+196 497 96 632
+hug

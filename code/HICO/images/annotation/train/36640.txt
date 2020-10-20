@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036671.jpg
+600 615 3
+human
+173 561 89 510
+dog
+249 350 334 492
+run

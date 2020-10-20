@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029537.jpg
+640 511 3
+human
+358 484 86 439
+sheep
+214 472 196 431
+ride

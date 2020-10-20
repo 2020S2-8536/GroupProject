@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017951.jpg
+512 640 3
+human
+4 508 1 576
+chair
+23 509 93 504
+carry

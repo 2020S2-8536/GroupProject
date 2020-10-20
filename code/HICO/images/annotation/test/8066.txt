@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008172.jpg
+400 267 3
+human
+197 396 13 258
+person
+103 277 13 265
+hug

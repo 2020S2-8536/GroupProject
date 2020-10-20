@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008854.jpg
+640 425 3
+human
+328 435 89 333
+bicycle
+328 430 163 333
+sit_on

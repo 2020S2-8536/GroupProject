@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021452.jpg
+449 484 1
+human
+104 325 23 428
+bicycle
+11 431 194 481
+sit_on

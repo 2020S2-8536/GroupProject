@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014825.jpg
+640 427 3
+human
+257 417 33 248
+motorcycle
+199 512 125 354
+hop_on

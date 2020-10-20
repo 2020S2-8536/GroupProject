@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002035.jpg
+640 480 3
+human
+94 201 1 130
+chair
+174 223 122 181
+carry

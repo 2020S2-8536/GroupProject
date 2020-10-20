@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007312.jpg
+640 383 3
+human
+407 610 151 317
+dining_table
+186 497 205 369
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001641.jpg
+640 453 3
+human
+338 486 71 316
+chair
+270 471 165 372
+stand_on

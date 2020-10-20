@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031056.jpg
+640 480 3
+human
+322 408 102 406
+train
+2 638 44 446
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012788.jpg
+540 640 3
+human
+32 212 51 543
+horse
+2 539 195 640
+train

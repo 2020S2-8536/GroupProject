@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001170.jpg
+640 480 3
+human
+89 543 67 478
+cat
+209 544 153 478
+feed

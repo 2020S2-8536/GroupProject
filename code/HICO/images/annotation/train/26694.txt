@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026723.jpg
+640 360 3
+human
+244 349 111 283
+chair
+267 355 220 286
+stand_on

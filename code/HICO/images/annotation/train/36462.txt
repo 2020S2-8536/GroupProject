@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036493.jpg
+427 640 3
+human
+205 427 217 514
+cow
+2 307 238 638
+ride

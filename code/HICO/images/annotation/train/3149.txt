@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003151.jpg
+445 640 3
+human
+94 291 146 449
+bicycle
+109 413 276 488
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005437.jpg
+640 639 3
+human
+382 442 238 348
+bus
+2 608 78 582
+sit_on

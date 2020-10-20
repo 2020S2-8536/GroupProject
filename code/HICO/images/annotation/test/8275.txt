@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008381.jpg
+640 427 3
+human
+220 289 180 365
+dining_table
+430 481 243 311
+clean

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019499.jpg
+640 428 3
+human
+3 202 3 426
+train
+293 410 182 401
+board

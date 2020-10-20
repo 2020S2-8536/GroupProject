@@ -76,7 +76,7 @@ class FasterRCNN(nn.Module):
         self.extractor = extractor
         self.rpn = rpn
         self.head = head
-
+        self.branch2 = None
         # mean and std
         self.loc_normalize_mean = loc_normalize_mean
         self.loc_normalize_std = loc_normalize_std
@@ -131,6 +131,9 @@ class FasterRCNN(nn.Module):
             self.rpn(h, img_size, scale)
         roi_cls_locs, roi_scores = self.head(
             h, rois, roi_indices)
+        # Add branch 2 here
+        # pred_action, pred_object_bbox, pred_object_name = self.branch2()
+        #
         return roi_cls_locs, roi_scores, rois, roi_indices
 
     def use_preset(self, preset):

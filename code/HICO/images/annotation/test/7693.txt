@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007799.jpg
+640 449 3
+human
+79 330 103 286
+motorcycle
+40 302 146 378
+ride

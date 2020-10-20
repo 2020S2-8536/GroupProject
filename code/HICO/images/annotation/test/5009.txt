@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005105.jpg
+427 640 3
+human
+14 374 204 639
+horse
+2 332 70 638
+hold

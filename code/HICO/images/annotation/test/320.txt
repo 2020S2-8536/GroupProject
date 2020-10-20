@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000321.jpg
+640 480 3
+human
+214 453 73 462
+motorcycle
+58 530 154 466
+sit_on

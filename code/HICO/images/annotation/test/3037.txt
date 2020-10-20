@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003107.jpg
+640 426 3
+human
+419 620 1 319
+dining_table
+3 530 125 421
+eat_at

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007226.jpg
+460 640 3
+human
+62 357 388 633
+person
+177 376 311 562
+greet

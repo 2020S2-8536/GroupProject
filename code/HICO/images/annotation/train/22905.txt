@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022934.jpg
+640 426 3
+human
+420 442 214 252
+bottle
+308 429 20 272
+carry

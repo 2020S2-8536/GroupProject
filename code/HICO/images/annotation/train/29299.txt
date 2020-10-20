@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029328.jpg
+640 456 3
+human
+408 513 50 330
+person
+41 437 90 433
+carry

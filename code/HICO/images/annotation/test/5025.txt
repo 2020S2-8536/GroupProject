@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005121.jpg
+640 426 3
+human
+177 430 74 245
+motorcycle
+156 527 149 339
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012247.jpg
+640 426 3
+human
+573 638 30 347
+cow
+6 454 108 311
+feed

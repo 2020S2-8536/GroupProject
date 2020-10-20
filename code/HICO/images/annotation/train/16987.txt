@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017009.jpg
+640 480 3
+human
+76 179 116 343
+dog
+66 446 257 478
+carry

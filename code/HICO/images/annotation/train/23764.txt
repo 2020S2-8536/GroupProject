@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023793.jpg
+640 427 3
+human
+199 472 22 424
+sheep
+169 532 63 317
+feed

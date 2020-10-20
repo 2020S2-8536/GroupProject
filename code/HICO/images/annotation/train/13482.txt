@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013498.jpg
+160 120 3
+human
+4 74 6 113
+cat
+57 150 12 114
+hug

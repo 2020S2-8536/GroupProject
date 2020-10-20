@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032202.jpg
+640 360 3
+human
+335 438 83 267
+bicycle
+146 434 83 358
+ride

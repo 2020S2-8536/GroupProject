@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033884.jpg
+640 480 3
+human
+1 390 10 401
+bus
+345 465 225 477
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020002.jpg
+640 480 3
+human
+149 492 49 425
+bus
+190 226 232 322
+board

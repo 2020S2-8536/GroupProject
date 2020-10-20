@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001484.jpg
+640 480 3
+human
+381 437 245 310
+bus
+122 514 62 422
+sit_on

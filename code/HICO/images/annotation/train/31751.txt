@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031780.jpg
+640 418 3
+human
+4 618 71 413
+person
+400 632 155 413
+hug

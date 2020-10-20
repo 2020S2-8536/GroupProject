@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000784.jpg
+640 450 3
+human
+70 233 158 432
+horse
+37 495 98 403
+hug

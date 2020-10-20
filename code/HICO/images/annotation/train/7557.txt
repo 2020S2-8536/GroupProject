@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007566.jpg
+640 393 3
+human
+318 382 122 192
+bus
+88 589 44 363
+sit_on

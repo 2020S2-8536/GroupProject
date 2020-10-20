@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006847.jpg
+640 480 3
+human
+34 639 62 470
+cat
+201 313 182 293
+hug

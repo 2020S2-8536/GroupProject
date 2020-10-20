@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014004.jpg
+640 480 3
+human
+448 466 204 233
+bus
+34 614 161 344
+sit_on

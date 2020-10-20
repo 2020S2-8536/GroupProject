@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012405.jpg
+250 190 3
+human
+63 135 20 187
+horse
+16 237 16 185
+hold

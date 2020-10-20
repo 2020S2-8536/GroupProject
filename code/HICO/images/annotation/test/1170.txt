@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001191.jpg
+640 512 1
+human
+502 593 164 380
+chair
+526 564 280 361
+stand_on

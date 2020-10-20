@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023714.jpg
+498 500 1
+human
+93 484 86 497
+chair
+58 495 327 497
+stand_on

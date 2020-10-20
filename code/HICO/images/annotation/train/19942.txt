@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019970.jpg
+640 480 3
+human
+247 437 122 478
+dog
+318 445 218 441
+run

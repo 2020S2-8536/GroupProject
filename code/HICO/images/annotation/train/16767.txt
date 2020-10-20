@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016789.jpg
+640 429 3
+human
+60 616 2 427
+potted_plant
+1 70 274 428
+carry

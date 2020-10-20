@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004473.jpg
+480 640 3
+human
+46 476 138 636
+bus
+44 477 2 637
+sit_on

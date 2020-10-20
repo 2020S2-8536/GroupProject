@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004091.jpg
+499 640 3
+human
+227 452 55 368
+horse
+218 447 126 632
+ride

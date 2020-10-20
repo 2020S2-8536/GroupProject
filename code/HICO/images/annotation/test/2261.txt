@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002309.jpg
+640 529 3
+human
+296 639 62 529
+person
+21 406 26 525
+greet

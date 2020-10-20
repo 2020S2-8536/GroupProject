@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028269.jpg
+425 640 3
+human
+257 389 98 562
+person
+268 370 203 563
+hug

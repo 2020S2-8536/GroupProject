@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003430.jpg
+640 480 3
+human
+38 104 74 258
+person
+34 618 6 446
+carry

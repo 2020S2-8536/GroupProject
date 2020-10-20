@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015733.jpg
+640 480 3
+human
+553 560 59 94
+person
+57 79 6 38
+carry

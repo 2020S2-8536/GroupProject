@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026173.jpg
+605 640 3
+human
+277 568 33 350
+horse
+17 552 16 633
+train

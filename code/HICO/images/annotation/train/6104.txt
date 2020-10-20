@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006113.jpg
+640 438 3
+human
+15 518 23 436
+person
+362 582 69 435
+hug

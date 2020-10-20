@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001986.jpg
+300 512 3
+human
+79 285 14 354
+horse
+61 289 222 508
+run

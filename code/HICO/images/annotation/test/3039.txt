@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003109.jpg
+640 480 3
+human
+130 557 22 474
+person
+131 514 69 428
+hug

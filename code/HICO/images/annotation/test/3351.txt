@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003425.jpg
+640 434 3
+human
+204 244 230 274
+bus
+131 566 50 355
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003253.jpg
+640 480 3
+human
+102 326 120 475
+cow
+247 354 200 402
+herd

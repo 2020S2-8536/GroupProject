@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028310.jpg
+640 427 3
+human
+134 636 6 420
+cow
+3 357 2 419
+pet

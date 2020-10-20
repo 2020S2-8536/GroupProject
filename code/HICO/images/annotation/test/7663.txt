@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007769.jpg
+640 426 3
+human
+243 371 85 291
+motorcycle
+218 389 162 363
+hop_on

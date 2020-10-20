@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010967.jpg
+332 500 3
+human
+110 257 122 483
+horse
+38 328 41 449
+hug

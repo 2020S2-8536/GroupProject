@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018022.jpg
+427 640 3
+human
+157 387 187 447
+motorcycle
+144 387 235 488
+sit_on

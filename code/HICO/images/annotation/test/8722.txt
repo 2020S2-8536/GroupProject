@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008828.jpg
+510 640 1
+human
+142 336 78 565
+person
+186 274 161 261
+greet

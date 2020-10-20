@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006626.jpg
+640 503 3
+human
+373 490 182 415
+bicycle
+359 525 278 450
+sit_on

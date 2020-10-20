@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000189.jpg
+640 558 3
+human
+587 637 70 234
+horse
+472 636 148 465
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013755.jpg
+480 640 3
+human
+162 478 10 534
+sheep
+2 238 179 555
+carry

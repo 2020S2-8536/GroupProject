@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023120.jpg
+640 427 3
+human
+19 617 84 331
+couch
+1 634 12 419
+sit_on

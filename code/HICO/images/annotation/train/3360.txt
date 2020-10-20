@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003363.jpg
+640 427 3
+human
+92 267 181 363
+cow
+122 580 78 409
+pet

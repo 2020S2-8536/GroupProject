@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024673.jpg
+604 415 3
+human
+207 392 68 403
+person
+141 501 173 411
+hug

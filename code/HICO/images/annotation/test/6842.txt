@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006946.jpg
+448 640 3
+human
+111 266 138 390
+dog
+47 302 286 603
+hug

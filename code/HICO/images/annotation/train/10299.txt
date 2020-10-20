@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010312.jpg
+640 480 3
+human
+60 98 312 395
+train
+3 322 234 394
+drive

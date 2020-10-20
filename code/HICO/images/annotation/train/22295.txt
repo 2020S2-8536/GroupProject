@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022324.jpg
+548 640 3
+human
+1 546 60 638
+person
+185 547 86 639
+kiss

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002777.jpg
+640 640 3
+human
+120 356 7 357
+horse
+136 412 106 636
+hug

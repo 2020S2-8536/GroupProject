@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010705.jpg
+640 427 3
+human
+178 327 90 313
+sheep
+227 372 201 376
+walk

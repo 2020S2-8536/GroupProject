@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004445.jpg
+640 480 3
+human
+18 281 284 474
+dog
+85 630 79 425
+run

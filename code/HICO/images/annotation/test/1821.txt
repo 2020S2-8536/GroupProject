@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001863.jpg
+423 640 3
+human
+90 197 334 435
+bus
+381 399 373 443
+board

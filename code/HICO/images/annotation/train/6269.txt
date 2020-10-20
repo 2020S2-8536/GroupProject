@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006278.jpg
+600 400 3
+human
+268 596 56 398
+horse
+3 364 6 398
+hug

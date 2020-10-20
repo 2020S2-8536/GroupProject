@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010108.jpg
+640 378 3
+human
+255 430 32 138
+motorcycle
+80 564 38 247
+sit_on

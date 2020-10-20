@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014152.jpg
+640 427 3
+human
+17 167 153 315
+train
+271 576 17 377
+board

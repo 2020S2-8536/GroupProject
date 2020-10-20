@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006583.jpg
+640 480 3
+human
+529 615 186 424
+bus
+1 635 49 478
+sit_on

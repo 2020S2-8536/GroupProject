@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005894.jpg
+427 640 3
+human
+50 394 30 607
+motorcycle
+10 421 262 639
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004391.jpg
+480 640 3
+human
+1 15 320 365
+bicycle
+2 12 345 364
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003847.jpg
+640 431 3
+human
+360 481 109 407
+cow
+16 210 163 410
+hold

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005967.jpg
+640 480 3
+human
+304 357 174 222
+car
+58 593 106 418
+ride

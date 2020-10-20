@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008982.jpg
+640 341 3
+human
+622 639 110 150
+bicycle
+614 637 129 177
+sit_on

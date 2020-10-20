@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005318.jpg
+640 480 3
+human
+90 594 13 432
+cat
+77 362 186 382
+hug

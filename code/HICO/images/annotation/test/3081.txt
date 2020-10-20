@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003154.jpg
+640 283 1
+human
+14 639 55 258
+couch
+1 640 18 283
+sit_on

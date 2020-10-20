@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004603.jpg
+640 427 3
+human
+404 497 91 156
+boat
+1 636 149 182
+sail

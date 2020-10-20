@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002821.jpg
+640 478 3
+human
+136 532 114 323
+couch
+7 634 102 441
+sit_on

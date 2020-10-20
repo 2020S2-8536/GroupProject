@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001226.jpg
+640 428 3
+human
+185 236 38 106
+airplane
+56 361 84 237
+sit_on

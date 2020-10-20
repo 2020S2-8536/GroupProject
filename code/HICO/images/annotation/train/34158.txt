@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034187.jpg
+511 640 1
+human
+318 334 245 271
+train
+241 338 200 346
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007716.jpg
+640 480 3
+human
+180 523 65 478
+person
+167 359 82 477
+hug

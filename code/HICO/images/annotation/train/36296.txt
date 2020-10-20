@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036327.jpg
+640 434 3
+human
+278 293 198 261
+bus
+302 639 133 270
+ride

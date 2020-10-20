@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003365.jpg
+640 480 3
+human
+564 582 207 239
+car
+494 538 183 241
+board

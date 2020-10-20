@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014247.jpg
+500 341 3
+human
+68 499 142 339
+couch
+1 499 3 339
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004347.jpg
+640 460 3
+human
+1 432 1 346
+person
+51 289 2 363
+hug

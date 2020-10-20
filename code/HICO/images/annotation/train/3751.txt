@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003755.jpg
+640 548 3
+human
+15 352 84 546
+train
+275 303 228 250
+board

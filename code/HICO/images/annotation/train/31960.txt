@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031989.jpg
+328 640 3
+human
+73 144 326 418
+bird
+264 274 523 534
+hold

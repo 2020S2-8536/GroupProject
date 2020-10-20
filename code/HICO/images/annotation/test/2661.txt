@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002719.jpg
+640 426 3
+human
+18 623 12 114
+bird
+67 616 72 421
+pet

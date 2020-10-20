@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005431.jpg
+640 368 3
+human
+510 583 101 238
+cow
+154 183 112 124
+hold

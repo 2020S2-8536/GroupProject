@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007595.jpg
+640 480 3
+human
+205 422 122 289
+dining_table
+76 585 273 478
+sit_at

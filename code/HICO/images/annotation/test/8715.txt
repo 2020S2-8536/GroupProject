@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008821.jpg
+427 640 3
+human
+258 275 478 496
+boat
+42 398 65 538
+sit_on

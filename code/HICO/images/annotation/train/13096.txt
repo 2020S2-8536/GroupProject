@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013112.jpg
+437 640 3
+human
+137 408 116 633
+person
+38 235 110 636
+hug

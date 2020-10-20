@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001549.jpg
+640 573 3
+human
+195 367 135 555
+bicycle
+3 303 198 508
+hold

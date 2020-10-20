@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033749.jpg
+640 425 3
+human
+515 558 112 225
+train
+72 561 153 390
+board

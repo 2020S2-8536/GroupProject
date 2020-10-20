@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003562.jpg
+640 480 3
+human
+366 384 342 378
+boat
+344 426 343 406
+sail

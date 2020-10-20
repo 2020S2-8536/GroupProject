@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003835.jpg
+640 426 3
+human
+122 389 79 311
+bicycle
+125 423 178 411
+sit_on

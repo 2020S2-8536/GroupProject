@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000825.jpg
+640 480 3
+human
+278 427 2 480
+bicycle
+32 386 209 433
+walk

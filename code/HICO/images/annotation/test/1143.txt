@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001163.jpg
+640 455 3
+human
+194 354 48 453
+person
+164 351 122 387
+greet

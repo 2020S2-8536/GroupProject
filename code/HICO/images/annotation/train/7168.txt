@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007177.jpg
+640 638 3
+human
+231 525 43 521
+bicycle
+85 555 232 593
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005755.jpg
+640 467 3
+human
+141 507 66 282
+motorcycle
+2 622 122 462
+ride

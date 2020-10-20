@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036340.jpg
+640 480 3
+human
+238 266 247 361
+bus
+121 461 186 372
+ride

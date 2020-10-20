@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036983.jpg
+640 417 3
+human
+309 337 169 234
+train
+135 399 140 304
+sit_on

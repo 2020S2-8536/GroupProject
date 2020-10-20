@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036411.jpg
+436 640 3
+human
+13 293 34 606
+cat
+207 433 165 456
+hug

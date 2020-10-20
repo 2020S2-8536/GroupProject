@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030084.jpg
+425 640 3
+human
+33 62 169 206
+motorcycle
+3 288 129 623
+hold

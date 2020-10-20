@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001261.jpg
+640 427 3
+human
+266 277 302 314
+boat
+43 258 15 355
+sit_on

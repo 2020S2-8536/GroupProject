@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000127.jpg
+640 480 3
+human
+146 480 35 479
+person
+23 583 284 476
+greet

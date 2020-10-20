@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000677.jpg
+640 294 3
+human
+600 637 42 71
+motorcycle
+601 638 42 175
+sit_on

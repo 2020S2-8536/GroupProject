@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001203.jpg
+428 640 3
+human
+138 379 140 472
+motorcycle
+136 356 208 520
+ride

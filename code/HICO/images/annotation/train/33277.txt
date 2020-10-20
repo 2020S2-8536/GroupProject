@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033306.jpg
+640 480 3
+human
+357 620 5 450
+dog
+278 440 180 452
+hug

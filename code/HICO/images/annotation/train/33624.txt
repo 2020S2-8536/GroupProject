@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033653.jpg
+612 612 3
+human
+58 93 3 62
+dog
+1 611 203 612
+carry

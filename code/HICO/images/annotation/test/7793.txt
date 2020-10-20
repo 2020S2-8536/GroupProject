@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007899.jpg
+640 480 3
+human
+559 620 177 387
+bicycle
+138 549 118 362
+carry

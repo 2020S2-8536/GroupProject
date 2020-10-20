@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001067.jpg
+500 640 3
+human
+37 250 128 596
+bicycle
+148 458 92 597
+ride

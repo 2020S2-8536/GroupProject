@@ -1,7 +1,7 @@
 from __future__ import  absolute_import
 from __future__ import  division
 import torch as t
-from data.voc_dataset import VOCBboxDataset
+from data.voc_dataset import HICODataset
 from skimage import transform as sktsf
 from torchvision import transforms as tvtsf
 from data import util
@@ -39,7 +39,7 @@ def caffe_normalize(img):
     return img
 
 
-def preprocess(img, min_size=600, max_size=1000):
+def preprocess(img, min_size=400, max_size=700):
     """Preprocess an image for feature extraction.
 
     The length of the shorter edge is scaled to :obj:`self.min_size`.
@@ -96,34 +96,35 @@ class Transform(object):
 
         return img, bbox, label, scale
 
+# Update dataset to match HICO dataset
 
 class Dataset:
     def __init__(self, opt):
         self.opt = opt
-        self.db = VOCBboxDataset(opt.voc_data_dir)
+        self.db = HICODataset(opt.hico_data_dir)
         self.tsf = Transform(opt.min_size, opt.max_size)
 
     def __getitem__(self, idx):
-        ori_img, bbox, label, difficult = self.db.get_example(idx)
+        ori_img, bbox, label, human_box, object_box, action = self.db.get_example(idx)
 
         img, bbox, label, scale = self.tsf((ori_img, bbox, label))
         # TODO: check whose stride is negative to fix this instead copy all
         # some of the strides of a given numpy array are negative.
-        return img.copy(), bbox.copy(), label.copy(), scale
+        return img.copy(), bbox.copy(), label.copy(), scale, human_box.copy(), object_box.copy(), action.copy()
 
     def __len__(self):
         return len(self.db)
 
 
 class TestDataset:
-    def __init__(self, opt, split='test', use_difficult=True):
+    def __init__(self, opt, split='test'): # split should be equal to HICO test file name
         self.opt = opt
-        self.db = VOCBboxDataset(opt.voc_data_dir, split=split, use_difficult=use_difficult)
+        self.db = HICODataset(opt.hico_data_dir, split=split)
 
     def __getitem__(self, idx):
-        ori_img, bbox, label, difficult = self.db.get_example(idx)
+        ori_img, bbox, label, human_box, object_box, action = self.db.get_example(idx)
         img = preprocess(ori_img)
-        return img, ori_img.shape[1:], bbox, label, difficult
+        return img, ori_img.shape[1:], bbox, label, human_box.copy(), object_box.copy(), action.copy()
 
     def __len__(self):
         return len(self.db)

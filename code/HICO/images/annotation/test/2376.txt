@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002427.jpg
+438 640 3
+human
+112 357 62 437
+horse
+100 422 154 571
+hug

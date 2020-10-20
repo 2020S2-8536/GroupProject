@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019961.jpg
+480 640 3
+human
+94 418 21 629
+train
+39 201 162 585
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006054.jpg
+640 425 3
+human
+119 346 42 423
+person
+222 606 6 423
+hold

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021927.jpg
+500 332 3
+human
+10 466 33 323
+couch
+3 496 52 325
+sit_on

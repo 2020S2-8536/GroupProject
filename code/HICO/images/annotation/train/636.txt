@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000637.jpg
+457 640 3
+human
+74 361 121 634
+person
+57 378 136 634
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003402.jpg
+500 332 3
+human
+233 497 27 330
+bird
+243 271 222 271
+hold

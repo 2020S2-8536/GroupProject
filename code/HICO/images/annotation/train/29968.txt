@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029997.jpg
+640 457 3
+human
+294 372 322 449
+airplane
+14 632 25 334
+sit_on

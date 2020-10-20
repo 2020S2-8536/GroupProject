@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008250.jpg
+640 427 3
+human
+138 296 12 381
+person
+200 554 135 405
+carry

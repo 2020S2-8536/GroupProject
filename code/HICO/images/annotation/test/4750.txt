@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004845.jpg
+640 459 3
+human
+350 637 1 457
+airplane
+4 551 70 356
+sit_on

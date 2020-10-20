@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033782.jpg
+485 640 3
+human
+2 290 5 639
+person
+150 482 205 639
+kiss

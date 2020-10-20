@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028622.jpg
+620 439 3
+human
+329 405 130 222
+sheep
+1 617 210 336
+hold

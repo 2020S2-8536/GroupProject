@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022783.jpg
+511 640 3
+human
+2 491 2 639
+cat
+80 495 5 558
+hug

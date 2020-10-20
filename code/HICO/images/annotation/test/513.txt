@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000517.jpg
+640 493 3
+human
+117 128 256 302
+car
+175 519 145 374
+board

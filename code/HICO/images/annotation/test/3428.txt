@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003503.jpg
+640 488 3
+human
+46 379 234 402
+chair
+2 600 64 480
+stand_on

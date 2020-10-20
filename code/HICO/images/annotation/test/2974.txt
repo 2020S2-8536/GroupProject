@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003044.jpg
+640 597 3
+human
+241 516 75 520
+motorcycle
+50 572 225 566
+ride

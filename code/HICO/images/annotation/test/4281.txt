@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004367.jpg
+500 375 3
+human
+76 193 88 250
+dining_table
+1 93 94 285
+sit_at

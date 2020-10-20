@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007558.jpg
+360 640 3
+human
+263 356 334 615
+bicycle
+4 358 2 604
+carry

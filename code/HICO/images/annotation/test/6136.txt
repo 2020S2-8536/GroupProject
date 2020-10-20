@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006240.jpg
+640 555 3
+human
+2 638 1 553
+person
+60 556 3 552
+kiss

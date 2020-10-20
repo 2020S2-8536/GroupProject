@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036380.jpg
+640 426 3
+human
+262 446 2 42
+chair
+1 241 163 423
+carry

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005422.jpg
+640 480 3
+human
+169 632 285 473
+bird
+126 483 59 365
+pet

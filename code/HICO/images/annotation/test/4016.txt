@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004100.jpg
+640 427 3
+human
+331 513 18 350
+bicycle
+248 521 214 383
+sit_on

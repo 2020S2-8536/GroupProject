@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008135.jpg
+640 480 3
+human
+195 272 158 289
+dining_table
+89 471 230 470
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003671.jpg
+640 427 3
+human
+330 484 236 410
+bus
+1 639 18 374
+drive

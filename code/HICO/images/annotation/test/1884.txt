@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001926.jpg
+640 480 3
+human
+122 269 40 435
+bicycle
+28 422 141 427
+walk

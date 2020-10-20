@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023246.jpg
+480 640 3
+human
+111 130 449 486
+bus
+174 194 179 234
+board

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004727.jpg
+640 433 3
+human
+141 206 189 257
+bus
+90 543 98 374
+sit_on

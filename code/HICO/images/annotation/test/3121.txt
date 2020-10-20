@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003195.jpg
+517 640 3
+human
+298 327 462 525
+bicycle
+291 328 497 543
+sit_on

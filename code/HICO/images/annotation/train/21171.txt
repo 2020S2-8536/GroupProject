@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021200.jpg
+640 480 3
+human
+341 398 190 310
+airplane
+2 639 126 404
+ride

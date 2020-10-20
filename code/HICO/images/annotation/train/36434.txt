@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036465.jpg
+640 428 3
+human
+402 547 31 420
+cow
+334 602 186 370
+feed

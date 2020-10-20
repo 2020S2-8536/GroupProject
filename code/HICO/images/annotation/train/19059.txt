@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019085.jpg
+640 478 3
+human
+172 356 91 464
+chair
+370 492 254 419
+carry

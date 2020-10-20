@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008148.jpg
+640 427 3
+human
+38 437 7 416
+train
+94 342 254 420
+board

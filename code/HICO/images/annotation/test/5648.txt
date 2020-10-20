@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005752.jpg
+426 640 3
+human
+8 313 194 631
+person
+98 423 158 635
+hug

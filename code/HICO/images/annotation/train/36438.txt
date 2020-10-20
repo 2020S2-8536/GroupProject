@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036469.jpg
+640 360 3
+human
+287 638 2 358
+cow
+109 281 86 235
+herd

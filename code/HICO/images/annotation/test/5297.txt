@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005399.jpg
+480 640 3
+human
+4 478 16 634
+chair
+1 478 17 558
+stand_on

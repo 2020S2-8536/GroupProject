@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035175.jpg
+640 426 3
+human
+35 202 1 326
+chair
+135 635 131 423
+carry

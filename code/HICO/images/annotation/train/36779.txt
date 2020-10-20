@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036810.jpg
+640 427 3
+human
+327 448 70 211
+horse
+105 321 147 301
+hug

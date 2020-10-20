@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036059.jpg
+640 427 3
+human
+281 515 58 251
+bicycle
+12 604 150 422
+ride

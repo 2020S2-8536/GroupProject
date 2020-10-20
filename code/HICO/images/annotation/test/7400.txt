@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007506.jpg
+640 411 3
+human
+290 444 13 409
+person
+384 480 40 283
+greet

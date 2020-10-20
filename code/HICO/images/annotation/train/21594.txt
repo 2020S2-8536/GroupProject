@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021623.jpg
+640 480 3
+human
+153 294 145 309
+couch
+2 358 138 478
+sit_on

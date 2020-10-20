@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036951.jpg
+640 427 3
+human
+201 313 53 168
+sheep
+2 253 167 335
+hold

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003041.jpg
+640 480 3
+human
+21 553 93 477
+chair
+15 639 2 478
+sit_on

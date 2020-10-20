@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001356.jpg
+640 478 3
+human
+201 465 140 289
+tv
+222 598 6 220
+watch

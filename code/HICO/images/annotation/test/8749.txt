@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008855.jpg
+640 480 3
+human
+269 455 270 478
+bottle
+150 634 184 307
+carry

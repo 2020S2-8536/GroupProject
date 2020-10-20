@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009383.jpg
+502 500 3
+human
+110 495 23 490
+person
+130 407 94 490
+kiss

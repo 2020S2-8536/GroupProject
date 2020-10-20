@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004066.jpg
+640 429 3
+human
+434 457 157 177
+airplane
+49 630 50 376
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006208.jpg
+640 480 3
+human
+381 510 196 406
+motorcycle
+378 521 295 402
+sit_on

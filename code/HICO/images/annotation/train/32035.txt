@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032064.jpg
+640 484 3
+human
+199 426 15 322
+motorcycle
+202 464 193 449
+ride

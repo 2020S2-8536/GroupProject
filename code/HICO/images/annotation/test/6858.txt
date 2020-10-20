@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006962.jpg
+640 483 3
+human
+49 281 200 481
+airplane
+206 501 34 447
+sit_on

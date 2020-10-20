@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023748.jpg
+640 402 3
+human
+8 328 74 388
+potted_plant
+271 632 66 401
+carry

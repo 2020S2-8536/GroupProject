@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007681.jpg
+422 640 3
+human
+92 356 7 432
+motorcycle
+54 367 125 568
+hop_on

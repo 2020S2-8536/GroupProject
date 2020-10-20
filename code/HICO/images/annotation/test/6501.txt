@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006605.jpg
+400 640 3
+human
+103 328 13 631
+chair
+133 354 164 465
+hold

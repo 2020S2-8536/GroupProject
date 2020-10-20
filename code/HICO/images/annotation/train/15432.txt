@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015452.jpg
+637 640 3
+human
+14 510 40 637
+bird
+309 629 143 623
+pet

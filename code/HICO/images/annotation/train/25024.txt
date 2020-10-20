@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025053.jpg
+520 640 3
+human
+135 399 44 454
+motorcycle
+80 434 257 518
+ride

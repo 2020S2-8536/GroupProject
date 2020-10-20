@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000709.jpg
+480 640 3
+human
+30 470 17 638
+chair
+15 466 167 625
+lie_on

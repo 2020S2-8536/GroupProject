@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009829.jpg
+640 378 3
+human
+151 225 153 351
+train
+285 325 244 290
+board

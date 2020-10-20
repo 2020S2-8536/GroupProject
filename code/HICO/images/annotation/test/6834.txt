@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006938.jpg
+640 400 3
+human
+482 588 124 319
+person
+84 406 44 379
+carry

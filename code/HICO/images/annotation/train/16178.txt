@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016198.jpg
+507 507 3
+human
+133 407 19 409
+bicycle
+80 327 156 387
+sit_on

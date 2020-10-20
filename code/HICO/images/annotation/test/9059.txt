@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009169.jpg
+640 640 3
+human
+133 636 3 639
+cat
+70 457 307 638
+feed

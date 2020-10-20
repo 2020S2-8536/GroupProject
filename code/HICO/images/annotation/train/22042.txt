@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022071.jpg
+640 480 3
+human
+375 402 223 285
+train
+1 636 74 469
+sit_on

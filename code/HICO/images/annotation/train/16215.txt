@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00016235.jpg
+364 275 3
+human
+136 361 59 273
+person
+4 158 111 274
+hold

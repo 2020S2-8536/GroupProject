@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028820.jpg
+640 407 3
+human
+381 505 73 308
+bird
+420 441 173 212
+pet

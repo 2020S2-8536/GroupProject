@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003809.jpg
+505 640 3
+human
+101 152 348 391
+bus
+46 326 138 518
+sit_on

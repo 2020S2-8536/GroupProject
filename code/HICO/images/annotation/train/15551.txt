@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015571.jpg
+450 350 3
+human
+2 429 2 340
+person
+223 403 92 336
+hug

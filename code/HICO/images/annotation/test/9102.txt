@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009212.jpg
+640 427 3
+human
+375 619 17 181
+horse
+227 628 102 381
+feed

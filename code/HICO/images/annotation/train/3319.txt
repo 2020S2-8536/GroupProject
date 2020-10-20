@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003322.jpg
+640 440 3
+human
+254 459 90 407
+sheep
+180 465 217 421
+hug

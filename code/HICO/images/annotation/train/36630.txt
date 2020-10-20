@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036661.jpg
+640 427 3
+human
+410 497 102 240
+dog
+287 432 177 240
+walk

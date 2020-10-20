@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000352.jpg
+640 426 3
+human
+10 260 23 413
+horse
+21 562 82 422
+train

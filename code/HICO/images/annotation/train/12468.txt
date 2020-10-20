@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012484.jpg
+480 640 3
+human
+56 456 62 638
+cow
+1 254 342 638
+ride

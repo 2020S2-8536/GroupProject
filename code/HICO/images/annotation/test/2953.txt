@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003023.jpg
+640 480 3
+human
+537 575 268 372
+bus
+202 540 143 374
+sit_on

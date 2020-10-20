@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00037017.jpg
+640 360 3
+human
+351 373 182 213
+train
+84 499 106 328
+sit_on

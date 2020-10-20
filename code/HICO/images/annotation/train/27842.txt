@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027871.jpg
+640 400 3
+human
+218 631 118 391
+person
+249 638 72 393
+kiss

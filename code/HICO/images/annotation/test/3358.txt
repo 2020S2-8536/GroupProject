@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003432.jpg
+640 602 3
+human
+36 77 160 218
+person
+337 559 119 396
+carry

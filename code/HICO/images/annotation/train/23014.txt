@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023043.jpg
+521 640 3
+human
+293 480 62 595
+train
+22 294 273 481
+board

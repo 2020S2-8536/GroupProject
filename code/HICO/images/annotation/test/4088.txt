@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004172.jpg
+427 640 3
+human
+7 411 139 638
+chair
+20 397 1 638
+stand_on

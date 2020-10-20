@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008787.jpg
+640 446 1
+human
+10 310 13 442
+potted_plant
+271 515 87 435
+carry

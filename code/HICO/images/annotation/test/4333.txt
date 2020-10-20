@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004419.jpg
+427 640 3
+human
+251 298 389 468
+bicycle
+230 289 417 483
+hold

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019902.jpg
+595 640 3
+human
+244 310 104 254
+horse
+279 330 210 335
+run

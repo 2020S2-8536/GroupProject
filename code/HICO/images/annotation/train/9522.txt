@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009535.jpg
+348 640 3
+human
+57 270 22 610
+chair
+133 344 186 560
+hold

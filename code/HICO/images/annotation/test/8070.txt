@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008176.jpg
+480 640 3
+human
+2 326 30 631
+person
+133 398 166 622
+greet

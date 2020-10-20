@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000740.jpg
+500 375 3
+human
+150 336 83 370
+dog
+114 258 112 292
+run

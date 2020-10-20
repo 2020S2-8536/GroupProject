@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002925.jpg
+512 640 3
+human
+13 510 65 638
+person
+1 226 116 638
+hug

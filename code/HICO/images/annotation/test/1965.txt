@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002011.jpg
+640 461 3
+human
+509 559 94 190
+train
+43 540 28 454
+sit_on

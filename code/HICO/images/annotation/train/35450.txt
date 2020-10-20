@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035481.jpg
+496 640 3
+human
+101 379 111 639
+car
+2 495 82 640
+board

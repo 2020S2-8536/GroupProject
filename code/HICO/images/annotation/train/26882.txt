@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026911.jpg
+640 480 3
+human
+198 243 218 286
+bus
+107 571 103 419
+sit_on

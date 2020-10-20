@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007628.jpg
+640 637 3
+human
+395 405 74 93
+person
+248 634 30 380
+carry

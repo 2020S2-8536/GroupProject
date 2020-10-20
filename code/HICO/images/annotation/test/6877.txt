@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006981.jpg
+640 426 3
+human
+62 315 14 349
+potted_plant
+67 315 21 345
+carry

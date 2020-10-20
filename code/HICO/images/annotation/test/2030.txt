@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002078.jpg
+427 640 3
+human
+6 419 70 629
+potted_plant
+278 424 507 633
+carry

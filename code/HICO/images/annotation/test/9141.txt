@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009251.jpg
+640 296 3
+human
+374 501 4 294
+dog
+300 430 76 290
+pet

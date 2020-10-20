@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025544.jpg
+640 637 3
+human
+222 292 380 589
+boat
+122 612 67 558
+ride

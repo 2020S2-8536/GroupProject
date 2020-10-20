@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033836.jpg
+640 348 3
+human
+62 73 70 92
+bicycle
+82 100 98 123
+sit_on

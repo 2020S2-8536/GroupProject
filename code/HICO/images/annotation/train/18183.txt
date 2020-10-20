@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018205.jpg
+392 640 3
+human
+15 349 50 622
+couch
+34 388 78 639
+sit_on

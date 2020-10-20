@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020484.jpg
+640 381 3
+human
+30 223 130 358
+chair
+233 275 112 143
+stand_on

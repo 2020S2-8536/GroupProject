@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005174.jpg
+319 480 3
+human
+142 240 91 282
+horse
+74 227 127 456
+hug

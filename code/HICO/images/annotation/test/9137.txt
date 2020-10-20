@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009247.jpg
+640 427 3
+human
+368 481 30 231
+dog
+363 440 223 370
+run

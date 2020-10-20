@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023519.jpg
+512 640 3
+human
+342 380 141 218
+dog
+4 503 381 634
+carry

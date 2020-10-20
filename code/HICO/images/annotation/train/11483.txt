@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011497.jpg
+640 400 3
+human
+229 454 32 378
+cow
+44 204 90 370
+ride

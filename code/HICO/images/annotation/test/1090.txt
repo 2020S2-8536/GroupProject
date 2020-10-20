@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001109.jpg
+635 640 3
+human
+223 531 67 474
+horse
+157 533 154 585
+kiss

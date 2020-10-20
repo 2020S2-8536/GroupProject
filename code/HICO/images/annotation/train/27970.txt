@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027999.jpg
+419 640 3
+human
+62 301 171 611
+person
+213 302 201 619
+hug

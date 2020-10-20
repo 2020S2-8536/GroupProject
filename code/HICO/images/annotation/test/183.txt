@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000184.jpg
+640 529 3
+human
+356 636 1 528
+cat
+59 544 22 529
+hug

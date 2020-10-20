@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030372.jpg
+640 425 3
+human
+162 637 101 420
+dog
+232 639 71 353
+pet

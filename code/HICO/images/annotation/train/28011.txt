@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028040.jpg
+428 640 3
+human
+98 360 131 638
+train
+3 424 4 633
+sit_on

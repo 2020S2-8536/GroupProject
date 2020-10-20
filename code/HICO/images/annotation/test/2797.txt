@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002856.jpg
+640 426 3
+human
+154 269 88 221
+motorcycle
+100 341 113 259
+ride

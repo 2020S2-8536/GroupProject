@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007884.jpg
+640 426 3
+human
+92 347 64 424
+person
+297 602 42 425
+hold

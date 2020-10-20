@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002319.jpg
+427 640 3
+human
+7 308 147 635
+person
+18 331 51 621
+kiss

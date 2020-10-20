@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036045.jpg
+640 480 3
+human
+18 26 296 309
+bicycle
+74 418 193 303
+carry

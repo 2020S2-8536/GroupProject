@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025990.jpg
+640 480 3
+human
+326 370 130 234
+sheep
+538 626 207 262
+walk

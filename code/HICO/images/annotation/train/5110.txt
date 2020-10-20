@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005118.jpg
+359 640 3
+human
+34 281 314 549
+couch
+2 313 350 639
+sit_on

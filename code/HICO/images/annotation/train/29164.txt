@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029193.jpg
+640 457 3
+human
+19 102 3 144
+dog
+55 324 83 413
+walk

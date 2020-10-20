@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002512.jpg
+640 427 3
+human
+386 457 134 326
+horse
+429 514 147 339
+hold

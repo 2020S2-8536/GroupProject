@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023486.jpg
+640 425 3
+human
+278 357 32 221
+train
+419 515 163 248
+board

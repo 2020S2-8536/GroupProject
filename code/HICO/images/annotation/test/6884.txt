@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006988.jpg
+319 480 3
+human
+97 242 94 281
+horse
+66 272 129 349
+kiss

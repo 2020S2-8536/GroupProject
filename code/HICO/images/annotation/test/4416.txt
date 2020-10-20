@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004502.jpg
+640 450 3
+human
+418 589 42 437
+horse
+56 422 30 429
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011950.jpg
+640 480 3
+human
+411 487 88 289
+cow
+45 420 105 324
+hug

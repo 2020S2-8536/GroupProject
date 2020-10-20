@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006772.jpg
+340 600 3
+human
+3 154 5 225
+person
+30 337 12 589
+carry

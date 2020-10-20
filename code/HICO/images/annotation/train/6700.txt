@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006709.jpg
+640 375 3
+human
+130 178 168 265
+train
+2 265 5 278
+drive

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002934.jpg
+640 508 3
+human
+327 346 237 270
+boat
+154 485 232 335
+sail

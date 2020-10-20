@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021955.jpg
+640 373 3
+human
+595 625 49 302
+person
+231 362 106 307
+carry

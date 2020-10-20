@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024452.jpg
+640 427 3
+human
+251 426 23 288
+motorcycle
+198 460 117 369
+hop_on

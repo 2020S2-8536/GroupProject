@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008582.jpg
+640 480 3
+human
+258 368 62 250
+motorcycle
+194 431 134 281
+hop_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003871.jpg
+640 343 3
+human
+1 54 5 172
+motorcycle
+303 637 35 338
+hold

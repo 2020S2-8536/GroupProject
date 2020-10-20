@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004195.jpg
+640 379 3
+human
+118 223 10 202
+bicycle
+136 234 89 253
+hop_on

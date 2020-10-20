@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036691.jpg
+640 427 3
+human
+175 503 70 425
+dog
+229 457 216 418
+pet

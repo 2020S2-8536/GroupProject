@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004323.jpg
+640 425 3
+human
+132 358 30 422
+person
+300 639 39 422
+hold

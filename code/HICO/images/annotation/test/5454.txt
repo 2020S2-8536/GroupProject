@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005556.jpg
+640 428 3
+human
+286 385 141 253
+motorcycle
+245 432 169 288
+race

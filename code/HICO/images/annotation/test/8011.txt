@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008117.jpg
+640 457 3
+human
+347 484 70 386
+bicycle
+169 308 224 453
+sit_on

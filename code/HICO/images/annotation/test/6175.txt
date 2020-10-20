@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006279.jpg
+640 480 3
+human
+556 635 369 437
+dining_table
+39 636 232 474
+sit_at

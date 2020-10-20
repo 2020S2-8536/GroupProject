@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008704.jpg
+640 396 3
+human
+166 283 176 272
+tv
+152 254 192 289
+watch

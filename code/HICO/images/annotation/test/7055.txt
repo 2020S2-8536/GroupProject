@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007159.jpg
+640 460 3
+human
+93 340 190 376
+motorcycle
+53 266 206 404
+sit_on

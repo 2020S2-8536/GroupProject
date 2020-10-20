@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000580.jpg
+640 426 3
+human
+396 583 36 200
+motorcycle
+370 520 42 201
+ride

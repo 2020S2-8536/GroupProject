@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007227.jpg
+640 480 3
+human
+156 215 274 313
+bus
+122 486 105 433
+sit_on

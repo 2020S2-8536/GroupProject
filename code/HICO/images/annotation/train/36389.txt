@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036420.jpg
+421 631 3
+human
+37 389 143 551
+chair
+1 420 6 627
+lie_on

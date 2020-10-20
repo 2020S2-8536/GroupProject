@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003469.jpg
+640 426 3
+human
+43 271 106 421
+person
+232 542 50 425
+hug

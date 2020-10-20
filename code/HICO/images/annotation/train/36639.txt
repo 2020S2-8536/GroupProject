@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036670.jpg
+480 640 3
+human
+2 340 1 529
+dog
+20 417 11 626
+run

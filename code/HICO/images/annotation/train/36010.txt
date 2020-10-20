@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036041.jpg
+480 640 3
+human
+265 336 233 447
+airplane
+2 479 6 522
+ride

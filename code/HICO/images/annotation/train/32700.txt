@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032729.jpg
+437 640 3
+human
+71 332 13 551
+couch
+1 48 38 197
+carry

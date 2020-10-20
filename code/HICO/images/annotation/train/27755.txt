@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027784.jpg
+424 640 3
+human
+42 423 108 638
+person
+2 422 75 638
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008596.jpg
+640 427 3
+human
+150 441 90 380
+chair
+254 467 136 425
+lie_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000894.jpg
+429 640 3
+human
+214 306 105 251
+horse
+257 416 206 600
+run

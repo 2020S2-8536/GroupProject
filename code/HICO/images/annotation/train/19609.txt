@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019636.jpg
+481 640 3
+human
+29 382 26 636
+person
+71 369 159 639
+kiss

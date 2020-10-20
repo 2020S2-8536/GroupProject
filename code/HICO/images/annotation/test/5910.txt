@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006014.jpg
+523 640 1
+human
+45 481 106 604
+couch
+44 475 125 600
+sit_on

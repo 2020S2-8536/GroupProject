@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018582.jpg
+612 612 3
+human
+20 550 61 588
+bottle
+253 387 224 456
+hold

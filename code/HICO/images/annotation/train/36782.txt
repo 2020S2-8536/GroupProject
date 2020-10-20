@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036813.jpg
+640 438 3
+human
+156 335 55 309
+horse
+40 625 83 415
+pet

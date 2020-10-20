@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024834.jpg
+438 447 3
+human
+255 433 102 383
+person
+186 418 124 391
+kiss

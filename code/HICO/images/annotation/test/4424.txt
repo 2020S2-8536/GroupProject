@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004510.jpg
+640 312 3
+human
+167 427 66 311
+person
+62 444 17 310
+hug

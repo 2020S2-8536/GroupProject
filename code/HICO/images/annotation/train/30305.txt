@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030334.jpg
+640 427 3
+human
+366 405 136 165
+airplane
+102 496 98 267
+sit_on

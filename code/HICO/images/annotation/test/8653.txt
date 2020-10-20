@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008759.jpg
+640 480 3
+human
+465 614 85 363
+motorcycle
+218 522 170 437
+race

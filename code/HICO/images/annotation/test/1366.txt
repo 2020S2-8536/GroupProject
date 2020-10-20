@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001398.jpg
+640 480 3
+human
+269 306 190 261
+bottle
+410 590 152 211
+carry

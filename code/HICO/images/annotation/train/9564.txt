@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009577.jpg
+640 513 3
+human
+302 385 91 373
+horse
+40 377 78 469
+hug

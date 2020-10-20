@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007764.jpg
+333 500 3
+human
+200 318 170 499
+horse
+29 273 172 438
+hug

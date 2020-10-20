@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020969.jpg
+640 448 3
+human
+160 325 26 354
+car
+32 634 2 177
+board

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027473.jpg
+480 640 3
+human
+44 410 34 572
+bottle
+241 448 66 150
+hold

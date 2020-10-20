@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007603.jpg
+452 640 3
+human
+1 447 31 600
+cat
+3 446 268 531
+hug

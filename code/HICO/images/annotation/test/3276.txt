@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003350.jpg
+480 319 3
+human
+151 260 26 194
+horse
+24 358 46 319
+hug

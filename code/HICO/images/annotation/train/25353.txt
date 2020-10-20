@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025382.jpg
+592 640 3
+human
+149 442 33 636
+person
+4 355 30 636
+greet

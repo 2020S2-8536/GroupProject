@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006991.jpg
+610 585 3
+human
+169 214 197 273
+bicycle
+141 243 248 302
+hop_on

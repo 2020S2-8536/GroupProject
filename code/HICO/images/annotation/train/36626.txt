@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036657.jpg
+640 421 3
+human
+411 431 115 201
+horse
+244 525 70 404
+feed

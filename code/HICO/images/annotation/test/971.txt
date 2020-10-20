@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000988.jpg
+427 640 3
+human
+53 374 84 638
+chair
+46 418 234 633
+stand_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00012763.jpg
+631 640 3
+human
+393 604 176 633
+horse
+36 610 29 622
+hug

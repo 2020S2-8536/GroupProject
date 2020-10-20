@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036667.jpg
+640 430 3
+human
+92 135 291 354
+dog
+107 116 350 370
+walk

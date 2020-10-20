@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034239.jpg
+640 426 3
+human
+32 216 98 354
+dining_table
+90 487 217 423
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023417.jpg
+480 640 3
+human
+9 384 9 603
+cat
+21 472 92 560
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022117.jpg
+640 480 3
+human
+57 494 66 478
+couch
+2 530 2 480
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000236.jpg
+640 640 3
+human
+94 262 210 634
+person
+250 404 259 632
+hug

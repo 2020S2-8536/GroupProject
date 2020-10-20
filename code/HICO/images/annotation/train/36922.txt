@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036953.jpg
+640 480 3
+human
+206 320 1 142
+sheep
+102 523 56 383
+ride

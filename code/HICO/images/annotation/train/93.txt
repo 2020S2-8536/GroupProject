@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000094.jpg
+427 640 3
+human
+94 149 383 503
+boat
+63 154 448 543
+sail

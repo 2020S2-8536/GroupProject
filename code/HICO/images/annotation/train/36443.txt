@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036474.jpg
+480 640 3
+human
+285 360 273 384
+cow
+82 310 98 553
+hug

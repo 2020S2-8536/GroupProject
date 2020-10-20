@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002108.jpg
+640 357 1
+human
+269 338 33 182
+cow
+233 383 102 208
+walk

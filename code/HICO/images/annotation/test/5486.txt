@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005588.jpg
+640 432 3
+human
+120 232 66 222
+motorcycle
+3 220 90 406
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032121.jpg
+478 640 3
+human
+10 197 6 151
+train
+320 472 94 529
+board

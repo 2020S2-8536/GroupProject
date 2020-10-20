@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022702.jpg
+640 470 3
+human
+447 469 274 322
+train
+143 437 155 389
+drive

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011255.jpg
+480 640 3
+human
+161 182 301 362
+train
+424 456 363 430
+board

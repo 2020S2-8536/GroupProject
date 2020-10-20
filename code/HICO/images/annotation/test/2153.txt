@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002201.jpg
+640 481 3
+human
+486 551 158 248
+motorcycle
+425 512 212 282
+hop_on

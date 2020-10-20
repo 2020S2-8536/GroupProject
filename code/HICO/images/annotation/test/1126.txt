@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001146.jpg
+385 314 3
+human
+78 363 7 292
+dining_table
+1 384 213 313
+eat_at

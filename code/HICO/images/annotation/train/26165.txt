@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026194.jpg
+443 293 3
+human
+56 292 28 290
+person
+58 272 59 292
+hug

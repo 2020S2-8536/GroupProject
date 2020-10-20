@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035044.jpg
+640 427 3
+human
+280 390 191 273
+car
+110 640 132 423
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008033.jpg
+640 480 3
+human
+252 539 9 393
+motorcycle
+54 502 94 459
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004704.jpg
+640 480 3
+human
+180 198 298 352
+bicycle
+104 628 207 354
+carry

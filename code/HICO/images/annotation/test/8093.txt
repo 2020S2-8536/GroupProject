@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008199.jpg
+640 439 3
+human
+242 545 66 362
+chair
+11 212 178 302
+stand_on

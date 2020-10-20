@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005271.jpg
+640 428 3
+human
+272 416 144 427
+cow
+139 318 187 425
+hug

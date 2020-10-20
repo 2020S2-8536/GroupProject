@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001437.jpg
+360 270 3
+human
+93 303 96 268
+person
+53 358 1 268
+hug

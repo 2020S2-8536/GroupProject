@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008586.jpg
+462 640 3
+human
+4 169 257 429
+sheep
+22 390 14 622
+carry

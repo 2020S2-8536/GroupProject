@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004352.jpg
+606 640 3
+human
+1 591 130 637
+dog
+43 565 2 637
+run

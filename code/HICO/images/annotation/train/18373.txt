@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018396.jpg
+640 426 3
+human
+310 427 110 343
+dog
+228 363 134 411
+kiss

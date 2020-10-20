@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028866.jpg
+640 512 3
+human
+98 621 12 501
+dog
+2 495 218 506
+pet

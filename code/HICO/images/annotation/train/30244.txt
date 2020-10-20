@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030273.jpg
+640 379 3
+human
+186 280 95 344
+train
+289 535 87 178
+board

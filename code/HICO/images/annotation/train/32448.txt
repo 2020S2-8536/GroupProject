@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032477.jpg
+640 480 3
+human
+321 382 253 314
+bus
+78 576 8 456
+sit_on

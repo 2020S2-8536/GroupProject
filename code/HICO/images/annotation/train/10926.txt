@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010940.jpg
+640 427 3
+human
+318 464 2 426
+sheep
+114 313 138 287
+herd

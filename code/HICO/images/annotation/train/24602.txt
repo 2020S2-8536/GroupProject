@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024631.jpg
+640 508 3
+human
+205 476 114 476
+person
+205 476 261 395
+greet

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036618.jpg
+640 402 3
+human
+78 307 66 401
+dog
+173 286 141 319
+run

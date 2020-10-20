@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020899.jpg
+640 454 3
+human
+33 514 206 414
+couch
+2 626 192 447
+sit_on

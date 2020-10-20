@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00027219.jpg
+380 640 3
+human
+13 196 212 583
+dog
+48 244 342 590
+feed

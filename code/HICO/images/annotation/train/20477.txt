@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020505.jpg
+640 508 3
+human
+102 483 117 408
+person
+58 287 112 410
+hug

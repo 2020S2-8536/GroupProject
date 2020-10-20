@@ -7,9 +7,9 @@ from pprint import pprint
 
 class Config:
     # data
-    voc_data_dir = '/home/dzc/Desktop/ANU/8526Project/GroupProject/code/VOC/VOCdevkit/VOC2007'
-    min_size = 600  # image resize
-    max_size = 1000 # image resize
+    hico_data_dir = '/home/dzc/Desktop/ANU/8526Project/GroupProject/code/HICO/images/'
+    min_size = 400  # image resize
+    max_size = 640 # image resize
     num_workers = 8
     test_num_workers = 8
 
@@ -27,7 +27,7 @@ class Config:
     # visualization
     env = 'faster-rcnn'  # visdom env
     port = 8097
-    plot_every = 40  # vis every N iter
+    plot_every = 5  # vis every N iter
 
     # preset
     data = 'voc'

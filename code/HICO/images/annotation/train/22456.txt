@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022485.jpg
+640 428 3
+human
+370 430 136 177
+train
+14 590 56 418
+sit_on

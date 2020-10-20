@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006388.jpg
+640 350 3
+human
+427 501 61 232
+chair
+451 526 102 176
+stand_on

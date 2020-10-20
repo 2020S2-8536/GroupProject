@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007297.jpg
+640 480 3
+human
+184 241 183 230
+bus
+109 450 80 350
+sit_on

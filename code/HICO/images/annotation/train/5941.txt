@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005950.jpg
+426 640 3
+human
+99 315 216 640
+bottle
+248 397 370 511
+hold

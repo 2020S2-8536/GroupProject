@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00032504.jpg
+640 427 3
+human
+243 308 167 267
+motorcycle
+179 306 186 279
+ride

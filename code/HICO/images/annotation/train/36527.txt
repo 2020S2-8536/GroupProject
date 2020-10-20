@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036558.jpg
+548 640 3
+human
+1 508 6 562
+dog
+9 481 25 634
+run

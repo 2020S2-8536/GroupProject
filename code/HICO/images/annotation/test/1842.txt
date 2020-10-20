@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001884.jpg
+640 426 3
+human
+72 129 127 315
+bicycle
+309 336 178 222
+walk

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033033.jpg
+640 364 3
+human
+121 253 75 169
+horse
+30 391 95 306
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008575.jpg
+640 480 3
+human
+2 299 88 370
+sheep
+235 592 83 473
+herd

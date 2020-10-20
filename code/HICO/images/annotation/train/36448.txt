@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036479.jpg
+423 640 1
+human
+229 422 6 469
+cow
+189 419 4 411
+hug

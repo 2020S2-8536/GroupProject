@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008089.jpg
+640 480 3
+human
+1 332 121 422
+car
+6 330 159 367
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034513.jpg
+500 333 3
+human
+220 373 22 278
+bicycle
+223 377 120 303
+sit_on

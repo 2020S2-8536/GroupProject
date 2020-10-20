@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020640.jpg
+640 480 3
+human
+230 439 1 371
+horse
+79 517 135 474
+kiss

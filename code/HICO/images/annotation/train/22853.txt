@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022882.jpg
+640 480 3
+human
+10 638 1 477
+cat
+111 558 2 474
+hug

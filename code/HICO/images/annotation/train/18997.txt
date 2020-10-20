@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019022.jpg
+640 485 3
+human
+142 196 166 259
+sheep
+150 217 212 260
+hug

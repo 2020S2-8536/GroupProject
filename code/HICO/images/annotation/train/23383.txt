@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023412.jpg
+640 427 3
+human
+267 365 119 339
+motorcycle
+153 460 175 363
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008701.jpg
+360 640 3
+human
+89 247 129 510
+bicycle
+81 358 207 513
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006498.jpg
+640 485 3
+human
+332 376 198 346
+train
+4 482 7 482
+drive

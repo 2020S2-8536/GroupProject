@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017748.jpg
+640 427 3
+human
+351 503 102 379
+person
+473 609 56 386
+hug

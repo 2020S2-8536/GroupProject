@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025932.jpg
+640 480 3
+human
+206 539 10 474
+horse
+86 349 315 446
+feed

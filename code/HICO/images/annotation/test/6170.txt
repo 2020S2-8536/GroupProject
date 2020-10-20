@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006274.jpg
+640 408 3
+human
+482 490 70 77
+bicycle
+508 514 64 71
+sit_on

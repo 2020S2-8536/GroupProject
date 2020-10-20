@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003269.jpg
+640 246 3
+human
+548 565 26 48
+person
+1 37 46 145
+carry

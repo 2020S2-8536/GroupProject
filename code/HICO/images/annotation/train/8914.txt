@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00008923.jpg
+640 427 3
+human
+159 348 14 307
+motorcycle
+142 344 113 386
+ride

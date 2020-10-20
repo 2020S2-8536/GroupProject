@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007113.jpg
+640 480 3
+human
+330 361 213 269
+boat
+252 410 253 294
+stand_on

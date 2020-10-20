@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028456.jpg
+640 404 3
+human
+355 521 88 334
+motorcycle
+84 593 116 394
+sit_on

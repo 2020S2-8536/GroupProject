@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005766.jpg
+640 427 3
+human
+9 635 5 407
+cat
+7 173 199 408
+pet

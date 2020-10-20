@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008102.jpg
+640 534 3
+human
+40 300 94 532
+person
+107 303 124 533
+kiss

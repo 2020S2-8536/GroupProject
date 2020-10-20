@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006558.jpg
+640 432 3
+human
+40 262 100 388
+boat
+244 634 40 360
+ride

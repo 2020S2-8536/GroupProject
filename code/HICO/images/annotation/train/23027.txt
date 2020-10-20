@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023056.jpg
+522 640 3
+human
+42 433 154 600
+person
+53 477 216 593
+hug

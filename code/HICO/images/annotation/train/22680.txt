@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00022709.jpg
+640 426 3
+human
+128 284 90 239
+horse
+100 421 155 413
+ride

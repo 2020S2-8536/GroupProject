@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024064.jpg
+640 466 3
+human
+393 526 113 363
+horse
+242 459 132 389
+hold

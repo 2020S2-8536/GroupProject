@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001422.jpg
+334 500 3
+human
+3 255 225 491
+person
+62 330 171 411
+hug

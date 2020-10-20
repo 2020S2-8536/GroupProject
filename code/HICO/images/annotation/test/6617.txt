@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006721.jpg
+497 640 3
+human
+31 335 60 466
+couch
+4 492 36 631
+sit_on

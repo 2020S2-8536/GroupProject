@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036435.jpg
+640 360 3
+human
+395 486 70 161
+couch
+2 314 139 358
+carry

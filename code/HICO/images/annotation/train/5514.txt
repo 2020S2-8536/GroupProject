@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005523.jpg
+450 322 3
+human
+6 158 45 258
+bird
+129 208 184 251
+feed

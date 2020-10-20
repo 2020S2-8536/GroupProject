@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00031839.jpg
+443 640 3
+human
+84 324 2 639
+person
+33 442 56 638
+greet

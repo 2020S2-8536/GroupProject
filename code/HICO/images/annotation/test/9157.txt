@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009267.jpg
+640 427 3
+human
+333 459 139 376
+horse
+66 312 165 360
+race

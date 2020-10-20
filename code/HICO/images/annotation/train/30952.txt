@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030981.jpg
+640 514 3
+human
+72 563 63 470
+person
+396 637 338 457
+hold

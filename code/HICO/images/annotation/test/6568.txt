@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006672.jpg
+640 424 3
+human
+583 637 195 339
+boat
+1 638 250 330
+sail

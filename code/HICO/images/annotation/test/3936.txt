@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004019.jpg
+441 640 3
+human
+1 429 6 587
+cat
+6 378 228 578
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019508.jpg
+640 539 3
+human
+28 125 281 522
+train
+138 567 138 434
+drive

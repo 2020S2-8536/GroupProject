@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019279.jpg
+640 427 3
+human
+495 639 1 305
+horse
+248 500 53 390
+feed

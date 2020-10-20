@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029377.jpg
+478 640 3
+human
+3 468 14 637
+chair
+308 471 188 518
+lie_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005063.jpg
+640 421 3
+human
+96 111 197 224
+bottle
+99 325 191 257
+carry

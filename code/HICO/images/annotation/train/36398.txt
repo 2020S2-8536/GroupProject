@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036429.jpg
+480 640 3
+human
+30 63 15 81
+couch
+77 358 95 568
+carry

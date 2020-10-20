@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006041.jpg
+426 640 3
+human
+1 425 2 639
+chair
+6 424 275 639
+lie_on

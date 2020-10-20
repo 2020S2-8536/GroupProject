@@ -10,7 +10,6 @@ from model.utils.bbox_tools import bbox_iou
 
 def eval_detection_voc(
         pred_bboxes, pred_labels, pred_scores, gt_bboxes, gt_labels,
-        gt_difficults=None,
         iou_thresh=0.5, use_07_metric=False):
     """Calculate average precisions based on evaluation code of PASCAL VOC.
 
@@ -72,7 +71,7 @@ def eval_detection_voc(
 
     prec, rec = calc_detection_voc_prec_rec(
         pred_bboxes, pred_labels, pred_scores,
-        gt_bboxes, gt_labels, gt_difficults,
+        gt_bboxes, gt_labels,
         iou_thresh=iou_thresh)
 
     ap = calc_detection_voc_ap(prec, rec, use_07_metric=use_07_metric)
@@ -82,7 +81,6 @@ def eval_detection_voc(
 
 def calc_detection_voc_prec_rec(
         pred_bboxes, pred_labels, pred_scores, gt_bboxes, gt_labels,
-        gt_difficults=None,
         iou_thresh=0.5):
     """Calculate precision and recall based on evaluation code of PASCAL VOC.
 
@@ -146,20 +144,17 @@ def calc_detection_voc_prec_rec(
     pred_scores = iter(pred_scores)
     gt_bboxes = iter(gt_bboxes)
     gt_labels = iter(gt_labels)
-    if gt_difficults is None:
-        gt_difficults = itertools.repeat(None)
-    else:
-        gt_difficults = iter(gt_difficults)
 
     n_pos = defaultdict(int)
     score = defaultdict(list)
     match = defaultdict(list)
 
-    for pred_bbox, pred_label, pred_score, gt_bbox, gt_label, gt_difficult in \
+    for pred_bbox, pred_label, pred_score, gt_bbox, gt_label in \
             six.moves.zip(
                 pred_bboxes, pred_labels, pred_scores,
-                gt_bboxes, gt_labels, gt_difficults):
+                gt_bboxes, gt_labels):
 
+        gt_difficult = None
         if gt_difficult is None:
             gt_difficult = np.zeros(gt_bbox.shape[0], dtype=bool)
 
@@ -213,7 +208,7 @@ def calc_detection_voc_prec_rec(
 
     for iter_ in (
             pred_bboxes, pred_labels, pred_scores,
-            gt_bboxes, gt_labels, gt_difficults):
+            gt_bboxes, gt_labels):
         if next(iter_, None) is not None:
             raise ValueError('Length of input iterables need to be same.')
 

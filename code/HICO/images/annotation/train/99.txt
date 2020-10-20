@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000100.jpg
+640 440 3
+human
+214 345 74 434
+cow
+33 226 82 412
+herd

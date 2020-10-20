@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005778.jpg
+480 640 3
+human
+62 257 92 430
+horse
+50 478 146 622
+hug

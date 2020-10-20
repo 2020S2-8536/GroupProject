@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006665.jpg
+425 640 3
+human
+147 414 171 417
+bicycle
+27 342 202 451
+hop_on

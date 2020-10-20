@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005675.jpg
+640 512 1
+human
+6 359 2 509
+person
+300 581 28 509
+hold

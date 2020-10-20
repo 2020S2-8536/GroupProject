@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013454.jpg
+640 480 3
+human
+4 624 3 476
+cat
+7 447 10 444
+hug

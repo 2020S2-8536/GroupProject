@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00018536.jpg
+640 427 3
+human
+319 361 129 155
+bottle
+29 598 126 323
+carry

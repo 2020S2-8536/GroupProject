@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026569.jpg
+576 433 3
+human
+19 363 2 430
+person
+318 575 4 431
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025476.jpg
+640 480 3
+human
+100 273 90 406
+person
+242 436 110 382
+hold

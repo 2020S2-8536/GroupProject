@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007027.jpg
+640 426 3
+human
+285 411 80 249
+horse
+192 499 120 317
+hug

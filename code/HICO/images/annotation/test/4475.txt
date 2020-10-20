@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004561.jpg
+600 450 3
+human
+2 137 75 377
+dining_table
+2 554 207 444
+sit_at

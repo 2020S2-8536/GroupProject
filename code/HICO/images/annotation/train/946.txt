@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000947.jpg
+640 480 3
+human
+313 370 234 476
+couch
+310 514 182 294
+lie_on

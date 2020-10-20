@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034442.jpg
+640 455 3
+human
+48 399 106 450
+person
+30 415 37 451
+hug

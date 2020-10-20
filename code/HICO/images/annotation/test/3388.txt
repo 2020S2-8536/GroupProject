@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003462.jpg
+640 360 3
+human
+274 294 82 102
+bus
+262 348 22 142
+sit_on

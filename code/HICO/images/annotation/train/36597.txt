@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036628.jpg
+429 640 3
+human
+62 401 41 609
+dog
+82 296 397 638
+run

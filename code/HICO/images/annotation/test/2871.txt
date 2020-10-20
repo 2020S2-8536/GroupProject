@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002936.jpg
+640 457 3
+human
+91 326 21 335
+horse
+262 534 182 442
+feed

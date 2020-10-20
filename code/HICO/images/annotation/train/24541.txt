@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024570.jpg
+336 351 3
+human
+318 336 117 182
+motorcycle
+39 291 19 349
+hold

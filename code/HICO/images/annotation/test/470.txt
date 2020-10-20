@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00000471.jpg
+640 480 3
+human
+209 294 243 319
+boat
+96 460 296 338
+sail

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005376.jpg
+604 399 3
+human
+227 381 44 293
+bicycle
+168 436 138 323
+sit_on

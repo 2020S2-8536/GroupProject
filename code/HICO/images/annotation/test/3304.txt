@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003378.jpg
+640 426 3
+human
+320 544 30 411
+dog
+146 482 142 426
+train

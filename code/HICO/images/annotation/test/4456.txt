@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004542.jpg
+427 640 3
+human
+11 34 268 317
+cow
+2 139 304 506
+feed

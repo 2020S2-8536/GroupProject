@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006726.jpg
+456 640 3
+human
+332 455 22 463
+bottle
+2 323 124 640
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025087.jpg
+579 640 3
+human
+190 429 186 464
+motorcycle
+197 429 220 538
+sit_on

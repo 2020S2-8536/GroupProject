@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005995.jpg
+640 426 3
+human
+452 596 1 148
+person
+81 630 55 375
+carry

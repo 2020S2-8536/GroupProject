@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036329.jpg
+640 420 3
+human
+501 520 234 273
+bus
+74 545 68 351
+ride

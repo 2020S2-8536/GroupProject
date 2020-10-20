@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003548.jpg
+640 434 3
+human
+295 337 139 184
+airplane
+32 614 102 327
+sit_on

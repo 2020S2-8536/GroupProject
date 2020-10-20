@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023651.jpg
+640 446 3
+human
+255 429 51 414
+bicycle
+266 436 190 330
+walk

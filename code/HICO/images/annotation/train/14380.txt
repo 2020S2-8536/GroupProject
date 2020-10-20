@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014399.jpg
+596 640 3
+human
+253 594 13 632
+horse
+20 595 105 638
+train

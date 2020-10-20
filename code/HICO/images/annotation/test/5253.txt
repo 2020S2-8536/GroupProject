@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005354.jpg
+640 535 1
+human
+171 224 170 290
+bicycle
+238 557 210 390
+carry

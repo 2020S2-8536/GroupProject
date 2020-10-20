@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006708.jpg
+640 484 3
+human
+223 454 25 338
+motorcycle
+77 594 31 433
+walk

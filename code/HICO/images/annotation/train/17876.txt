@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00017898.jpg
+640 470 3
+human
+380 455 170 323
+bicycle
+515 632 238 351
+sit_on

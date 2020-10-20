@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011263.jpg
+640 427 3
+human
+240 379 20 251
+horse
+122 590 107 403
+kiss

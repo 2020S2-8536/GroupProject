@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009244.jpg
+640 480 3
+human
+526 637 1 396
+dog
+170 316 177 414
+walk

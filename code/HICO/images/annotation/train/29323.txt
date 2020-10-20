@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029352.jpg
+640 427 3
+human
+203 508 10 401
+motorcycle
+139 546 173 411
+ride

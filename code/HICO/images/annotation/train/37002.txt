@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00037033.jpg
+640 537 1
+human
+311 347 235 274
+train
+147 419 183 367
+sit_on

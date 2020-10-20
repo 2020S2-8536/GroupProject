@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007548.jpg
+640 480 3
+human
+563 594 234 282
+car
+100 506 110 366
+board

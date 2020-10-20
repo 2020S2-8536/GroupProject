@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036680.jpg
+640 358 3
+human
+15 418 1 281
+dog
+99 578 34 354
+hold

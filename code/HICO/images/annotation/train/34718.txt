@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00034748.jpg
+500 333 3
+human
+245 269 141 168
+airplane
+147 491 107 247
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006973.jpg
+640 426 3
+human
+97 540 66 422
+chair
+168 456 275 419
+lie_on

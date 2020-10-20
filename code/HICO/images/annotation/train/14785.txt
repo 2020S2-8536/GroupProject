@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014804.jpg
+428 640 3
+human
+57 426 14 525
+sheep
+44 425 185 517
+hug

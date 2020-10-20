@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002200.jpg
+640 483 3
+human
+3 298 50 441
+dog
+294 435 266 408
+run

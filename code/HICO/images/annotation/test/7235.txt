@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007340.jpg
+527 640 3
+human
+102 242 246 496
+motorcycle
+74 151 225 391
+sit_on

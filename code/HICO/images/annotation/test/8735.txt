@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008841.jpg
+640 425 3
+human
+14 553 15 424
+person
+200 597 150 423
+hug

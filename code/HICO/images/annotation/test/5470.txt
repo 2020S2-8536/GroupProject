@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005572.jpg
+480 640 3
+human
+30 302 30 502
+bicycle
+140 358 322 639
+sit_on

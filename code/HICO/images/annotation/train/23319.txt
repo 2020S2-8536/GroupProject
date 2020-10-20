@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00023348.jpg
+640 427 3
+human
+140 239 40 231
+horse
+31 301 100 425
+ride

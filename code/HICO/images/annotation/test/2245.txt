@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002293.jpg
+640 480 3
+human
+173 246 200 312
+dining_table
+146 489 282 450
+sit_at

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00033747.jpg
+640 423 3
+human
+239 286 145 206
+train
+290 636 13 415
+drive

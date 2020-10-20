@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029555.jpg
+500 333 3
+human
+279 372 50 206
+motorcycle
+187 413 126 244
+hop_on

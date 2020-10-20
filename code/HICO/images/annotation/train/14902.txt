@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014922.jpg
+640 504 3
+human
+490 513 192 230
+train
+59 562 106 497
+sit_on

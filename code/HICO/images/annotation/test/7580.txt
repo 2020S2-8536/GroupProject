@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007686.jpg
+640 405 3
+human
+153 430 3 340
+couch
+19 585 57 403
+sit_on

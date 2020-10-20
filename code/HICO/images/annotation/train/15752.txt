@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00015772.jpg
+640 480 3
+human
+270 383 159 424
+dining_table
+435 578 289 453
+clean

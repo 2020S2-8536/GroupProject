@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005275.jpg
+500 333 3
+human
+79 121 166 206
+bus
+41 203 43 302
+sit_on

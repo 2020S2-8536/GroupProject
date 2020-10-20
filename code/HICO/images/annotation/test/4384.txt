@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004470.jpg
+640 360 3
+human
+136 286 39 290
+motorcycle
+73 436 70 314
+ride

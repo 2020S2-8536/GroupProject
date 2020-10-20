@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028180.jpg
+640 394 3
+human
+336 356 134 165
+airplane
+34 577 70 305
+sit_on

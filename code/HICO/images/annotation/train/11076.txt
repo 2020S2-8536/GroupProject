@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00011090.jpg
+367 640 3
+human
+95 234 180 635
+person
+2 129 92 638
+greet

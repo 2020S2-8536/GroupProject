@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006956.jpg
+640 503 3
+human
+40 92 81 208
+bicycle
+30 98 179 283
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008593.jpg
+640 480 3
+human
+390 498 156 316
+sheep
+234 318 222 321
+carry

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007222.jpg
+466 600 3
+human
+41 267 205 561
+person
+206 434 105 567
+hug

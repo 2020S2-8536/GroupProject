@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007040.jpg
+480 453 3
+human
+171 302 45 228
+horse
+70 406 118 288
+hug

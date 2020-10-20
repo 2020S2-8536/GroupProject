@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009064.jpg
+640 512 3
+human
+188 326 25 439
+bicycle
+189 330 193 490
+sit_on

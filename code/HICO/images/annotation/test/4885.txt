@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004981.jpg
+640 363 3
+human
+187 565 54 310
+person
+111 303 26 226
+greet

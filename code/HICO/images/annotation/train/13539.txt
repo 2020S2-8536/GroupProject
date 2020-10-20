@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013555.jpg
+640 428 3
+human
+86 355 86 428
+person
+340 598 110 427
+hold

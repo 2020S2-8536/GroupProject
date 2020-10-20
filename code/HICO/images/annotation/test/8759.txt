@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008865.jpg
+640 408 3
+human
+93 261 136 400
+bicycle
+50 344 225 408
+sit_on

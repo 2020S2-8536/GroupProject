@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006832.jpg
+640 480 3
+human
+88 514 78 478
+chair
+295 398 170 402
+lie_on

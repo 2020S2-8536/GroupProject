@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036633.jpg
+640 480 3
+human
+433 530 52 274
+horse
+375 458 423 480
+feed

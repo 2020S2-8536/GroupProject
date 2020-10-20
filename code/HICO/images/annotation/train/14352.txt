@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00014371.jpg
+509 640 3
+human
+89 433 95 636
+couch
+1 508 2 638
+sit_on

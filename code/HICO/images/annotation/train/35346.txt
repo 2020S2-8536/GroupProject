@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035377.jpg
+480 640 3
+human
+110 339 3 617
+person
+95 262 99 382
+greet

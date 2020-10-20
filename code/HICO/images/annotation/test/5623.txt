@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005725.jpg
+401 640 3
+human
+121 317 26 422
+horse
+106 390 85 622
+hug

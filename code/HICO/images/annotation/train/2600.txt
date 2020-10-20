@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002602.jpg
+640 426 3
+human
+37 81 136 279
+train
+71 584 133 352
+sit_on

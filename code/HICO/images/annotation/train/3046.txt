@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003048.jpg
+640 427 3
+human
+468 500 199 313
+bus
+1 548 16 381
+ride

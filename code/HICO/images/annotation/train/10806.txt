@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00010820.jpg
+482 640 3
+human
+110 473 27 593
+chair
+50 473 65 546
+sit_on

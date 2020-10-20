@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009730.jpg
+640 480 3
+human
+8 53 25 68
+motorcycle
+469 639 202 455
+race

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002307.jpg
+640 234 3
+human
+287 408 7 133
+bicycle
+256 394 57 229
+hop_on

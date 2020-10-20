@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00021438.jpg
+612 612 3
+human
+248 370 184 334
+dining_table
+44 607 303 610
+sit_at

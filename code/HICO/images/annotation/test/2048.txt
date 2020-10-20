@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002096.jpg
+640 451 3
+human
+492 521 144 223
+car
+1 110 1 287
+board

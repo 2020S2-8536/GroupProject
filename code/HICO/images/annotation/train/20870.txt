@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00020898.jpg
+499 276 3
+human
+139 201 43 141
+dining_table
+158 494 139 274
+sit_at

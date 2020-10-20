@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00004480.jpg
+551 640 3
+human
+34 325 17 447
+sheep
+4 299 215 499
+walk

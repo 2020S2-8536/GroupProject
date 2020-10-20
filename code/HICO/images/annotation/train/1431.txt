@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00001432.jpg
+427 640 3
+human
+11 400 65 635
+person
+21 242 34 278
+greet

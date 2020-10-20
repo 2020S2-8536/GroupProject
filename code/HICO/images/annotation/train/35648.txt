@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00035679.jpg
+640 427 3
+human
+357 504 37 424
+bird
+500 638 36 143
+hold

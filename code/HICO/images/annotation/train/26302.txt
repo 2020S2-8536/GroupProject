@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00026331.jpg
+561 640 3
+human
+199 501 1 606
+person
+46 560 106 638
+hug

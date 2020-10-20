@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029297.jpg
+640 423 3
+human
+240 374 71 134
+car
+10 616 57 384
+ride

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007247.jpg
+640 480 3
+human
+132 498 118 346
+chair
+97 567 130 479
+stand_on

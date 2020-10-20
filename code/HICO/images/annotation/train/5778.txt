@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005787.jpg
+612 612 3
+human
+121 421 182 518
+bus
+15 607 6 608
+sit_on

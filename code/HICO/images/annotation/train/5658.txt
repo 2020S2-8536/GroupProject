@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005667.jpg
+640 393 3
+human
+532 607 138 306
+bicycle
+38 111 164 336
+walk

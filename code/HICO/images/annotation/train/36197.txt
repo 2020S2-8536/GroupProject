@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036228.jpg
+640 427 3
+human
+251 424 44 283
+boat
+106 476 126 423
+ride

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000897.jpg
+640 428 3
+human
+322 539 157 424
+person
+400 503 211 355
+kiss

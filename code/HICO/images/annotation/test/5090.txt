@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005186.jpg
+640 480 3
+human
+525 564 190 227
+boat
+211 243 234 246
+sail

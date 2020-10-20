@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00003835.jpg
+640 554 3
+human
+157 278 148 459
+bicycle
+176 333 83 361
+hold

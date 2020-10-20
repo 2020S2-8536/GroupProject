@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002966.jpg
+640 405 3
+human
+90 177 126 255
+person
+93 208 146 216
+hug

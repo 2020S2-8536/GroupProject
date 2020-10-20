@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008625.jpg
+640 480 3
+human
+26 596 23 467
+cat
+46 546 198 444
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001910.jpg
+640 480 3
+human
+68 634 194 401
+couch
+23 614 140 470
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036976.jpg
+640 360 3
+human
+330 398 40 111
+sheep
+351 393 188 269
+hold

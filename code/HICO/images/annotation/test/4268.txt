@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004354.jpg
+640 479 3
+human
+98 318 59 452
+bottle
+175 215 66 94
+hold

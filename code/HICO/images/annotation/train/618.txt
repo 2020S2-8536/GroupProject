@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00000619.jpg
+640 427 3
+human
+399 584 74 426
+person
+267 415 38 425
+kiss

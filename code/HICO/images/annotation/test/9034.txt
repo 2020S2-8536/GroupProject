@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00009144.jpg
+640 640 3
+human
+180 418 128 634
+bottle
+156 230 175 291
+drink_with

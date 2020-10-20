@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007846.jpg
+640 427 3
+human
+261 618 42 375
+cow
+8 583 31 404
+pet

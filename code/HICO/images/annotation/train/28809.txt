@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00028838.jpg
+640 426 3
+human
+4 424 5 368
+person
+169 396 10 300
+kiss

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024439.jpg
+640 467 3
+human
+329 616 1 462
+cow
+38 294 142 343
+ride

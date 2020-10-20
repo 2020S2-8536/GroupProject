@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00002986.jpg
+640 480 3
+human
+334 346 267 294
+bicycle
+354 361 274 282
+walk

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00002269.jpg
+542 450 3
+human
+69 500 121 364
+bus
+24 70 282 338
+board

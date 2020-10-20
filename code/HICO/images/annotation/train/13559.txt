@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00013575.jpg
+582 640 3
+human
+9 536 14 635
+cow
+309 580 373 631
+hug

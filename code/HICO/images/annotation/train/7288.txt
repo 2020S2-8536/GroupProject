@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00007297.jpg
+640 328 3
+human
+270 323 163 323
+dog
+70 161 225 299
+carry

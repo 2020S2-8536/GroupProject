@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007961.jpg
+640 480 3
+human
+466 569 126 387
+chair
+423 563 170 379
+stand_on

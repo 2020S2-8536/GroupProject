@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007404.jpg
+480 640 3
+human
+185 275 266 412
+chair
+52 478 107 582
+sit_on

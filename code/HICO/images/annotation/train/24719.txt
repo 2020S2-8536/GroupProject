@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00024748.jpg
+640 360 3
+human
+128 315 52 292
+motorcycle
+59 530 62 320
+ride

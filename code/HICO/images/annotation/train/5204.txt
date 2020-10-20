@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00005212.jpg
+640 480 3
+human
+606 622 225 265
+car
+78 583 65 440
+board

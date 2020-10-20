@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00005780.jpg
+634 640 3
+human
+1 629 166 636
+person
+38 505 2 639
+greet

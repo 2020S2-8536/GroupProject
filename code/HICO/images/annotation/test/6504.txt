@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00006608.jpg
+640 426 3
+human
+16 616 226 365
+couch
+1 627 167 317
+sit_on

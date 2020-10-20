@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008120.jpg
+640 425 3
+human
+278 406 61 314
+bicycle
+217 467 146 344
+sit_on

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007410.jpg
+512 384 3
+human
+138 182 186 214
+bus
+7 508 3 376
+sit_on

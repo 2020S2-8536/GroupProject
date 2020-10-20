@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004228.jpg
+640 173 3
+human
+329 351 50 78
+chair
+323 343 75 94
+stand_on

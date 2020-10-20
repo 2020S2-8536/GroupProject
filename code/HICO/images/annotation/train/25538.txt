@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00025567.jpg
+640 426 3
+human
+338 464 19 408
+person
+213 389 22 421
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001705.jpg
+466 640 3
+human
+84 297 29 448
+person
+82 202 44 445
+hug

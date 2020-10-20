@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003750.jpg
+640 426 3
+human
+199 640 2 360
+cat
+28 529 58 423
+feed

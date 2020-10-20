@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00030558.jpg
+640 456 3
+human
+72 447 53 446
+bird
+186 323 346 446
+hold

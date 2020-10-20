@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00006984.jpg
+640 450 3
+human
+359 532 142 447
+person
+92 207 260 443
+greet

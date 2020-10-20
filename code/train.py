@@ -28,13 +28,13 @@ matplotlib.use('agg')
 
 def eval(dataloader, faster_rcnn, test_num=10000):
     pred_bboxes, pred_labels, pred_scores = list(), list(), list()
-    gt_bboxes, gt_labels, gt_difficults = list(), list(), list()
-    for ii, (imgs, sizes, gt_bboxes_, gt_labels_, gt_difficults_) in tqdm(enumerate(dataloader)):
+    gt_bboxes, gt_labels= list(), list()
+    for ii, (imgs, sizes, gt_bboxes_, gt_labels_, human_box, object_box, action) in tqdm(enumerate(dataloader)):
         sizes = [sizes[0][0].item(), sizes[1][0].item()]
-        pred_bboxes_, pred_labels_, pred_scores_ = faster_rcnn.predict(imgs, [sizes])
+        pred_bboxes_, pred_labels_, pred_scores_= faster_rcnn.predict(imgs, [sizes])
         gt_bboxes += list(gt_bboxes_.numpy())
         gt_labels += list(gt_labels_.numpy())
-        gt_difficults += list(gt_difficults_.numpy())
+        # gt_difficults += list(gt_difficults_.numpy())
         pred_bboxes += pred_bboxes_
         pred_labels += pred_labels_
         pred_scores += pred_scores_
@@ -42,7 +42,7 @@ def eval(dataloader, faster_rcnn, test_num=10000):
 
     result = eval_detection_voc(
         pred_bboxes, pred_labels, pred_scores,
-        gt_bboxes, gt_labels, gt_difficults,
+        gt_bboxes, gt_labels,
         use_07_metric=True)
     return result
 
@@ -75,9 +75,10 @@ def train(**kwargs):
     lr_ = opt.lr
     for epoch in range(opt.epoch):
         trainer.reset_meters()
-        for ii, (img, bbox_, label_, scale) in tqdm(enumerate(dataloader)):
+        for ii, (img, bbox_, label_, scale, human_box, object_box, action) in tqdm(enumerate(dataloader)):
             scale = at.scalar(scale)
             img, bbox, label = img.cuda().float(), bbox_.cuda(), label_.cuda()
+            human_box, object_box, action = human_box.cuda(), object_box.cuda(), action.cuda()
             trainer.train_step(img, bbox, label, scale)
 
             if (ii + 1) % opt.plot_every == 0:
@@ -91,7 +92,9 @@ def train(**kwargs):
                 ori_img_ = inverse_normalize(at.tonumpy(img[0]))
                 gt_img = visdom_bbox(ori_img_,
                                      at.tonumpy(bbox_[0]),
-                                     at.tonumpy(label_[0]))
+                                     at.tonumpy(action[0]),
+                                     at.tonumpy(label_[0])
+                                     )
                 trainer.vis.img('gt_img', gt_img)
 
                 # plot predicti bboxes

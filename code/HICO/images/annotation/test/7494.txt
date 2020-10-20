@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007600.jpg
+640 480 3
+human
+191 638 1 480
+dog
+103 339 114 354
+hug

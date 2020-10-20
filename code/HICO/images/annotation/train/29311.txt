@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00029340.jpg
+478 640 3
+human
+33 235 63 497
+train
+3 457 12 636
+sit_on

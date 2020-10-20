@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00003728.jpg
+611 640 3
+human
+220 518 47 543
+motorcycle
+184 546 159 625
+sit_on

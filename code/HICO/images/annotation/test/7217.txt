@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00007322.jpg
+640 426 3
+human
+293 365 1 34
+motorcycle
+259 365 1 64
+ride

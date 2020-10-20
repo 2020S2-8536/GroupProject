@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00019836.jpg
+640 425 3
+human
+12 241 31 396
+motorcycle
+170 495 152 406
+race

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00036647.jpg
+434 640 3
+human
+2 433 35 637
+dog
+37 351 404 613
+train

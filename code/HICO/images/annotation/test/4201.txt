@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00004287.jpg
+427 640 3
+human
+87 272 129 387
+sheep
+1 417 251 588
+hug

@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00008155.jpg
+640 457 3
+human
+2 162 35 452
+person
+290 530 81 451
+hug

@@ -1,0 +1,7 @@
+HICO/images/train2015/HICO_train2015_00009358.jpg
+628 640 1
+human
+239 562 238 618
+cow
+102 598 106 616
+pet

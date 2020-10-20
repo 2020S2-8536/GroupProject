@@ -1,0 +1,7 @@
+HICO/images/test2015/HICO_test2015_00001643.jpg
+640 480 3
+human
+39 170 6 123
+horse
+177 428 168 330
+feed
