@@ -1,11 +1,8 @@
 from __future__ import  absolute_import
 from __future__ import  division
 import torch as t
-<<<<<<< HEAD
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
-=======
->>>>>>> ZichengDuan
 from data.voc_dataset import HICODataset
 from skimage import transform as sktsf
 from torchvision import transforms as tvtsf

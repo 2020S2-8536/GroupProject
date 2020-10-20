@@ -133,6 +133,7 @@ class VGG16RoIHead(nn.Module):
         """
         # in case roi_indices is  ndarray
         roi_indices = at.totensor(roi_indices).float()
+        print(roi_indices.shape, rois.shape)
         rois = at.totensor(rois).float()
         indices_and_rois = t.cat([roi_indices[:, None], rois], dim=1)
         # NOTE: important: yx->xy

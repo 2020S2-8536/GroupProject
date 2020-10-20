@@ -129,7 +129,6 @@ class ProposalTargetCreator(object):
         gt_roi_loc = bbox2loc(sample_roi, bbox[gt_assignment[keep_index]])
         gt_roi_loc = ((gt_roi_loc - np.array(loc_normalize_mean, np.float32)
                        ) / np.array(loc_normalize_std, np.float32))
-
         return sample_roi, gt_roi_loc, gt_roi_label
 
 

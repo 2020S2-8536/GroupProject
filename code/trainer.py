@@ -117,11 +117,11 @@ class FasterRCNNTrainer(nn.Module):
             self.loc_normalize_std)
         # NOTE it's all zero because now it only support for batch=1 now
         sample_roi_index = t.zeros(len(sample_roi))
+
         roi_cls_loc, roi_score = self.faster_rcnn.head(
             features,
             sample_roi,
             sample_roi_index)
-
         # ------------------ RPN losses -------------------#
         gt_rpn_loc, gt_rpn_label = self.anchor_target_creator(
             at.tonumpy(bbox),
@@ -143,12 +143,14 @@ class FasterRCNNTrainer(nn.Module):
 
         # ------------------ ROI losses (fast rcnn loss) -------------------#
         n_sample = roi_cls_loc.shape[0]
+        # 128 84
         roi_cls_loc = roi_cls_loc.view(n_sample, -1, 4)
-        roi_loc = roi_cls_loc[t.arange(0, n_sample).long().cuda(), \
-                              at.totensor(gt_roi_label).long()]
+        # 128 21 4
+        roi_loc = roi_cls_loc[t.arange(0, n_sample).long().cuda(), at.totensor(gt_roi_label).long()]
+        # 128 4
+        print(roi_loc.shape)
         gt_roi_label = at.totensor(gt_roi_label).long()
         gt_roi_loc = at.totensor(gt_roi_loc)
-
         roi_loc_loss = _fast_rcnn_loc_loss(
             roi_loc.contiguous(),
             gt_roi_loc,
