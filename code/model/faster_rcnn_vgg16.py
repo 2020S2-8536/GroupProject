@@ -144,7 +144,6 @@ class VGG16RoIHead(nn.Module):
         fc7 = self.classifier(pool)
         roi_cls_locs = self.cls_loc(fc7)
         roi_scores = self.score(fc7)
-        print(roi_cls_locs.shape, roi_cls_locs)
         return roi_cls_locs, roi_scores
 
 
