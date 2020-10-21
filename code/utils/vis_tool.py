@@ -14,9 +14,9 @@ from matplotlib import pyplot as plot
 VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
                             'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
 
-HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
-              'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
-              'race')
+# HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
+#               'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
+#               'race')
 
 def vis_image(img, ax=None):
     """Visualize a color image.
@@ -43,7 +43,7 @@ def vis_image(img, ax=None):
     return ax
 
 
-def vis_bbox(img, bbox, action, label=None, score=None, ax=None):
+def vis_bbox(img, bbox, label=None, score=None, ax=None,action= None):
     """Visualize bounding boxes inside image.
 
     Args:
@@ -72,7 +72,6 @@ def vis_bbox(img, bbox, action, label=None, score=None, ax=None):
     """
 
     label_names = list(VOC_BBOX_LABEL_NAMES) + ['bg']
-    action_names = list(HICO_ACTIONS)
     # add for index `-1`
     if label is not None and not len(bbox) == len(label):
         print(len(bbox), len(label))
@@ -106,10 +105,6 @@ def vis_bbox(img, bbox, action, label=None, score=None, ax=None):
             caption.append('{:.2f}'.format(sc))
 
         if len(caption) > 0:
-            if action is not None:
-                ac = action[i]
-                caption.append(action_names[ac])
-                action = None
             ax.text(bb[1], bb[0],
                     ': '.join(caption),
                     style='italic',

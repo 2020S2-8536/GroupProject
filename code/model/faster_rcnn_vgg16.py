@@ -7,7 +7,7 @@ from model.faster_rcnn import FasterRCNN
 from model.roi_module import RoIPooling2D
 from utils import array_tool as at
 from utils.config import opt
-
+from model.human_centric import targetPredict
 
 def decom_vgg16():
     # the 30th layer of features is relu of conv5_3
@@ -76,6 +76,10 @@ class FasterRCNNVGG16(FasterRCNN):
             classifier=classifier
         )
 
+        branch2 = targetPredict(
+
+        )
+
         super(FasterRCNNVGG16, self).__init__(
             extractor,
             rpn,
@@ -133,7 +137,6 @@ class VGG16RoIHead(nn.Module):
         """
         # in case roi_indices is  ndarray
         roi_indices = at.totensor(roi_indices).float()
-        print(roi_indices.shape, rois.shape)
         rois = at.totensor(rois).float()
         indices_and_rois = t.cat([roi_indices[:, None], rois], dim=1)
         # NOTE: important: yx->xy

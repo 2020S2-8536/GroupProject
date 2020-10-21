@@ -22,11 +22,6 @@ from utils.eval_tool import eval_detection_voc
 
 # rlimit = resource.getrlimit(resource.RLIMIT_NOFILE)
 # resource.setrlimit(resource.RLIMIT_NOFILE, (20480, rlimit[1]))
-import resource
-
-rlimit = resource.getrlimit(resource.RLIMIT_NOFILE)
-resource.setrlimit(resource.RLIMIT_NOFILE, (20480, rlimit[1]))
-
 matplotlib.use('agg')
 
 
@@ -82,8 +77,8 @@ def train(**kwargs):
         for ii, (img, bbox_, label_, scale, human_box, object_box, action) in tqdm(enumerate(dataloader)):
             scale = at.scalar(scale)
             img, bbox, label = img.cuda().float(), bbox_.cuda(), label_.cuda()
-            human_box, object_box, action = human_box.cuda(), object_box.cuda(), action.cuda()
-            trainer.train_step(img, bbox, label, scale)
+            gt_human_box, gt_object_box, gt_action = human_box.cuda(), object_box.cuda(), action.cuda()
+            trainer.train_step(img, bbox, label, scale, gt_human_box, gt_object_box, gt_action)
 
             if (ii + 1) % opt.plot_every == 0:
                 if os.path.exists(opt.debug_file):
@@ -96,7 +91,6 @@ def train(**kwargs):
                 ori_img_ = inverse_normalize(at.tonumpy(img[0]))
                 gt_img = visdom_bbox(ori_img_,
                                      at.tonumpy(bbox_[0]),
-                                     at.tonumpy(action[0]),
                                      at.tonumpy(label_[0])
                                      )
                 trainer.vis.img('gt_img', gt_img)

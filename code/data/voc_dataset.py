@@ -70,7 +70,7 @@ class HICODataset:
         #             'for 2012 dataset. For 2007 dataset, you can pick \'test\''
         #             ' in addition to the above mentioned splits.'
         #         )
-        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')[:10]
+        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')
         self.data_dir = data_dir
         self.split = split
         self.label_names = VOC_BBOX_LABEL_NAMES
@@ -103,28 +103,15 @@ class HICODataset:
         id_ = self.ids[i]
         # data_dir: /home/dzc/Desktop/ANU/8526Project/GroupProject/code/HICO/images
         anno = self.data_dir + 'annotation/'+ self.split + '/'+ str(id_) + '.txt'
+
         object = list()
         bbox = list()
         human_box = list()
         object_box = list()
         action = list()
-        # for obj in anno.findall('object'):
-        #     # when in not using difficult split, and the object is
-        #     # difficult, skipt it.
-        #     if not self.use_difficult and int(obj.find('difficult').text) == 1:
-        #         continue
-        #
-        #     bndbox_anno = obj.find('bndbox')
-        #     # subtract 1 to make pixel indexes 0-based
-        #     bbox.append([
-        #         int(bndbox_anno.find(tag).text) - 1
-        #         for tag in ('ymin', 'xmin', 'ymax', 'xmax')])
-        #     name = obj.find('name').text.lower().strip()
-        #     label.append(VOC_BBOX_LABEL_NAMES.index(name))
         f = open(anno, "r")
         line = f.readline()
         img_file = line[:-1]
-
         line = f.readline()
         # width, height, channel = [i for i in line[:-1].split()]
 

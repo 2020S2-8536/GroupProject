@@ -62,7 +62,7 @@ class FasterRCNNTrainer(nn.Module):
         self.roi_cm = ConfusionMeter(21)
         self.meters = {k: AverageValueMeter() for k in LossTuple._fields}  # average loss
 
-    def forward(self, imgs, bboxes, labels, scale):
+    def forward(self, imgs, bboxes, labels, scale, gt_human_box, gt_object_box, gt_action):
         """Forward Faster R-CNN and calculate losses.
 
         Here are notations used.
@@ -105,7 +105,7 @@ class FasterRCNNTrainer(nn.Module):
         rpn_score = rpn_scores[0]
         rpn_loc = rpn_locs[0]
         roi = rois
-
+        gt_human_box, gt_object_box, gt_action = gt_human_box[0], gt_object_box[0], gt_action[0]
         # Sample RoIs and forward
         # it's fine to break the computation graph of rois, 
         # consider them as constant input
@@ -122,6 +122,8 @@ class FasterRCNNTrainer(nn.Module):
             features,
             sample_roi,
             sample_roi_index)
+
+        self.faster_rcnn.branch2(features, roi_score, roi_cls_loc, rois, scale)
         # ------------------ RPN losses -------------------#
         gt_rpn_loc, gt_rpn_label = self.anchor_target_creator(
             at.tonumpy(bbox),
@@ -134,7 +136,6 @@ class FasterRCNNTrainer(nn.Module):
             gt_rpn_loc,
             gt_rpn_label.data,
             self.rpn_sigma)
-
         # NOTE: default value of ignore_index is -100 ...
         rpn_cls_loss = F.cross_entropy(rpn_score, gt_rpn_label.cuda(), ignore_index=-1)
         _gt_rpn_label = gt_rpn_label[gt_rpn_label > -1]
@@ -148,7 +149,6 @@ class FasterRCNNTrainer(nn.Module):
         # 128 21 4
         roi_loc = roi_cls_loc[t.arange(0, n_sample).long().cuda(), at.totensor(gt_roi_label).long()]
         # 128 4
-        print(roi_loc.shape)
         gt_roi_label = at.totensor(gt_roi_label).long()
         gt_roi_loc = at.totensor(gt_roi_loc)
         roi_loc_loss = _fast_rcnn_loc_loss(

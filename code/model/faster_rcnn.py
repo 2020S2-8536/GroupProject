@@ -68,7 +68,7 @@ class FasterRCNN(nn.Module):
 
     """
 
-    def __init__(self, extractor, rpn, head,
+    def __init__(self, extractor, rpn, head, branch2,
                 loc_normalize_mean = (0., 0., 0., 0.),
                 loc_normalize_std = (0.1, 0.1, 0.2, 0.2)
     ):
@@ -76,7 +76,7 @@ class FasterRCNN(nn.Module):
         self.extractor = extractor
         self.rpn = rpn
         self.head = head
-        self.branch2 = None
+        self.branch2 = branch2
         # mean and std
         self.loc_normalize_mean = loc_normalize_mean
         self.loc_normalize_std = loc_normalize_std
@@ -129,6 +129,8 @@ class FasterRCNN(nn.Module):
         h = self.extractor(x)
         rpn_locs, rpn_scores, rois, roi_indices, anchor = \
             self.rpn(h, img_size, scale)
+        # FasterRCNNVGG16 Head, 在这里调用forward函数，在train里初始化FasterRcnnVGG16（FasterRcnn）
+
         roi_cls_locs, roi_scores = self.head(
             h, rois, roi_indices)
         # Add branch 2 here
