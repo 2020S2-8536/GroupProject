@@ -70,7 +70,7 @@ class HICODataset:
         #             'for 2012 dataset. For 2007 dataset, you can pick \'test\''
         #             ' in addition to the above mentioned splits.'
         #         )
-        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')[:10]
+        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')
         self.data_dir = data_dir
         self.split = split
         self.label_names = VOC_BBOX_LABEL_NAMES
