@@ -2,7 +2,7 @@ from __future__ import  absolute_import
 # though cupy is not used but without this line, it raise errors...
 import cupy as cp
 import os
-
+import numpy as np
 import ipdb
 import matplotlib
 from tqdm import tqdm
@@ -30,15 +30,18 @@ def eval(dataloader, faster_rcnn, test_num=10000):
     gt_bboxes, gt_labels= list(), list()
     for ii, (imgs, sizes, gt_bboxes_, gt_labels_, human_box, object_box, action) in tqdm(enumerate(dataloader)):
         sizes = [sizes[0][0].item(), sizes[1][0].item()]
-        pred_bboxes_, pred_labels_, pred_scores_= faster_rcnn.predict(imgs, [sizes])
+        object_box, human_box, scores, action, labels = faster_rcnn.predict(imgs, [sizes])
         gt_bboxes += list(gt_bboxes_.numpy())
         gt_labels += list(gt_labels_.numpy())
         # gt_difficults += list(gt_difficults_.numpy())
-        pred_bboxes += pred_bboxes_
-        pred_labels += pred_labels_
-        pred_scores += pred_scores_
-        if ii == test_num: break
+        pred_bboxes.append(object_box)
+        pred_labels.append(labels)
+        pred_scores.append(scores)
 
+        if ii == test_num: break
+    pred_bboxes = np.array(pred_bboxes)
+    pred_labels = np.array(pred_labels)
+    pred_scores = np.array(pred_scores)
     result = eval_detection_voc(
         pred_bboxes, pred_labels, pred_scores,
         gt_bboxes, gt_labels,
@@ -96,11 +99,12 @@ def train(**kwargs):
                 trainer.vis.img('gt_img', gt_img)
 
                 # plot predicti bboxes
-                _bboxes, _labels, _scores = trainer.faster_rcnn.predict([ori_img_], visualize=True)
+                object_box, human_box, scores, action, labels = trainer.faster_rcnn.predict([ori_img_], visualize=True)
+                # print(object_box,labels)
                 pred_img = visdom_bbox(ori_img_,
-                                       at.tonumpy(_bboxes[0]),
-                                       at.tonumpy(_labels[0]).reshape(-1),
-                                       at.tonumpy(_scores[0]))
+                                       np.array(object_box),
+                                       np.array(labels),
+                                       np.array(scores))
                 trainer.vis.img('pred_img', pred_img)
 
                 # rpn confusion matrix(meter)

@@ -157,10 +157,12 @@ def calc_detection_voc_prec_rec(
         gt_difficult = None
         if gt_difficult is None:
             gt_difficult = np.zeros(gt_bbox.shape[0], dtype=bool)
-
+        # print(pred_label.shape, gt_label.shape, pred_label, gt_label)
         for l in np.unique(np.concatenate((pred_label, gt_label)).astype(int)):
             pred_mask_l = pred_label == l
+            # print(pred_mask_l, pred_bbox)
             pred_bbox_l = pred_bbox[pred_mask_l]
+
             pred_score_l = pred_score[pred_mask_l]
             # sort by score
             order = pred_score_l.argsort()[::-1]

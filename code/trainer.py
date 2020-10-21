@@ -4,20 +4,23 @@ from collections import namedtuple
 import time
 from torch.nn import functional as F
 from model.utils.creator_tool import AnchorTargetCreator, ProposalTargetCreator
-
 from torch import nn
 import torch as t
 from utils import array_tool as at
 from utils.vis_tool import Visualizer
-
 from utils.config import opt
 from torchnet.meter import ConfusionMeter, AverageValueMeter
+
+import warnings
+warnings.filterwarnings("ignore")
 
 LossTuple = namedtuple('LossTuple',
                        ['rpn_loc_loss',
                         'rpn_cls_loss',
                         'roi_loc_loss',
                         'roi_cls_loss',
+                        'act_cls_loss',
+                        'obj_loss',
                         'total_loss'
                         ])
 
@@ -123,7 +126,18 @@ class FasterRCNNTrainer(nn.Module):
             sample_roi,
             sample_roi_index)
 
-        # action = self.faster_rcnn.branch2(features, roi_score, roi_cls_loc, rois, scale)
+        # pred object, pred action score
+        _, _, _,_,\
+         pred_object_loc, action_scores, b_oh = self.faster_rcnn.branch2(
+            features,
+            roi_score,
+            roi_cls_loc,
+            sample_roi,
+            scale,
+            gt_human_box = gt_human_box,
+            gt_object_box = gt_object_box,
+            mode = 'train')
+
         # ------------------ RPN losses -------------------#
         gt_rpn_loc, gt_rpn_label = self.anchor_target_creator(
             at.tonumpy(bbox),
@@ -156,12 +170,20 @@ class FasterRCNNTrainer(nn.Module):
             gt_roi_loc,
             gt_roi_label.data,
             self.roi_sigma)
-
         roi_cls_loss = nn.CrossEntropyLoss()(roi_score, gt_roi_label.cuda())
+
+        # ------------------ Human Centric losses (fast rcnn loss) -------------------#
+        ## action loss
+        gt_action = t.tensor(gt_action, dtype=t.long).cuda()
+        action_loss = nn.CrossEntropyLoss()(action_scores, gt_action)
+
+        ## object location loss
+        pred_object_loc, b_oh = pred_object_loc.cuda(),b_oh.cuda()
+        object_loss = nn.SmoothL1Loss()(pred_object_loc, b_oh.unsqueeze(0))
 
         self.roi_cm.add(at.totensor(roi_score, False), gt_roi_label.data.long())
 
-        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss]
+        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss, action_loss, object_loss]
         losses = losses + [sum(losses)]
 
         return LossTuple(*losses)

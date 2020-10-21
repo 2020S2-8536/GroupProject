@@ -1,4 +1,7 @@
-import numpy as np 
+import numpy as np
+import torch
+
+
 def b_oh(b_o,b_h):
     '''
     b_o is the coordinate information of object
@@ -13,9 +16,9 @@ def b_oh(b_o,b_h):
     c = np.log(b_o[2]/b_h[2])
     d = np.log(b_o[3]/b_h[3])
 
-    return np.array([a,b,c,d])
+    return torch.from_numpy(np.array([a,b,c,d]))
 
-def Gaussian_fuc(b_oh,mu_ah,sigma):
+def Gaussian_fuc(b_oh,mu_ah,sigma=0.3):
     '''
     mu_ah is the predicts from the human_centric branch,
     which means the 4_d mean location of the target given the b_h and action

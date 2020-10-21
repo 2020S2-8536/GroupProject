@@ -12,6 +12,12 @@ from data.dataset import preprocess
 from torch.nn import functional as F
 from utils.config import opt
 
+HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
+              'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
+              'race')
+
+VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
+                            'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
 
 def nograd(f):
     def new_f(*args,**kwargs):
@@ -136,8 +142,10 @@ class FasterRCNN(nn.Module):
         # Add branch 2 here
         # pred_action, pred_object_bbox, pred_object_name = self.branch2()
         #
-        pred_object_loc_off, action_scores = self.branch2(x, roi_scores, roi_cls_locs, rois, scale)
-        return pred_object_loc_off, action_scores
+        pred_human_box_coor, pred_obj_box_coor, pred_object_labels, \
+        pred_object_score, action_scores = self.branch2(h, roi_scores, roi_cls_locs, rois, scale, mode='test')
+
+        return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores
 
     def use_preset(self, preset):
         """Use the given preset during prediction.
@@ -229,51 +237,31 @@ class FasterRCNN(nn.Module):
                 prepared_imgs.append(img)
                 sizes.append(size)
         else:
-             prepared_imgs = imgs 
-        bboxes = list()
+             prepared_imgs = imgs
+        human_box = list()
+        object_box = list()
         labels = list()
         scores = list()
+        action = list()
         for img, size in zip(prepared_imgs, sizes):
             img = at.totensor(img[None]).float()
             scale = img.shape[3] / size[1]
-            pred_object_loc_off, action_scores = self(img, scale=scale)
-            # We are assuming that batch size is 1.
-            # roi_score = roi_scores.data
-            # roi_cls_loc = roi_cls_loc.data
-            # roi = at.totensor(rois) / scale
-            #
-            # # Convert predictions to bounding boxes in image coordinates.
-            # # Bounding boxes are scaled to the scale of the input images.
-            # mean = t.Tensor(self.loc_normalize_mean).cuda(). \
-            #     repeat(self.n_class)[None]
-            # std = t.Tensor(self.loc_normalize_std).cuda(). \
-            #     repeat(self.n_class)[None]
-            #
-            # roi_cls_loc = (roi_cls_loc * std + mean)
-            # roi_cls_loc = roi_cls_loc.view(-1, self.n_class, 4)
-            # roi = roi.view(-1, 1, 4).expand_as(roi_cls_loc)
-            cls_bbox = loc2bbox(at.tonumpy(roi).reshape((-1, 4)),
-                                at.tonumpy(roi_cls_loc).reshape((-1, 4)))
-            # cls_bbox = at.totensor(cls_bbox)
-            # cls_bbox = cls_bbox.view(-1, self.n_class * 4)
-            # # clip bounding box
-            # cls_bbox[:, 0::2] = (cls_bbox[:, 0::2]).clamp(min=0, max=size[0])
-            # cls_bbox[:, 1::2] = (cls_bbox[:, 1::2]).clamp(min=0, max=size[1])
-            #
-            # prob = at.tonumpy(F.softmax(at.totensor(roi_score), dim=1))
-            #
-            # raw_cls_bbox = at.tonumpy(cls_bbox)
-            # raw_prob = at.tonumpy(prob)
-            #
-            # bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
+            pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores = self(img, scale=scale)
+            action_res = F.softmax(action_scores)
+            action_idx = action_res.argmax()
 
-            bboxes.append(bbox)
-            labels.append(label)
-            scores.append(score)
+            # action_str = list(HICO_ACTIONS)[action_idx]
+            # label_str = list(VOC_BBOX_LABEL_NAMES)[pred_object_labels]
+
+            object_box.append(pred_obj_box_coor)
+            human_box.append(pred_human_box_coor)
+            scores.append(pred_object_score)
+            action.append(action_idx)
+            labels.append(pred_object_labels)
 
         self.use_preset('evaluate')
         self.train()
-        return bboxes, labels, scores
+        return object_box, human_box, scores, action, labels
 
     def get_optimizer(self):
         """

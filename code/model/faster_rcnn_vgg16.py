@@ -77,13 +77,14 @@ class FasterRCNNVGG16(FasterRCNN):
         )
 
         branch2 = targetPredict(
-
+            classifier=classifier
         )
 
         super(FasterRCNNVGG16, self).__init__(
             extractor,
             rpn,
             head,
+            branch2
         )
 
 
@@ -136,8 +137,10 @@ class VGG16RoIHead(nn.Module):
 
         """
         # in case roi_indices is  ndarray
+        # print(roi_indices.shape)
         roi_indices = at.totensor(roi_indices).float()
         rois = at.totensor(rois).float()
+        # print(rois.shape)
         indices_and_rois = t.cat([roi_indices[:, None], rois], dim=1)
         # NOTE: important: yx->xy
         xy_indices_and_rois = indices_and_rois[:, [0, 2, 1, 4, 3]]
