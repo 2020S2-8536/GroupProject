@@ -123,7 +123,7 @@ class FasterRCNNTrainer(nn.Module):
             sample_roi,
             sample_roi_index)
 
-        self.faster_rcnn.branch2(features, roi_score, roi_cls_loc, rois, scale)
+        # action = self.faster_rcnn.branch2(features, roi_score, roi_cls_loc, rois, scale)
         # ------------------ RPN losses -------------------#
         gt_rpn_loc, gt_rpn_label = self.anchor_target_creator(
             at.tonumpy(bbox),
@@ -166,9 +166,9 @@ class FasterRCNNTrainer(nn.Module):
 
         return LossTuple(*losses)
 
-    def train_step(self, imgs, bboxes, labels, scale):
+    def train_step(self, imgs, bboxes, labels, scale, gt_human_box, gt_object_box, gt_action):
         self.optimizer.zero_grad()
-        losses = self.forward(imgs, bboxes, labels, scale)
+        losses = self.forward(imgs, bboxes, labels, scale, gt_human_box, gt_object_box, gt_action)
         losses.total_loss.backward()
         self.optimizer.step()
         self.update_meters(losses)

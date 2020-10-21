@@ -3,12 +3,13 @@ import torchvision
 import torch.nn as nn
 import numpy as np
 from model.config import config
-from model.target_predicts import target_pre
+from torch.nn import functional as F
 from PIL import Image
 from model.faster_rcnn_vgg16 import decom_vgg16
 from utils import array_tool as at
 from model.roi_module import RoIPooling2D
 import model.method as method
+from model.utils.bbox_tools import loc2bbox
 
 VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
                             'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
@@ -18,10 +19,12 @@ HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive
               'race')
 
 class targetPredict(nn.modules):
-    def __init__(self):
+    def __init__(self, loc_normalize_mean = (0., 0., 0., 0.),
+                loc_normalize_std = (0.1, 0.1, 0.2, 0.2)):
         self.object_classes = len(list(VOC_BBOX_LABEL_NAMES))
         self.action_classes = len(list(HICO_ACTIONS))
-
+        self.loc_normalize_mean = loc_normalize_mean
+        self.loc_normalize_std = loc_normalize_std
         # self.pred_label = pred_label # pred
         # self.pred_b_box = pred_b_box # pred
 
@@ -38,21 +41,21 @@ class targetPredict(nn.modules):
         self.action_score = nn.Linear(4096, self.action_classes)
 
     def forward(self,x, pred_scores, pred_off, rois, scale):
-
         bboxes = list()
         labels = list()
         scores = list()
 
+        size = x.shape[1:]
         roi_score = pred_scores.data
         roi_cls_loc = pred_off.data
         roi = at.totensor(rois) / scale
 
         # Convert predictions to bounding boxes in image coordinates.
         # Bounding boxes are scaled to the scale of the input images.
-        mean = t.Tensor(self.loc_normalize_mean).cuda(). \
-            repeat(self.n_class)[None]
-        std = t.Tensor(self.loc_normalize_std).cuda(). \
-            repeat(self.n_class)[None]
+        mean = torch.Tensor(self.loc_normalize_mean).cuda(). \
+            repeat(self.action_classes)[None]
+        std = torch.Tensor(self.loc_normalize_std).cuda(). \
+            repeat(self.action_classes)[None]
 
         roi_cls_loc = (roi_cls_loc * std + mean)
         roi_cls_loc = roi_cls_loc.view(-1, self.n_class, 4)
@@ -69,13 +72,10 @@ class targetPredict(nn.modules):
 
         raw_cls_bbox = at.tonumpy(cls_bbox)
         raw_prob = at.tonumpy(prob)
+        bbox, label, _ = self._suppress(raw_cls_bbox, raw_prob)
 
-        bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
-        bboxes.append(bbox)
-        labels.append(label)
-        scores.append(score)
 
-        pred_human_box = self.get_pred_human_box(pred_b_box, pred_label)
+        pred_human_box = self.get_pred_human_box(bbox, label)
         roi_indices = torch.array([0.0])
         rois = at.totensor(pred_human_box).float()
         indices_and_rois = torch.cat([roi_indices[:, None], rois], dim=1)
@@ -88,6 +88,8 @@ class targetPredict(nn.modules):
         fc7 = self.classifier(pool)
         pred_object_loc_off = self.obj_loc(fc7)
         action_scores = self.action_score(fc7)
+
+        # pred_object
 
         return pred_object_loc_off, action_scores
 
