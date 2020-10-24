@@ -133,7 +133,7 @@ class FasterRCNNTrainer(nn.Module):
             roi_score,
             roi_cls_loc,
             sample_roi,
-            scale,
+            img_size,
             gt_human_box = gt_human_box,
             gt_object_box = gt_object_box,
             mode = 'train')

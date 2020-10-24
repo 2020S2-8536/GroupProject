@@ -94,7 +94,7 @@ class targetPredict(nn.Module):
             y_o = (gt_object_box[0][2] - gt_object_box[0][0]) / 2
             w_o = gt_object_box[0][3] - gt_object_box[0][1]
             h_o = gt_object_box[0][2] - gt_object_box[0][0]
-            gt_object_boh = torch.tensor([x_h, y_h, w_h, h_h])
+            gt_object_boh = torch.tensor([x_o, y_o, w_o, h_o])
 
             b_oh = method.b_oh(gt_human_boh, gt_object_boh)
 
@@ -140,7 +140,7 @@ class targetPredict(nn.Module):
                 y_o = (bbox[0][2] - bbox[0][0]) / 2
                 w_o = bbox[0][3] - bbox[0][1]
                 h_o = bbox[0][2] - bbox[0][0]
-                gt_object_boh = torch.tensor([x_h, y_h, w_h, h_h])
+                gt_object_boh = torch.tensor([x_o, y_o, w_o, h_o])
                 b_oh = method.b_oh(human_boh, gt_object_boh)
 
                 Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
