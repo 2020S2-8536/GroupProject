@@ -83,20 +83,27 @@ class Transform(object):
         self.max_size = max_size
 
     def __call__(self, in_data):
-        img, bbox, label = in_data
+        img, bbox, label, human_box, object_box = in_data
         _, H, W = img.shape
         img = preprocess(img, self.min_size, self.max_size)
         _, o_H, o_W = img.shape
         scale = o_H / H
         bbox = util.resize_bbox(bbox, (H, W), (o_H, o_W))
+        human_box = util.resize_bbox(human_box, (H, W), (o_H, o_W))
+        object_box = util.resize_bbox(object_box, (H, W), (o_H, o_W))
+
 
         # horizontally flip
         img, params = util.random_flip(
             img, x_random=True, return_param=True)
         bbox = util.flip_bbox(
             bbox, (o_H, o_W), x_flip=params['x_flip'])
+        human_box = util.flip_bbox(
+            human_box, (o_H, o_W), x_flip=params['x_flip'])
+        object_box = util.flip_bbox(
+            object_box, (o_H, o_W), x_flip=params['x_flip'])
 
-        return img, bbox, label, scale
+        return img, bbox, label, scale, human_box, object_box
 
 # Update dataset to match HICO dataset
 
@@ -109,7 +116,7 @@ class Dataset:
     def __getitem__(self, idx):
         ori_img, bbox, label, human_box, object_box, action = self.db.get_example(idx)
 
-        img, bbox, label, scale = self.tsf((ori_img, bbox, label))
+        img, bbox, label, scale, human_box, object_box = self.tsf((ori_img, bbox, label, human_box, object_box))
         # TODO: check whose stride is negative to fix this instead copy all
         # some of the strides of a given numpy array are negative.
         return img.copy(), bbox.copy(), label.copy(), scale, human_box.copy(), object_box.copy(), action.copy()

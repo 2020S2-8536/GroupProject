@@ -112,6 +112,7 @@ class HICODataset:
         f = open(anno, "r")
         line = f.readline()
         img_file = line[:-1]
+
         line = f.readline()
         # width, height, channel = [i for i in line[:-1].split()]
 

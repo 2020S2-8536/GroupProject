@@ -128,12 +128,13 @@ class FasterRCNNTrainer(nn.Module):
 
         # pred object, pred action score
         _, _, _,_,\
-         pred_object_loc, action_scores, b_oh = self.faster_rcnn.branch2(
+         pred_object_loc, action_scores, b_oh, _ = self.faster_rcnn.branch2(
             features,
             roi_score,
             roi_cls_loc,
             sample_roi,
             img_size,
+
             gt_human_box = gt_human_box,
             gt_object_box = gt_object_box,
             mode = 'train')
@@ -179,7 +180,9 @@ class FasterRCNNTrainer(nn.Module):
 
         ## object location loss
         pred_object_loc, b_oh = pred_object_loc.cuda(),b_oh.cuda()
-        object_loss = nn.SmoothL1Loss()(pred_object_loc, b_oh.unsqueeze(0))
+        gt_object_box = gt_object_box.cuda()
+        # print("pred, gt: ", pred_object_loc, gt_object_box)
+        object_loss = nn.SmoothL1Loss()(pred_object_loc, gt_object_box)
 
         self.roi_cm.add(at.totensor(roi_score, False), gt_roi_label.data.long())
 

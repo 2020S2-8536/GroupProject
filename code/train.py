@@ -100,11 +100,12 @@ def train(**kwargs):
 
                 # plot predicti bboxes
                 object_box, human_box, scores, action, labels = trainer.faster_rcnn.predict([ori_img_], visualize=True)
+                # print(len(labels), len(object_box))
                 # print(object_box,labels)
                 pred_img = visdom_bbox(ori_img_,
-                                       np.array(object_box),
-                                       np.array(labels),
-                                       np.array(scores))
+                                       np.array(object_box[0]),
+                                       np.array(labels[0]),
+                                       np.array(scores[0]))
                 trainer.vis.img('pred_img', pred_img)
 
                 # rpn confusion matrix(meter)

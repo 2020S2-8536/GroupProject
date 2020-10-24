@@ -143,9 +143,9 @@ class FasterRCNN(nn.Module):
         # pred_action, pred_object_bbox, pred_object_name = self.branch2()
         #
         pred_human_box_coor, pred_obj_box_coor, pred_object_labels, \
-        pred_object_score, action_scores = self.branch2(h, roi_scores, roi_cls_locs, rois, scale, mode='test')
+        pred_object_score, action_scores, my_scale = self.branch2(h, roi_scores, roi_cls_locs, rois, img_size, mode='test')
 
-        return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores
+        return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale
 
     def use_preset(self, preset):
         """Use the given preset during prediction.
@@ -245,11 +245,20 @@ class FasterRCNN(nn.Module):
         action = list()
         for img, size in zip(prepared_imgs, sizes):
             img = at.totensor(img[None]).float()
-            scale = img.shape[3] / size[1]
-            pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores = self(img, scale=scale)
+            scale = img.shape[2] / size[1]
+            # if type((img[1], img[2])) == float:
+            #     from matplotlib import pyplot as plt
+            #     print("All Zeros?:", imgs.all() == 0)
+            #     plt.plot(imgs[0])
+            #     plt.show()
+            pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale = self(img, scale=scale)
             action_res = F.softmax(action_scores)
             action_idx = action_res.argmax()
-
+            print(scale, my_scale)
+            print("before", pred_obj_box_coor)
+            pred_human_box_coor = pred_human_box_coor / scale
+            pred_obj_box_coor = [pred_obj_box_coor[0] / scale]
+            print("after",pred_obj_box_coor)
             # action_str = list(HICO_ACTIONS)[action_idx]
             # label_str = list(VOC_BBOX_LABEL_NAMES)[pred_object_labels]
 

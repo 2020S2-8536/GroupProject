@@ -27,7 +27,7 @@ class Config:
     # visualization
     env = 'faster-rcnn'  # visdom env
     port = 8097
-    plot_every = 50  # vis every N iter
+    plot_every = 100  # vis every N iter
 
     # preset
     data = 'voc'
@@ -37,9 +37,9 @@ class Config:
     epoch = 14
 
 
-    use_adam = False # Use Adam optimizer
+    use_adam = True # Use Adam optimizer
     use_chainer = False # try match everything as chainer
-    use_drop = False # use dropout in RoIHead
+    use_drop = True # use dropout in RoIHead
     # debug
     debug_file = '/tmp/debugf'
 

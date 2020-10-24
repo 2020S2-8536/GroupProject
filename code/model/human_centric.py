@@ -33,13 +33,22 @@ class targetPredict(nn.Module):
         self.action_score = nn.Linear(4096, self.action_classes)
 
 
-    def forward(self,x, pred_scores, pred_off, rois, scale, gt_human_box = None, gt_object_box = None, mode = 'train'):
+    def forward(self,x, pred_scores, pred_off, rois, imgshape, gt_human_box = None, gt_object_box = None, mode = 'train'):
         self.mode = mode
         size = x.shape[2:]
         roi_score = pred_scores.data
         roi_cls_loc = pred_off.data
-        roi = at.totensor(rois) / scale
+        # roi大小是在处理过的统一大小的img -》
+        # if type(imgshape) == float:
+        #     print(x, x.shape)
 
+        # print("size: ", size)
+        # print("image: ", imgshape)
+        my_scale = size[0] / imgshape[0]
+        roi = at.totensor(rois) * my_scale
+        # print("size: ", size)
+        # roi = at.totensor(rois)
+        # print("roi: ", rois[0])
         # Convert predictions to bounding boxes in image coordinates.
         # Bounding boxes are scaled to the scale of the input images.
         mean = torch.Tensor(self.loc_normalize_mean).cuda(). \
@@ -57,19 +66,28 @@ class targetPredict(nn.Module):
         cls_bbox = cls_bbox.view(-1, self.object_classes * 4)
         # clip bounding box
         # print(size[0], size[1])
+        # print(cls_bbox)
+        # print("reshape", cls_bbox[1].reshape(shape=(21, 4))[0])
         cls_bbox[:, 0::2] = (cls_bbox[:, 0::2]).clamp(min=0, max=size[0])
-        cls_bbox[:, 1::3] = (cls_bbox[:, 1::3]).clamp(min=0, max=size[1])
+        cls_bbox[:, 1::2] = (cls_bbox[:, 1::2]).clamp(min=0, max=size[1])
+        # print(cls_bbox)
+
 
         prob = at.tonumpy(F.softmax(at.totensor(roi_score), dim=1))
 
         raw_cls_bbox = at.tonumpy(cls_bbox)
         raw_prob = at.tonumpy(prob)
+
         bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
 
-        pred_human_box_coor, pred_human_score = self.get_pred_human_box(bbox, label, score) # human coordinates
+        # print(bbox[156: 200])
+
+        pred_human_box_coor, pred_human_score, human_indexs = self.get_pred_human_box(bbox, label, score) # human coordinates
         roi_indices = torch.tensor([0]).cuda().float()
         roiss = at.totensor(pred_human_box_coor).cuda().float()
+        # print("roiss.shape, roi_indices.shape ", roiss.shape, roi_indices.shape)
         indices_and_rois = torch.cat([roi_indices[:, None], roiss], dim=1)
+
         # NOTE: important: yx->xy xmin, ymin, xmax, ymax
         xy_indices_and_rois = indices_and_rois[:, [0, 2, 1, 4, 3]]
         indices_and_rois =  xy_indices_and_rois.contiguous()
@@ -79,6 +97,7 @@ class targetPredict(nn.Module):
         fc7 = self.classifier(pool)
         pred_object_loc = self.obj_loc(fc7)
         action_scores = self.action_score(fc7)
+        # print("pred_object_loc.shape: ", pred_object_loc.shape)
 
         if self.mode == 'train':
             # b_oh
@@ -110,9 +129,9 @@ class targetPredict(nn.Module):
             # argmax
             # print(bbox)
 
-            pred_obj_box_coor, pred_object_labels, pred_object_score = self.get_pred_object(Gau, bbox, label, score, pred_human_score)
+            pred_obj_box_coor, pred_object_labels, pred_object_score = self.get_pred_object(Gau, bbox, label, score, pred_human_score, human_indexs)
             # pred_object location coordinates, action score
-            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh
+            return pred_human_box_coor / my_scale, pred_obj_box_coor[0] / my_scale, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh, my_scale
 
         elif self.mode == 'test':
             # 对每一个object都要求一个gaussian，需要pred_human box, pred_object box
@@ -135,24 +154,27 @@ class targetPredict(nn.Module):
             max_gau = 0
 
             for i in range(len(bbox)):
+                if i not in human_indexs:
                 # gt_object: ymin xmin ymax xmax
-                x_o = (bbox[i][3] - bbox[0][1]) / 2
-                y_o = (bbox[0][2] - bbox[0][0]) / 2
-                w_o = bbox[0][3] - bbox[0][1]
-                h_o = bbox[0][2] - bbox[0][0]
-                gt_object_boh = torch.tensor([x_o, y_o, w_o, h_o])
-                b_oh = method.b_oh(human_boh, gt_object_boh)
+                    x_o = (bbox[i][3] - bbox[i][1]) / 2
+                    y_o = (bbox[i][2] - bbox[i][0]) / 2
+                    w_o = bbox[i][3] - bbox[i][1]
+                    h_o = bbox[i][2] - bbox[i][0]
+                    gt_object_boh = torch.tensor([x_o, y_o, w_o, h_o])
+                    b_oh = method.b_oh(human_boh, gt_object_boh)
 
-                Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
-                if Gau > max_gau:
-                    max_gau = Gau
-                    best_ids = i
+                    Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
+                    if Gau > max_gau:
+                        max_gau = Gau
+                        best_ids = i
+            print("1", bbox[best_ids])
+            # pred_obj_box_coor = utils
+            print("2", pred_obj_box_coor)
+            pred_object_labels = [label[best_ids]]
+            pred_object_score = [score[best_ids]]
 
-            pred_obj_box_coor = bbox[i]
-            pred_object_labels = label[i]
-            pred_object_score = score[i]
-
-            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores
+            # print(pred_object_labels, pred_obj_box_coor)
+            return pred_human_box_coor / my_scale, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale
     # def action_classsify(img):
     #     '''
     #     To classcify action
@@ -185,34 +207,40 @@ class targetPredict(nn.Module):
         human_box = torch.zeros(size=(1, 4))
         max = 0
         argmax_label = 0
+        human_labels = list()
         # ymin xmin ymax xmax
-        for label in pred_labels:
-            if VOC_BBOX_LABEL_NAMES[label] == 'human':
-                if abs((pred_bboxes[label][2] - pred_bboxes[label][0]) * (pred_bboxes[label][3] - pred_bboxes[label][1])) > max:
-                    max = abs((pred_bboxes[label][2] - pred_bboxes[label][0]) * (pred_bboxes[label][3] - pred_bboxes[label][1]))
-                    human_box = pred_bboxes[label]
-                    argmax_label = label
+        for i in range(pred_labels.shape[0]):
+            if VOC_BBOX_LABEL_NAMES[pred_labels[i]] == 'human':
+                human_labels.append(i)
+                if pred_scores[i] > max:
+                    max = pred_scores[i]
+                    human_box = pred_bboxes[i]
+                    argmax_label = i
+
         human_box = torch.tensor(human_box)
         human_box = torch.reshape(human_box, (1,4))
-        return human_box, pred_scores[argmax_label]
+        # print(human_box)
+        # print("human: ", human_box, VOC_BBOX_LABEL_NAMES[argmax_label], ctr)
+        return human_box, pred_scores[argmax_label], human_labels
 
-    def get_pred_object(self, gau, pred_bboxes, pred_labels, pred_obj_scores, pred_human_score):
+    def get_pred_object(self, gau, pred_bboxes, pred_labels, pred_obj_scores, pred_human_score, human_indexs):
         max_idx = 0
         max_score = 0
-        for i in range(len(pred_labels)):
-            if gau * pred_obj_scores[i] * pred_human_score > max_score:
+        for i in range(pred_labels.shape[0]):
+            if gau * pred_obj_scores[i] * pred_human_score > max_score and i not in human_indexs:
                 max_score = gau * pred_obj_scores[i] * pred_human_score
-                print(max_score)
                 max_idx = i
-        print(pred_bboxes[max_idx])
         return pred_bboxes[max_idx], pred_labels[max_idx], pred_obj_scores[max_idx]
 
     def _suppress(self, raw_cls_bbox, raw_prob):
         bbox = list()
         label = list()
         score = list()
+        ctr = 0
         # skip cls_id = 0 because it is the background class
         for l in range(1, self.object_classes):
+            # print("raw_cls_bbox.shape ", raw_cls_bbox.shape)
+            # cls_bbox_l: each class
             cls_bbox_l = raw_cls_bbox.reshape((-1, self.object_classes, 4))[:, l, :]
             prob_l = raw_prob[:, l]
             mask = prob_l > 0
@@ -221,6 +249,7 @@ class targetPredict(nn.Module):
             keep = non_maximum_suppression(
                 cp.array(cls_bbox_l), 0, prob_l)
             keep = cp.asnumpy(keep)
+            # print("keep ", keep.shape)
             bbox.append(cls_bbox_l[keep])
             # The labels are in [0, self.n_class - 2].
             label.append((l - 1) * np.ones((len(keep),)))
@@ -228,4 +257,6 @@ class targetPredict(nn.Module):
         bbox = np.concatenate(bbox, axis=0).astype(np.float32)
         label = np.concatenate(label, axis=0).astype(np.int32)
         score = np.concatenate(score, axis=0).astype(np.float32)
+        # print("bbox.shape ", bbox.shape, ctr)
+        # print("label", label.shape, bbox.shape)
         return bbox, label, score
