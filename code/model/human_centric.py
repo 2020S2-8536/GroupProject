@@ -47,11 +47,8 @@ class targetPredict(nn.Module):
         # print("image: ", imgshape)
         my_scale = size[0] / imgshape[0]
         roi = at.totensor(rois)
-        roi = resize_bbox(at.tonumpy(roi), imgshape, size)
         roi = torch.tensor(roi).cuda()
         # print("size: ", size)
-        # roi = at.totensor(rois)
-        # print("roi: ", rois[0])
         # Convert predictions to bounding boxes in image coordinates.
         # Bounding boxes are scaled to the scale of the input images.
         mean = torch.Tensor(self.loc_normalize_mean).cuda(). \
@@ -68,13 +65,9 @@ class targetPredict(nn.Module):
         cls_bbox = at.totensor(cls_bbox)
         cls_bbox = cls_bbox.view(-1, self.object_classes * 4)
         # clip bounding box
-        # print(size[0], size[1])
+        cls_bbox[:, 0::2] = (cls_bbox[:, 0::2]).clamp(min=0, max=imgshape[0])
+        cls_bbox[:, 1::2] = (cls_bbox[:, 1::2]).clamp(min=0, max=imgshape[1])
         # print(cls_bbox)
-        # print("reshape", cls_bbox[1].reshape(shape=(21, 4))[0])
-        cls_bbox[:, 0::2] = (cls_bbox[:, 0::2]).clamp(min=0, max=size[0])
-        cls_bbox[:, 1::2] = (cls_bbox[:, 1::2]).clamp(min=0, max=size[1])
-        # print(cls_bbox)
-
 
         prob = at.tonumpy(F.softmax(at.totensor(roi_score), dim=1))
 
@@ -82,8 +75,8 @@ class targetPredict(nn.Module):
         raw_prob = at.tonumpy(prob)
 
         bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
-        
-        # print(bbox[156: 200])
+        bbox = resize_bbox(bbox, imgshape, size)
+        print("bbox", bbox.shape,"label", label.shape, "score: ", score.shape)
 
         pred_human_box_coor, pred_human_score, human_indexs = self.get_pred_human_box(bbox, label, score) # human coordinates
         roi_indices = torch.tensor([0]).cuda().float()
@@ -136,12 +129,15 @@ class targetPredict(nn.Module):
             # pred_object location coordinates, action score
             pred_human_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
             pred_obj_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
+            pred_object_loc = resize_bbox(at.tonumpy(pred_object_loc), size, imgshape)
 
             pred_obj_box_coor = flip_bbox(pred_obj_box_coor, imgshape)
             pred_human_box_coor = flip_bbox(pred_human_box_coor, imgshape)
+            pred_object_loc = flip_bbox(pred_object_loc,imgshape)
 
             pred_obj_box_coor = torch.tensor(pred_obj_box_coor).cuda()
             pred_human_box_coor = torch.tensor(pred_human_box_coor).cuda()
+            pred_object_loc = torch.tensor(pred_object_loc).cuda()
 
             return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh, my_scale
 
@@ -224,6 +220,8 @@ class targetPredict(nn.Module):
         # get predicted human bbox according to pred labels
         # In case there is no human box
         human_box = torch.zeros(size=(1, 4))
+        if pred_scores.shape[0] == 0:
+            return human_box, 0, 0
         max = 0
         argmax_label = 0
         human_labels = list()
@@ -245,6 +243,8 @@ class targetPredict(nn.Module):
     def get_pred_object(self, gau, pred_bboxes, pred_labels, pred_obj_scores, pred_human_score, human_indexs):
         max_idx = 0
         max_score = 0
+        if pred_obj_scores.shape[0] == 0:
+            return torch.zeros(1,4), 0, 0
         for i in range(pred_labels.shape[0]):
             if gau * pred_obj_scores[i] * pred_human_score > max_score and i not in human_indexs:
                 max_score = gau * pred_obj_scores[i] * pred_human_score

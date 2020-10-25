@@ -23,6 +23,13 @@ LossTuple = namedtuple('LossTuple',
                         'obj_loss',
                         'total_loss'
                         ])
+# LossTuple = namedtuple('LossTuple',
+#                        ['rpn_loc_loss',
+#                         'rpn_cls_loss',
+#                         'roi_loc_loss',
+#                         'roi_cls_loss',
+#
+#                         ])
 
 
 class FasterRCNNTrainer(nn.Module):
@@ -128,13 +135,12 @@ class FasterRCNNTrainer(nn.Module):
 
         # pred object, pred action score
         _, _, _,_,\
-         pred_object_loc, action_scores, b_oh, _ = self.faster_rcnn.branch2(
+         pred_object_loc, action_scores, _, _ = self.faster_rcnn.branch2(
             features,
             roi_score,
             roi_cls_loc,
             sample_roi,
             img_size,
-
             gt_human_box = gt_human_box,
             gt_object_box = gt_object_box,
             mode = 'train')
@@ -180,14 +186,20 @@ class FasterRCNNTrainer(nn.Module):
         action_loss = nn.CrossEntropyLoss()(action_scores, gt_action)
         # print("action_scores, gt_action", action_scores, gt_action)
         ## object location loss
-        pred_object_loc, b_oh = pred_object_loc.cuda(),b_oh.cuda()
+        pred_object_loc = pred_object_loc.cuda()
         gt_object_box = gt_object_box.cuda()
         # print("pred, gt: ", pred_object_loc, gt_object_box)
+
+        # def standardization(data):
+        #     mu = t.mean()
+        #     sigma = t.std(data, axis=0)
+        #     return (data - mu) / sigma
+
         object_loss = nn.SmoothL1Loss()(pred_object_loc, gt_object_box)
 
         self.roi_cm.add(at.totensor(roi_score, False), gt_roi_label.data.long())
 
-        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss, action_loss, object_loss]
+        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss,(1/500000) *  action_loss,(1/1000000) * object_loss]
         losses = losses + [sum(losses)]
 
         return LossTuple(*losses)
