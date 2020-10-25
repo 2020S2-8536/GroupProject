@@ -43,7 +43,7 @@ def vis_image(img, ax=None):
     return ax
 
 
-def vis_bbox(img, bbox, action, label=None, score=None, ax=None):
+def vis_bbox(img, bbox, label=None, score=None, ax=None):
     """Visualize bounding boxes inside image.
 
     Args:
@@ -106,10 +106,6 @@ def vis_bbox(img, bbox, action, label=None, score=None, ax=None):
             caption.append('{:.2f}'.format(sc))
 
         if len(caption) > 0:
-            if action is not None:
-                ac = action[i]
-                caption.append(action_names[ac])
-                action = None
             ax.text(bb[1], bb[0],
                     ': '.join(caption),
                     style='italic',

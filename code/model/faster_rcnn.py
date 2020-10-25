@@ -222,7 +222,6 @@ class FasterRCNN(nn.Module):
             sizes = list()
             for img in imgs:
                 size = img.shape[1:]
-                print(img.shape)
                 img = preprocess(at.tonumpy(img))
                 prepared_imgs.append(img)
                 sizes.append(size)
@@ -235,7 +234,6 @@ class FasterRCNN(nn.Module):
             img = at.totensor(img[None]).float()
             scale = img.shape[3] / size[1]
             roi_cls_loc, roi_scores, rois, _ = self(img, scale=scale)
-            print(rois)
             # We are assuming that batch size is 1.
             roi_score = roi_scores.data
             roi_cls_loc = roi_cls_loc.data
@@ -256,7 +254,6 @@ class FasterRCNN(nn.Module):
             cls_bbox = at.totensor(cls_bbox)
             cls_bbox = cls_bbox.view(-1, self.n_class * 4)
             # clip bounding box
-            print()
             cls_bbox[:, 0::2] = (cls_bbox[:, 0::2]).clamp(min=0, max=size[0])
             cls_bbox[:, 1::2] = (cls_bbox[:, 1::2]).clamp(min=0, max=size[1])
 
@@ -265,7 +262,9 @@ class FasterRCNN(nn.Module):
             raw_cls_bbox = at.tonumpy(cls_bbox)
             raw_prob = at.tonumpy(prob)
 
+            print("raw_cls_bbox: ", raw_cls_bbox.shape)
             bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
+            print("score.shape: ", score.shape)
             bboxes.append(bbox)
             labels.append(label)
             scores.append(score)
