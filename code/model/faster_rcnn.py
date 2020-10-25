@@ -262,9 +262,8 @@ class FasterRCNN(nn.Module):
             raw_cls_bbox = at.tonumpy(cls_bbox)
             raw_prob = at.tonumpy(prob)
 
-            print("raw_cls_bbox: ", raw_cls_bbox.shape)
             bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
-            print("score.shape: ", score.shape)
+            print("bbox: ", bbox, "label: ", label, "score:", score)
             bboxes.append(bbox)
             labels.append(label)
             scores.append(score)
