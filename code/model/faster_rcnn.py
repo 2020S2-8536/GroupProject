@@ -5,6 +5,7 @@ import numpy as np
 import cupy as cp
 from utils import array_tool as at
 from model.utils.bbox_tools import loc2bbox
+from data.util import flip_bbox, resize_bbox
 from model.utils.nms import non_maximum_suppression
 
 from torch import nn
@@ -245,7 +246,7 @@ class FasterRCNN(nn.Module):
         action = list()
         for img, size in zip(prepared_imgs, sizes):
             img = at.totensor(img[None]).float()
-            scale = img.shape[2] / size[1]
+            scale = img.shape[2] / size[0]
             # if type((img[1], img[2])) == float:
             #     from matplotlib import pyplot as plt
             #     print("All Zeros?:", imgs.all() == 0)
@@ -254,11 +255,18 @@ class FasterRCNN(nn.Module):
             pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale = self(img, scale=scale)
             action_res = F.softmax(action_scores)
             action_idx = action_res.argmax()
-            print(scale, my_scale)
-            print("before", pred_obj_box_coor)
-            pred_human_box_coor = pred_human_box_coor / scale
-            pred_obj_box_coor = [pred_obj_box_coor[0] / scale]
-            print("after",pred_obj_box_coor)
+            # print(scale, my_scale)
+            # print("before", pred_obj_box_coor)
+
+            pred_human_box_coor = resize_bbox(pred_human_box_coor, (img.shape[2],img.shape[3]), (size[0], size[1]))
+            pred_obj_box_coor = resize_bbox(pred_obj_box_coor, (img.shape[2],img.shape[3]), (size[0], size[1]))
+
+            pred_human_box_coor = flip_bbox(pred_human_box_coor, (size[0], size[1]))
+            pred_obj_box_coor = flip_bbox( pred_obj_box_coor, (size[0], size[1]))
+
+            # pred_human_box_coor = pred_human_box_coor / scale
+            # pred_obj_box_coor = [pred_obj_box_coor[0] / scale]
+            # print("after",pred_obj_box_coor)
             # action_str = list(HICO_ACTIONS)[action_idx]
             # label_str = list(VOC_BBOX_LABEL_NAMES)[pred_object_labels]
 

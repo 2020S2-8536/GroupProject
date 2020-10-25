@@ -27,7 +27,7 @@ class Config:
     # visualization
     env = 'faster-rcnn'  # visdom env
     port = 8097
-    plot_every = 100  # vis every N iter
+    plot_every = 10  # vis every N iter
 
     # preset
     data = 'voc'

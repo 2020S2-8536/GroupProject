@@ -6,6 +6,7 @@ from model.roi_module import RoIPooling2D
 import model.method as method
 from model.utils.bbox_tools import loc2bbox
 from model.utils.nms import non_maximum_suppression
+from data.util import flip_bbox, resize_bbox
 import cupy as cp
 import numpy as np
 
@@ -45,7 +46,9 @@ class targetPredict(nn.Module):
         # print("size: ", size)
         # print("image: ", imgshape)
         my_scale = size[0] / imgshape[0]
-        roi = at.totensor(rois) * my_scale
+        roi = at.totensor(rois)
+        roi = resize_bbox(at.tonumpy(roi), imgshape, size)
+        roi = torch.tensor(roi).cuda()
         # print("size: ", size)
         # roi = at.totensor(rois)
         # print("roi: ", rois[0])
@@ -79,6 +82,7 @@ class targetPredict(nn.Module):
         raw_prob = at.tonumpy(prob)
 
         bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
+        print(score.shape)
 
         # print(bbox[156: 200])
 
@@ -131,7 +135,16 @@ class targetPredict(nn.Module):
 
             pred_obj_box_coor, pred_object_labels, pred_object_score = self.get_pred_object(Gau, bbox, label, score, pred_human_score, human_indexs)
             # pred_object location coordinates, action score
-            return pred_human_box_coor / my_scale, pred_obj_box_coor[0] / my_scale, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh, my_scale
+            pred_human_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
+            pred_obj_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
+
+            pred_obj_box_coor = flip_bbox(pred_obj_box_coor, imgshape)
+            pred_human_box_coor = flip_bbox(pred_human_box_coor, imgshape)
+
+            pred_obj_box_coor = torch.tensor(pred_obj_box_coor).cuda()
+            pred_human_box_coor = torch.tensor(pred_human_box_coor).cuda()
+
+            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh, my_scale
 
         elif self.mode == 'test':
             # 对每一个object都要求一个gaussian，需要pred_human box, pred_object box
@@ -167,14 +180,21 @@ class targetPredict(nn.Module):
                     if Gau > max_gau:
                         max_gau = Gau
                         best_ids = i
-            print("1", bbox[best_ids])
-            # pred_obj_box_coor = utils
-            print("2", pred_obj_box_coor)
+            # print("bbox: ", at.tonumpy(bbox[best_ids]))
+            pred_obj_box_coor = resize_bbox(np.array([bbox[best_ids]]), size, imgshape)
+            pred_human_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor) ,size, imgshape)
+
+            pred_obj_box_coor = flip_bbox(pred_obj_box_coor, imgshape)
+            pred_human_box_coor = flip_bbox(pred_human_box_coor, imgshape)
+
+            # pred_obj_box_coor = torch.tensor(pred_obj_box_coor).cuda()
+            # pred_human_box_coor = torch.tensor(pred_human_box_coor).cuda()
+
             pred_object_labels = [label[best_ids]]
             pred_object_score = [score[best_ids]]
 
             # print(pred_object_labels, pred_obj_box_coor)
-            return pred_human_box_coor / my_scale, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale
+            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, action_scores, my_scale
     # def action_classsify(img):
     #     '''
     #     To classcify action
