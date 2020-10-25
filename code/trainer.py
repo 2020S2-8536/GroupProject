@@ -171,13 +171,14 @@ class FasterRCNNTrainer(nn.Module):
             gt_roi_loc,
             gt_roi_label.data,
             self.roi_sigma)
+        # print("roi_score, gt_roi_label", roi_score, gt_roi_label)
         roi_cls_loss = nn.CrossEntropyLoss()(roi_score, gt_roi_label.cuda())
 
         # ------------------ Human Centric losses (fast rcnn loss) -------------------#
         ## action loss
         gt_action = t.tensor(gt_action, dtype=t.long).cuda()
         action_loss = nn.CrossEntropyLoss()(action_scores, gt_action)
-
+        # print("action_scores, gt_action", action_scores, gt_action)
         ## object location loss
         pred_object_loc, b_oh = pred_object_loc.cuda(),b_oh.cuda()
         gt_object_box = gt_object_box.cuda()

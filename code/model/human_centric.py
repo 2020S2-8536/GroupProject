@@ -82,8 +82,7 @@ class targetPredict(nn.Module):
         raw_prob = at.tonumpy(prob)
 
         bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
-        print(score.shape)
-
+        
         # print(bbox[156: 200])
 
         pred_human_box_coor, pred_human_score, human_indexs = self.get_pred_human_box(bbox, label, score) # human coordinates
