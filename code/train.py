@@ -56,7 +56,7 @@ def train(**kwargs):
     print('load data')
     dataloader = data_.DataLoader(dataset, \
                                   batch_size=1, \
-                                  shuffle=True, \
+                                  shuffle=False, \
                                   # pin_memory=True,
                                   num_workers=opt.num_workers)
     testset = TestDataset(opt)

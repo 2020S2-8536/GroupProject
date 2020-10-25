@@ -76,7 +76,7 @@ class targetPredict(nn.Module):
 
         bbox, label, score = self._suppress(raw_cls_bbox, raw_prob)
         bbox = resize_bbox(bbox, imgshape, size)
-        print("bbox", bbox.shape,"label", label.shape, "score: ", score.shape)
+        print("bbox", bbox,"label", label, "score: ", score)
 
         pred_human_box_coor, pred_human_score, human_indexs = self.get_pred_human_box(bbox, label, score) # human coordinates
         roi_indices = torch.tensor([0]).cuda().float()
