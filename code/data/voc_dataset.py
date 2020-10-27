@@ -96,7 +96,7 @@ class HICODataset:
             i (int): The index of the example.
 
         Returns:
-            tuple of an image and bounding boxes
+            tuple of an image and boundin g boxes
             10.18 Update, img(W, H, C) -> (C, H, W), bboxes coordinates (xmin, mmax, ymin, ymax) - > (ymin, xmin, ymax, xmax), labels
             gt_human_bbox, gt_object bbox, action
         """
