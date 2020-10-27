@@ -33,15 +33,16 @@ def eval(dataloader, faster_rcnn, test_num=10000):
         object_box, human_box, scores, action, labels = faster_rcnn.predict(imgs, [sizes])
         gt_bboxes += list(gt_bboxes_.numpy())
         gt_labels += list(gt_labels_.numpy())
-        # gt_difficults += list(gt_difficults_.numpy())
         pred_bboxes.append(object_box)
-        pred_labels.append(labels)
         pred_scores.append(scores)
-
+        pred_labels.append(labels)
         if ii == test_num: break
+
     pred_bboxes = np.array(pred_bboxes)
     pred_labels = np.array(pred_labels)
     pred_scores = np.array(pred_scores)
+    gt_bboxes = np.array(gt_bboxes)
+    gt_labels = np.array(gt_labels)
     result = eval_detection_voc(
         pred_bboxes, pred_labels, pred_scores,
         gt_bboxes, gt_labels,
@@ -56,7 +57,7 @@ def train(**kwargs):
     print('load data')
     dataloader = data_.DataLoader(dataset, \
                                   batch_size=1, \
-                                  shuffle=False, \
+                                  shuffle=True, \
                                   # pin_memory=True,
                                   num_workers=opt.num_workers)
     testset = TestDataset(opt)
@@ -94,7 +95,8 @@ def train(**kwargs):
                 ori_img_ = inverse_normalize(at.tonumpy(img[0]))
                 gt_img = visdom_bbox(ori_img_,
                                      at.tonumpy(bbox_[0]),
-                                     at.tonumpy(label_[0])
+                                     at.tonumpy(label_[0]),
+                                     action = at.tonumpy(action[0])
                                      )
                 trainer.vis.img('gt_img', gt_img)
 
@@ -105,7 +107,8 @@ def train(**kwargs):
                 pred_img = visdom_bbox(ori_img_,
                                        np.array(object_box[0]),
                                        np.array(labels[0]),
-                                       np.array(scores[0]))
+                                       np.array(scores[0]),
+                                       action = np.array(action))
                 trainer.vis.img('pred_img', pred_img)
 
                 # rpn confusion matrix(meter)
