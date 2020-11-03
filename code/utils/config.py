@@ -7,7 +7,7 @@ from pprint import pprint
 
 class Config:
     # data
-    hico_data_dir = '/home/dzc/Desktop/ANU/8526Project/GroupProject/code/HICO/images/'
+    hico_data_dir = 'E:/8536Group/GroupProject/code/HICO/images/'
     min_size = 400  # image resize
     max_size = 640 # image resize
     num_workers = 8
@@ -45,10 +45,11 @@ class Config:
 
     test_num = 10000
     # model
-    load_path = "/home/dzc/Desktop/ANU/8526Project/GroupProject/code/checkpoints/fasterrcnn_10270730_0.009745543699166226"
+    # load_path = "E:/8536Group/GroupProject/code/checkpoints/fasterrcnn_10270730_0.009745543699166226"
+    load_path = None
 
     caffe_pretrain = False # use caffe pretrained model instead of torchvision
-    caffe_pretrain_path = '/home/dzc/Desktop/simple-faster-rcnn-pytorch-1.0/checkpoints/vgg16_caffe.pth'
+    caffe_pretrain_path = 'C:/Users/11468/.cache/torch/hub/checkpoints/vgg16-397923af.pth'
 
     def _parse(self, kwargs):
         state_dict = self._state_dict()

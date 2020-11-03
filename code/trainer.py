@@ -134,8 +134,8 @@ class FasterRCNNTrainer(nn.Module):
             sample_roi_index)
 
         # pred object, pred action score
-        _, _, _,_,\
-         pred_object_loc, action_scores, _, _ = self.faster_rcnn.branch2(
+        _, _, _,\
+         mu_ah,pred_object_loc, action_scores, b_oh, _ = self.faster_rcnn.branch2(
             features,
             roi_score,
             roi_cls_loc,
@@ -195,13 +195,15 @@ class FasterRCNNTrainer(nn.Module):
         #     sigma = t.std(data, axis=0)
         #     return (data - mu) / sigma
 
-        object_loss = nn.SmoothL1Loss()(pred_object_loc, gt_object_box)
-
+        object_loss = nn.SmoothL1Loss()(mu_ah, b_oh)
+        print("mu_ah:", mu_ah)
+        print("b_oh:", b_oh)
+        print(object_loss)
         self.roi_cm.add(at.totensor(roi_score, False), gt_roi_label.data.long())
 
-        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss, action_loss,(1/100) * object_loss]
+        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss, (1/10)*action_loss, (1/10)*object_loss]
         losses = losses + [sum(losses)]
-
+        # print(losses)
         return LossTuple(*losses)
 
     def train_step(self, imgs, bboxes, labels, scale, gt_human_box, gt_object_box, gt_action):

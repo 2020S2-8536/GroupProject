@@ -118,32 +118,38 @@ class targetPredict(nn.Module):
             b_oh = method.b_oh(gt_object_boh, gt_human_boh)
 
             # Gaussian
-            x_mu = (pred_object_loc[0][3] + pred_object_loc[0][1]) / 2
-            y_mu = (pred_object_loc[0][2] + pred_object_loc[0][0]) / 2
-            w_mu = pred_object_loc[0][3] - pred_object_loc[0][1]
-            h_mu = pred_object_loc[0][2] - pred_object_loc[0][0]
-            mu_ah = torch.tensor([x_mu, y_mu, w_mu, h_mu])
-
-            Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
+            # x_mu = (pred_object_loc[0][3] + pred_object_loc[0][1]) / 2
+            # y_mu = (pred_object_loc[0][2] + pred_object_loc[0][0]) / 2
+            # w_mu = abs(pred_object_loc[0][3] - pred_object_loc[0][1])
+            # h_mu = abs(pred_object_loc[0][2] - pred_object_loc[0][0])
+            # mu_ah = torch.tensor([x_mu, y_mu, w_mu, h_mu])
+            # mu_ah = method.b_oh(mu_ah,gt_human_boh)
+            mu_ah = pred_object_loc
+            print("loc:",pred_object_loc)
+            # Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
 
             # argmax
             # print(bbox)
 
-            pred_obj_box_coor, pred_object_labels, pred_object_score = self.get_pred_object(Gau, bbox, label, score, pred_human_score, human_indexs)
+            # pred_obj_box_coor, pred_object_labels, pred_object_score = self.get_pred_object(Gau, bbox, label, score, pred_human_score, human_indexs)
             # pred_object location coordinates, action score
+            pred_object_labels = None
             pred_human_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
-            pred_obj_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
+            # pred_obj_box_coor = resize_bbox(at.tonumpy(pred_human_box_coor), size, imgshape)
+            pred_obj_box_coor = None
             pred_object_loc = resize_bbox(at.tonumpy(pred_object_loc), size, imgshape)
 
             # pred_obj_box_coor = flip_bbox(pred_obj_box_coor, imgshape)
             # pred_human_box_coor = flip_bbox(pred_human_box_coor, imgshape)
             # pred_object_loc = flip_bbox(pred_object_loc,imgshape)
 
-            pred_obj_box_coor = torch.tensor(pred_obj_box_coor).cuda()
+            # pred_obj_box_coor = torch.tensor(pred_obj_box_coor).cuda()
+            mu_ah = torch.tensor(mu_ah).cuda()
             pred_human_box_coor = torch.tensor(pred_human_box_coor).cuda()
             pred_object_loc = torch.tensor(pred_object_loc).cuda()
+            b_oh = torch.tensor(b_oh).cuda()
 
-            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, pred_object_score, pred_object_loc, action_scores, b_oh, my_scale
+            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, mu_ah, pred_object_loc, action_scores, b_oh, my_scale
 
         elif self.mode == 'test':
             # 对每一个object都要求一个gaussian，需要pred_human box, pred_object box
@@ -156,12 +162,14 @@ class targetPredict(nn.Module):
             w_h = pred_human_box_coor[0][3] - pred_human_box_coor[0][1]
             h_h = pred_human_box_coor[0][2] - pred_human_box_coor[0][0]
             human_boh = torch.tensor([x_h, y_h, w_h, h_h])
+            mu_ah = pred_object_loc
+            # x_mu = (pred_object_loc[0][3] + pred_object_loc[0][1]) / 2
+            # y_mu = (pred_object_loc[0][2] + pred_object_loc[0][0]) / 2
+            # w_mu = abs(pred_object_loc[0][3] - pred_object_loc[0][1])
+            # h_mu = abs(pred_object_loc[0][2] - pred_object_loc[0][0])
+            # mu_ah = torch.tensor([x_mu, y_mu, w_mu, h_mu])
+            # mu_ah = method.b_oh(mu_ah,human_boh)
 
-            x_mu = (pred_object_loc[0][3] + pred_object_loc[0][1]) / 2
-            y_mu = (pred_object_loc[0][2] + pred_object_loc[0][0]) / 2
-            w_mu = pred_object_loc[0][3] - pred_object_loc[0][1]
-            h_mu = pred_object_loc[0][2] - pred_object_loc[0][0]
-            mu_ah = torch.tensor([x_mu, y_mu, w_mu, h_mu])
             best_ids = 0
             max_gau = 0
 
@@ -176,8 +184,8 @@ class targetPredict(nn.Module):
                     b_oh = method.b_oh(gt_object_boh, human_boh)
 
                     Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
-                    if Gau > max_gau:
-                        max_gau = Gau
+                    if Gau * score[i] > max_gau:
+                        max_gau = Gau * score[i]
                         best_ids = i
             # print("bbox: ", at.tonumpy(bbox[best_ids]))
             pred_obj_box_coor = resize_bbox(np.array([bbox[best_ids]]), size, imgshape)
@@ -251,9 +259,12 @@ class targetPredict(nn.Module):
         max_score = 0
         if pred_obj_scores.shape[0] == 0:
             return torch.zeros(1,4), 0, 0
+        print(pred_obj_scores)
         for i in range(pred_labels.shape[0]):
-            if gau * pred_obj_scores[i] * pred_human_score > max_score and i not in human_indexs:
-                max_score = gau * pred_obj_scores[i] * pred_human_score
+            # if gau * pred_obj_scores[i] * pred_human_score > max_score and i not in human_indexs:
+            if gau * pred_obj_scores[i] > max_score and i not in human_indexs:
+                # max_score = gau * pred_obj_scores[i] * pred_human_score
+                max_score = gau * pred_obj_scores[i] 
                 max_idx = i
         return pred_bboxes[max_idx], pred_labels[max_idx], pred_obj_scores[max_idx]
 

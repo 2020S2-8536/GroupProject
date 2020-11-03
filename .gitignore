@@ -10,3 +10,5 @@
 /code/HICO/images/test2015/*
 /code/HICO/images/train2015/*
 /code/HICO/*.mat
+code/checkpoints/fasterrcnn_11031538_0.008105841617519125
+code/checkpoints/fasterrcnn_11031538_0.008105841617519125
