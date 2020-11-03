@@ -261,8 +261,8 @@ class FasterRCNN(nn.Module):
             pred_human_box_coor = resize_bbox(pred_human_box_coor, (img.shape[2],img.shape[3]), (size[0], size[1]))
             pred_obj_box_coor = resize_bbox(pred_obj_box_coor, (img.shape[2],img.shape[3]), (size[0], size[1]))
 
-            # pred_human_box_coor = flip_bbox(pred_human_box_coor, (size[0], size[1]))
-            # pred_obj_box_coor = flip_bbox( pred_obj_box_coor, (size[0], size[1]))
+            pred_human_box_coor = flip_bbox(pred_human_box_coor, (size[0], size[1]))
+            pred_obj_box_coor = flip_bbox( pred_obj_box_coor, (size[0], size[1]))
 
             # pred_human_box_coor = pred_human_box_coor / scale
             # pred_obj_box_coor = [pred_obj_box_coor[0] / scale]

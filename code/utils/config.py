@@ -45,7 +45,10 @@ class Config:
 
     test_num = 10000
     # model
+<<<<<<< HEAD
     # load_path = "E:/8536Group/GroupProject/code/checkpoints/fasterrcnn_10270730_0.009745543699166226"
+=======
+>>>>>>> parent of 4d4c5d9... Update 10.27
     load_path = None
 
     caffe_pretrain = False # use caffe pretrained model instead of torchvision

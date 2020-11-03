@@ -201,7 +201,11 @@ class FasterRCNNTrainer(nn.Module):
         print(object_loss)
         self.roi_cm.add(at.totensor(roi_score, False), gt_roi_label.data.long())
 
+<<<<<<< HEAD
         losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss, (1/10)*action_loss, (1/10)*object_loss]
+=======
+        losses = [rpn_loc_loss, rpn_cls_loss, roi_loc_loss, roi_cls_loss,(1/500000) *  action_loss,(1/1000000) * object_loss]
+>>>>>>> parent of 4d4c5d9... Update 10.27
         losses = losses + [sum(losses)]
         # print(losses)
         return LossTuple(*losses)

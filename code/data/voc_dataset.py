@@ -70,8 +70,12 @@ class HICODataset:
         #             'for 2012 dataset. For 2007 dataset, you can pick \'test\''
         #             ' in addition to the above mentioned splits.'
         #         )
+<<<<<<< HEAD
         # self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')
         self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')
+=======
+        self.ids = self.get_imgNames(data_dir + '/annotation/' + split + '/')[:50]
+>>>>>>> parent of 4d4c5d9... Update 10.27
         self.data_dir = data_dir
         self.split = split
         self.label_names = VOC_BBOX_LABEL_NAMES
@@ -84,7 +88,7 @@ class HICODataset:
         imgs = os.listdir(path)
         for i in range(len(imgs)):
             imgs_list.append(int(imgs[i][:-4]))
-            random.shuffle(imgs_list)
+            # random.shuffle(imgs_list)
         return imgs_list
 
     def get_example(self, i):

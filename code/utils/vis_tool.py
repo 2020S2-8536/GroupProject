@@ -14,9 +14,9 @@ from matplotlib import pyplot as plot
 VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
                             'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
 
-HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
-              'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
-              'race')
+# HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
+#               'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
+#               'race')
 
 def vis_image(img, ax=None):
     """Visualize a color image.
@@ -87,7 +87,6 @@ def vis_bbox(img, bbox, label=None, score=None, ax=None,action= None):
         return ax
 
     for i, bb in enumerate(bbox):
-        ctr = 0
         xy = (bb[1], bb[0])
         height = bb[2] - bb[0]
         width = bb[3] - bb[1]
@@ -105,12 +104,6 @@ def vis_bbox(img, bbox, label=None, score=None, ax=None,action= None):
         if score is not None:
             sc = score[i]
             caption.append('{:.2f}'.format(sc))
-        print(action)
-        if action is not None and lb == 14 and ctr == 0:
-
-            ctr += 1
-            ac = action[0]
-            caption.append(HICO_ACTIONS[ac])
 
         if len(caption) > 0:
             ax.text(bb[1], bb[0],
