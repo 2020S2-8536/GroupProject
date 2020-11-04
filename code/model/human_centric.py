@@ -9,6 +9,8 @@ from model.utils.nms import non_maximum_suppression
 from data.util import flip_bbox, resize_bbox
 import cupy as cp
 import numpy as np
+from utils.config import opt
+from torchvision.models import vgg16
 
 VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','dining_table',
                             'dog','horse','motorcycle','human','potted_plant','sheep','couch','train','tv')
@@ -16,7 +18,31 @@ VOC_BBOX_LABEL_NAMES =  ('airplane','bicycle','bird','boat','bottle','bus','car'
 HICO_ACTIONS = ('board', 'ride', 'sit_on','pet', 'watch', 'feed', 'hold', 'drive', 'board', 'sail', 'stand_on', 'carry', 'drink_with',
               'open', 'hug', 'kiss', 'lie_on', 'herd', 'walk', 'clean', 'eat_at', 'sit_at', 'run', 'train', 'hop_on', 'greet',
               'race')
+# def decom_vgg16():
+#     # the 30th layer of features is relu of conv5_3
+#     if opt.caffe_pretrain:
+#         model = vgg16(pretrained=False)
+#         if not opt.load_path:
+#             model.load_state_dict(t.load(opt.caffe_pretrain_path))
+#     else:
+#         model = vgg16(not opt.load_path)
 
+#     features = list(model.features)[:30]
+#     classifier = model.classifier
+
+#     classifier = list(classifier)
+#     del classifier[6]
+#     if not opt.use_drop:
+#         del classifier[5]
+#         del classifier[2]
+#     classifier = nn.Sequential(*classifier)
+
+#     # freeze top4 conv
+#     for layer in features[:10]:
+#         for p in layer.parameters():
+#             p.requires_grad = False
+
+#     return nn.Sequential(*features), classifier
 class targetPredict(nn.Module):
     def __init__(self,  classifier, loc_normalize_mean = (0., 0., 0., 0.),
                 loc_normalize_std = (0.1, 0.1, 0.2, 0.2),):
@@ -125,7 +151,7 @@ class targetPredict(nn.Module):
             # mu_ah = torch.tensor([x_mu, y_mu, w_mu, h_mu])
             # mu_ah = method.b_oh(mu_ah,gt_human_boh)
             mu_ah = pred_object_loc
-            print("loc:",pred_object_loc)
+            # print("loc:",pred_object_loc)
             # Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
 
             # argmax
@@ -148,8 +174,14 @@ class targetPredict(nn.Module):
             pred_human_box_coor = torch.tensor(pred_human_box_coor).cuda()
             pred_object_loc = torch.tensor(pred_object_loc).cuda()
             b_oh = torch.tensor(b_oh).cuda()
+            action_res = F.softmax(action_scores)
+            # action_idx = action_res.argmax()
+            # print(action_res)
+            # print("idx",action_res[0][action_idx])
+            # print(F.softmax(action_scores))
+            # print()
 
-            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, mu_ah, pred_object_loc, action_scores, b_oh, my_scale
+            return pred_human_box_coor, pred_obj_box_coor, pred_object_labels, mu_ah, pred_object_loc, action_res, b_oh, my_scale
 
         elif self.mode == 'test':
             # 对每一个object都要求一个gaussian，需要pred_human box, pred_object box
@@ -182,10 +214,15 @@ class targetPredict(nn.Module):
                     h_o = bbox[i][2] - bbox[i][0]
                     gt_object_boh = torch.tensor([x_o, y_o, w_o, h_o])
                     b_oh = method.b_oh(gt_object_boh, human_boh)
-
                     Gau = method.Gaussian_fuc(b_oh, mu_ah, sigma=0.3)
-                    if Gau * score[i] > max_gau:
-                        max_gau = Gau * score[i]
+                    # print(pred_human_score)
+                    # print(action_scores)
+                    action_res = F.softmax(action_scores)
+                    action_idx = action_res.argmax()
+                    S_aho = pred_human_score * score[i] * action_res[0][action_idx] * Gau
+                    print(S_aho)
+                    if Gau * score[i] * S_aho > max_gau:
+                        max_gau = Gau * score[i] * S_aho
                         best_ids = i
             # print("bbox: ", at.tonumpy(bbox[best_ids]))
             pred_obj_box_coor = resize_bbox(np.array([bbox[best_ids]]), size, imgshape)
